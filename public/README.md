@@ -1,1 +1,0 @@
-# sparsick.github.io
