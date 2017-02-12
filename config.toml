@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
   organization = "Softwareentwicklung, Beratung, Coaching"
   avatar = "foto.jpg"
   email = "mail (at) sandra-parsick.de"
-  address = "Münchener Str. 42c, 41472 Neuss"
+  address = "Neuss"
   office_hours = ""
   phone = "+49 176 700 56 222"
   skype = ""
@@ -86,7 +86,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:sparsick@web.de"
+    link = "mailto:mail(at)sandra-parsick.de"
 
   [[params.social]]
     icon = "twitter"
