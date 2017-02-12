@@ -129,10 +129,10 @@ defaultContentLanguageInSubdir = false
   url = "https://blog.sandra-parsick.de"
   weight = 3
 
-# [[menu.main]]
-#   name = "Projects"
-#   url = "#projects"
-#   weight = 4
+[[menu.main]]
+  name = "Projekte"
+  url = "#projects"
+  weight = 4
 
 [[menu.main]]
   name = "Kontakt"
