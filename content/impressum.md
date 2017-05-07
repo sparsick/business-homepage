@@ -55,10 +55,23 @@ soweit m&ouml;glich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre 
 nicht an Dritte weitergegeben.</p> <p>Wir weisen darauf hin, dass die Daten&uuml;bertragung im Internet (z.B.
 bei der Kommunikation per E-Mail) Sicherheitsl&uuml;cken aufweisen kann. Ein l&uuml;ckenloser Schutz der
 Daten vor dem Zugriff durch Dritte ist nicht m&ouml;glich.</p><p>&nbsp;</p> <h2>Datenschutzerkl&auml;rung
-f&uuml;r die Nutzung von Xing</h2> <p>Unsere Webseite nutzt Funktionen des Netzwerks XING. Anbieter ist
-die XING AG, Dammtorstra&szlig;e 29-32, 20354 Hamburg, Deutschland. Bei jedem Abruf einer unserer Seiten,
-die Funktionen von Xing enth&auml;lt, wird eine Verbindung zu Servern von Xing hergestellt. Eine Speicherung
-von personenbezogenen Daten erfolgt dabei nach unserer Kenntnis nicht. Insbesondere werden keine IP-
-Adressen gespeichert oder das Nutzungsverhalten ausgewertet.</p> <p>Weitere Information zum Datenschutz
-und dem Xing Share-Button finden Sie in der Datenschutzerkl&auml;rung von Xing unter <a
-href="https://www.xing.com/app/share?op=data_protection">https://www.xing.com/app/share?op=data_protection</a></p>
+f&uuml;r die Nutzung von Google Analytics</h2> <p>Diese Website nutzt Funktionen des Webanalysedienstes
+Google Analytics. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA.</p>
+<p>Google Analytics verwendet sog. "Cookies". Das sind Textdateien, die auf Ihrem Computer gespeichert
+werden und die eine Analyse der Benutzung der Website durch Sie erm&ouml;glichen. Die durch den Cookie
+erzeugten Informationen &uuml;ber Ihre Benutzung dieser Website werden in der Regel an einen Server von
+Google in den USA &uuml;bertragen und dort gespeichert.</p> <p>Mehr Informationen zum Umgang mit
+Nutzerdaten bei Google Analytics finden Sie in der Datenschutzerkl&auml;rung von Google: <a
+href="https://support.google.com/analytics/answer/6004245?hl=de">https://support.google.com/analytics/answer/6004245
+<p><strong>Browser Plugin</strong></p> <p>Sie k&ouml;nnen die Speicherung der Cookies durch eine
+entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in
+diesem Fall gegebenenfalls nicht s&auml;mtliche Funktionen dieser Website vollumf&auml;nglich werden nutzen
+k&ouml;nnen. Sie k&ouml;nnen dar&uuml;ber hinaus die Erfassung der durch das Cookie erzeugten und auf
+Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser
+Daten durch Google verhindern, indem sie das unter dem folgenden Link verf&uuml;gbare Browser-Plugin
+herunterladen und installieren: <a
+href="https://tools.google.com/dlpage/gaoptout?hl=de">https://tools.google.com/dlpage/gaoptout?hl=de</a></p>
+<p><strong>Widerspruch gegen Datenerfassung</strong></p> <p>Sie k&ouml;nnen die Erfassung Ihrer Daten
+durch Google Analytics verhindern, indem Sie auf folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt,
+dass das Erfassung Ihrer Daten bei zuk&uuml;nftigen Besuchen dieser Website verhindert: <a
+href="javascript:gaOptout();">Google Analytics deaktivieren</a></p>
