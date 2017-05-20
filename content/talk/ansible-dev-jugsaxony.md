@@ -11,10 +11,11 @@ url_video = ""
 url_pdf = ""
 event = "JUG Saxony Day"
 title = "Ansible für Entwickler"
+[[url_custom]]
+name = "Code"
+url = "https://github.com/sparsick/ansible-talk/tree/jugsaxony16"
 
 +++
-
-Source-Code: https://github.com/sparsick/ansible-talk/tree/jugsaxony16
 
 Tweets:
 https://twitter.com/lcmatrix/status/781832604790231040

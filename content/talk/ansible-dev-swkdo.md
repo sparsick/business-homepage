@@ -11,6 +11,9 @@ event = "Softwerkskammer Dortmund Meetup"
 abstract_short = ""
 abstract = "Ansible ist ein Orchestrierungswerkzeug vergleichbar mit Chef oder Puppet. Der Vortrag gibt eine Einführung in Ansible und zeigt wie sich Ansible von anderen Werkzeug dieser Art unterscheidet. Zusätzlich wird darauf eingegangen, warum Ansible vor allem für Entwickler interessant sein kann. "
 title = "Ansible for Developer "
-url_code = "https://github.com/sparsick/ansible-talk/tree/swkdo"
+
+[[url_custom]]
+name = "Code"
+url = "https://github.com/sparsick/ansible-talk/tree/swkdo"
 
 +++

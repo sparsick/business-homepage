@@ -12,8 +12,10 @@ url_slides = "https://github.com/sparsick/ansible-talk/blob/entwicklertageffm16/
 date = "2016-03-10"
 url_video = ""
 
+[[url_custom]]
+name = "Code"
+url = "https://github.com/sparsick/ansible-talk/tree/entwicklertageffm16"
 +++
-Source-Code: https://github.com/sparsick/ansible-talk/tree/entwicklertageffm16
 
 Tweets:
 

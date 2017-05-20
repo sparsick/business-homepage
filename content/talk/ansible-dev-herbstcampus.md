@@ -11,6 +11,7 @@ selected = true
 abstract_short = ""
 title = "Ansible für Devs – Konfigurationsmanagement nicht nur für Ops "
 math = false
-
+[[url_custom]]
+name = "Code"
+url = "https://github.com/sparsick/ansible-talk/blob/herbstcampus16"
 +++
-Source-Code: https://github.com/sparsick/ansible-talk/blob/herbstcampus16

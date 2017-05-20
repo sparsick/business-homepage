@@ -11,7 +11,7 @@ math = false
 url_slides = "https://github.com/sparsick/ansible-talk/blob/rheinjug2016/slides/2016.02%20-%20rheinJUG%20-%20Ansible_for_developer.pdf"
 url_pdf = ""
 url_video = "http://mediathek.hhu.de/watch/5dcd4ec4-bc7a-4188-ba5c-e9d97dbad429"
-
+[[url_custom]]
+name = "Code"
+url = "https://github.com/sparsick/ansible-talk/tree/rheinjug2016"
 +++
-
-Source-Code: https://github.com/sparsick/ansible-talk/tree/rheinjug2016

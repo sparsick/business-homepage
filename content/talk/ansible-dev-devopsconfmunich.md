@@ -12,5 +12,8 @@ url_slides = "https://github.com/sparsick/ansible-talk/blob/devopsconmunich16/sl
 selected = true
 event = "DevOpsConf"
 
+[[url_custom]]
+name = "Code"
+url = "https://github.com/sparsick/ansible-talk/blob/devopsconmunich16"
+
 +++
-Source-Code: https://github.com/sparsick/ansible-talk/blob/devopsconmunich16

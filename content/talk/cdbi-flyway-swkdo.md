@@ -11,6 +11,8 @@ math = false
 date = "2013-09-25"
 url_video = ""
 url_pdf = ""
-url_code = "https://github.com/sparsick/flyway-talk/tree/flyway-talk-swkdo"
+[[url_custom]]
+name = "Code"
+url = "https://github.com/sparsick/flyway-talk/tree/flyway-talk-swkdo"
 
 +++

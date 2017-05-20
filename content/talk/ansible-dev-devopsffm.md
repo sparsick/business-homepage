@@ -11,6 +11,8 @@ location = "Frankfurt am Main"
 title = "Ansible für Devs – Konfigurationsmanagement nicht nur für Ops"
 selected = true
 url_pdf = ""
+[[url_custom]]
+name = "Code"
+url = "https://github.com/sparsick/ansible-talk/blob/devopsffm16"
 
 +++
-Source-Code: https://github.com/sparsick/ansible-talk/blob/devopsffm16

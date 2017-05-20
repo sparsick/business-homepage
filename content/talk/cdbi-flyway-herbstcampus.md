@@ -11,7 +11,7 @@ selected = true
 location = "Nürnberg"
 event = "Herbstcampus"
 title = "Auch SQL ist Source-Code - Continuous Database Integration mit Flyway "
-
+[[url_custom]]
+name = "Code"
+url = "https://github.com/sparsick/flyway-talk/blob/flyway-talk-herbstcampus-15"
 +++
-
-Source Code ist auf [Github](https://github.com/sparsick/flyway-talk/blob/flyway-talk-herbstcampus-15) zu finden.

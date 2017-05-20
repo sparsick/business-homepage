@@ -11,10 +11,13 @@ math = false
 url_slides = "http://www.xpdays.de/2015/downloads/013-continuous-database-integration-mit-flyway/013-continuous-database-integration-mit-flyway.pdf"
 selected = true
 abstract_short = ""
+[[url_custom]]
+name = "Code"
+url = "https://github.com/sparsick/flyway-talk/tree/flyway-talk-xpdaysde-15"
 
 +++
 
-Source-Code ist auf [Github](https://github.com/sparsick/flyway-talk/tree/flyway-talk-xpdaysde-15) zu finden.
+Tweets:
 
 https://twitter.com/findingmarbles/status/669988004728016897
 https://twitter.com/SandraParsick/status/670211450309316608
