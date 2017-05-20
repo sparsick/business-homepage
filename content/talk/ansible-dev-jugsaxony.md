@@ -4,8 +4,8 @@ abstract = "Das automatisierte Konfigurieren von Servern ist dank Werkzeuge wie 
 selected = true
 abstract_short = ""
 location = "Dresden"
-url_slides = "https://github.com/sparsick/ansible-talk/blob/herbstcampus16/slides/2016.08%20-%20Herbstcampus%20-%20Ansible_for_developer.pdf"
-event_url = "http://jug-saxony-day.org/programm/#/V73"
+url_slides = "https://github.com/sparsick/ansible-talk/blob/jugsaxony16/slides/2016.09%20-%20JUGSaxony%20-%20Ansible_for_developer.pdf"
+event_url = "https://jug-saxony-day.org/2016/programm/#/V73"
 math = false
 url_video = ""
 url_pdf = ""
@@ -14,7 +14,7 @@ title = "Ansible für Entwickler"
 
 +++
 
-Source-Code: https://github.com/sparsick/ansible-talk/blob/herbstcampus16
+Source-Code: https://github.com/sparsick/ansible-talk/tree/jugsaxony16
 
 Tweets:
 https://twitter.com/lcmatrix/status/781832604790231040
