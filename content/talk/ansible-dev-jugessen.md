@@ -17,11 +17,17 @@ name = "Code"
 url = "https://github.com/sparsick/ansible-talk/tree/jugessen17"
 
 +++
-Some Tweets:
-https://twitter.com/rattermeyer/status/869605258300985346
 
-https://twitter.com/hgutwit/status/869601763531378689
+Some reactions:
 
-https://twitter.com/swiedsw/status/869600093028184064
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Ansible für Java Entwickler mit <a href="https://twitter.com/SandraParsick">@SandraParsick</a> bei der <a href="https://twitter.com/JUG_Essen">@JUG_Essen</a> <a href="https://t.co/Ab6mMAfVCJ">pic.twitter.com/Ab6mMAfVCJ</a></p>&mdash; Richard Attermeyer (@rattermeyer) <a href="https://twitter.com/rattermeyer/status/869605258300985346">May 30, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-https://twitter.com/jonashackt/status/869440498443984897
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Listening 2 <a href="https://twitter.com/SandraParsick">@SandraParsick</a> talking about <a href="https://twitter.com/hashtag/ansible?src=hash">#ansible</a> 4 <a href="https://twitter.com/hashtag/java?src=hash">#java</a> developers <a href="https://twitter.com/JUG_Essen">@JUG_Essen</a></p>&mdash; Halil-Cem Gürsoy (@hgutwit) <a href="https://twitter.com/hgutwit/status/869601763531378689">30. Mai 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Ansible für Java-Entwickler - jetzt bei der <a href="https://twitter.com/JUG_Essen">@JUG_Essen</a>! <a href="https://twitter.com/SandraParsick">@SandraParsick</a> <a href="https://t.co/F9Vh1HOUaL">pic.twitter.com/F9Vh1HOUaL</a></p>&mdash; Sascha Wiedenfeld (@swiedsw) <a href="https://twitter.com/swiedsw/status/869600093028184064">30. Mai 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Thank you :)</p>&mdash; Sandra Parsick (@SandraParsick) <a href="https://twitter.com/SandraParsick/status/869665985464348672">30. Mai 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
