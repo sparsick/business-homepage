@@ -2,10 +2,10 @@
 url_slides = ""
 abstract_short = ""
 math = false
-event = "DevOps Meetup"
+event = "DevOps Düsseldorf"
 title = "Continuous Database Integration with Flyway"
 url_video = ""
-event_url = ""
+event_url = "https://www.meetup.com/de-DE/devops-duesseldorf/"
 selected = true
 location = "Düsseldorf"
 date = "2017-07-12"
