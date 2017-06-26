@@ -18,7 +18,7 @@ url = "https://github.com/sparsick/ansible-talk/tree/jugessen17"
 
 +++
 
-Some reactions:
+Einige Reaktionen
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Ansible für Java Entwickler mit <a href="https://twitter.com/SandraParsick">@SandraParsick</a> bei der <a href="https://twitter.com/JUG_Essen">@JUG_Essen</a> <a href="https://t.co/Ab6mMAfVCJ">pic.twitter.com/Ab6mMAfVCJ</a></p>&mdash; Richard Attermeyer (@rattermeyer) <a href="https://twitter.com/rattermeyer/status/869605258300985346">May 30, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

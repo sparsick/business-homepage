@@ -17,12 +17,22 @@ url = "https://github.com/sparsick/flyway-talk/tree/flyway-talk-xpdaysde-15"
 
 +++
 
-Tweets:
+Einige Reaktionen
 
-https://twitter.com/findingmarbles/status/669988004728016897
-https://twitter.com/SandraParsick/status/670211450309316608
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Sketchnote zu &quot;Continuous Database Integration mit FlyWay&quot; von <a href="https://twitter.com/SandraParsick">@SandraParsick</a> bei den <a href="https://twitter.com/xd_de">@xd_de</a> <a href="https://twitter.com/hashtag/xdde15?src=hash">#xdde15</a> <a href="https://t.co/JWwHbKqyH0">pic.twitter.com/JWwHbKqyH0</a></p>&mdash; Corinna Baldauf (@findingmarbles) <a href="https://twitter.com/findingmarbles/status/669988004728016897">26. November 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-https://twitter.com/jbrains/status/669803973101158400
-https://twitter.com/jbrains/status/669804282049396736
-https://twitter.com/jbrains/status/669808068104966144
-https://twitter.com/jbrains/status/669813316634681344
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Sketchnote from my <a href="https://twitter.com/hashtag/flyway?src=hash">#flyway</a> session by <a href="https://twitter.com/benjaminfelis">@benjaminfelis</a> <a href="https://twitter.com/hashtag/xdde15?src=hash">#xdde15</a> <a href="https://t.co/bvBqKGUhmT">pic.twitter.com/bvBqKGUhmT</a></p>&mdash; Sandra Parsick (@SandraParsick) <a href="https://twitter.com/SandraParsick/status/670211450309316608">27. November 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/xdde15?src=hash">#xdde15</a> <a href="https://t.co/tGM7zeEVo7">pic.twitter.com/tGM7zeEVo7</a></p>&mdash; ☕ J. B. Rainsberger (@jbrains) <a href="https://twitter.com/jbrains/status/669803973101158400">26. November 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/xdde15?src=hash">#xdde15</a> <a href="https://t.co/nE8JXBijcX">pic.twitter.com/nE8JXBijcX</a></p>&mdash; ☕ J. B. Rainsberger (@jbrains) <a href="https://twitter.com/jbrains/status/669804282049396736">26. November 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/xdde15?src=hash">#xdde15</a> <a href="https://t.co/2YLhFMiQq3">pic.twitter.com/2YLhFMiQq3</a></p>&mdash; ☕ J. B. Rainsberger (@jbrains) <a href="https://twitter.com/jbrains/status/669808068104966144">26. November 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/xdde15?src=hash">#xdde15</a> <a href="https://t.co/zsEdVOL9T6">pic.twitter.com/zsEdVOL9T6</a></p>&mdash; ☕ J. B. Rainsberger (@jbrains) <a href="https://twitter.com/jbrains/status/669813316634681344">November 26, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
