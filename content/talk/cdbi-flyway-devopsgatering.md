@@ -1,5 +1,5 @@
 +++
-url_slides = "https://github.com/sparsick/flyway-talk/blob/flyway-talk-devops-meetup-17/slides/2017.07%20-%20DevOps%20Meetup%20DUS%20-%20Continuous%20Database%20Integration%20with%20Flyway.pdf"
+url_slides = ""
 abstract_short = ""
 math = false
 event = "DevOps Gathering 2018"
