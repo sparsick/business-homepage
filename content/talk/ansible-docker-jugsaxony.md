@@ -4,12 +4,17 @@ abstract = "Docker ist in aller Munde und wird gerne als Allheilösung für Depl
 selected = true
 abstract_short = ""
 location = "Dresden"
-url_slides = ""
+url_slides = "https://github.com/sparsick/ansible-docker-talk/blob/jugsaxonyday17/slides/17.09%20-%20Saxony%20Day%20-%20Es%20muss%20nicht%20immer%20gleich%20Docker%20sein%20-%20IT%20Automation%2C%20die%20zu%20einem%20passt.pdf"
 event_url = "https://jug-saxony-day.org/programm/#/ENT4"
 math = false
 url_video = ""
 url_pdf = ""
 event = "JUG Saxony Day"
 title = "Es muss nicht gleich Docker sein - IT Automation, die zu einem passt"
-
+url_code = "https://github.com/sparsick/ansible-docker-talk/tree/jugsaxonyday17"
 +++
+
+Tweet zum Vortrag
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Über <a href="https://twitter.com/hashtag/ansible?src=hash&amp;ref_src=twsrc%5Etfw">#ansible</a> zu <a href="https://twitter.com/hashtag/docker?src=hash&amp;ref_src=twsrc%5Etfw">#docker</a>. Ein Schritt nach dem anderen anstatt mit einem <a href="https://twitter.com/hashtag/bigBang?src=hash&amp;ref_src=twsrc%5Etfw">#bigBang</a>. Praktischer Ansatz im Talk von <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> <a href="https://twitter.com/hashtag/JSD2017?src=hash&amp;ref_src=twsrc%5Etfw">#JSD2017</a></p>&mdash; Marco Grunert (@magomi) <a href="https://twitter.com/magomi/status/913758634173243392?ref_src=twsrc%5Etfw">September 29, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
