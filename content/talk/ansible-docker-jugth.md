@@ -7,14 +7,14 @@ location = "Jena"
 url_slides = "https://github.com/sparsick/ansible-docker-talk/blob/jugth17/slides/17.09%20-%20JUGTh%20-%20Es%20muss%20nicht%20immer%20gleich%20Docker%20sein%20-%20IT%20Automation%2C%20die%20zu%20einem%20passt.pdf"
 event_url = "https://www.meetup.com/de-DE/jugthde/events/241399678/"
 math = false
-url_video = ""
+url_video = "http://youtu.be/7T60_8WVXsc?a"
 url_pdf = ""
 event = "JUG Thüringen"
 title = "Es muss nicht gleich Docker sein - IT Automation, die zu einem passt"
 url_code = "https://github.com/sparsick/ansible-docker-talk/tree/jugth17"
 
 +++
-Tweet zu Vortrag
+Tweets zum Vortrag
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Unsere Reiseroute heute zur Einführung von <a href="https://twitter.com/hashtag/Docker?src=hash&amp;ref_src=twsrc%5Etfw">#Docker</a> mit <a href="https://twitter.com/hashtag/Ansible?src=hash&amp;ref_src=twsrc%5Etfw">#Ansible</a> <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> 👍 <a href="https://t.co/lgEoL4Uv2E">pic.twitter.com/lgEoL4Uv2E</a></p>&mdash; JUG Thüringen (@jugthde) <a href="https://twitter.com/jugthde/status/913439554450976768?ref_src=twsrc%5Etfw">September 28, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
