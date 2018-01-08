@@ -1,6 +1,6 @@
 +++
 title = "Workshop: Ansible für Java-Entwickler"
-date = 2018-04-10  # Schedule page publish date.
+date = 2018-04-23  # Schedule page publish date.
 draft = false
 
 time_start = 2018-04-23
