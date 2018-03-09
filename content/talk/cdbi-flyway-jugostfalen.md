@@ -4,7 +4,7 @@ abstract_short = ""
 math = false
 event = "JUG Ostfalen"
 title = "Continuous Database Integration mit Flyway"
-url_video = ""
+url_video = "https://youtu.be/dzRzlDpdDW4"
 event_url = "http://www.jug-ostfalen.de/event/2018/02/08/flyway.html"
 selected = true
 location = "Braunschweig"
@@ -13,3 +13,7 @@ abstract = "Skripte für relationale Datenbanken werden von Entwicklern gerne st
 url_pdf = ""
 url_code = "https://github.com/sparsick/flyway-talk/tree/jugostfalen-18"
 +++
+
+**Was sagen die anderen**
+
+* [Blog Post von GOD](http://www.god.de/god/god-richtet-jug-treffen-aus/)
