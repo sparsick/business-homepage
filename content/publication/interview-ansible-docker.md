@@ -73,3 +73,10 @@ name = "Zum Interview"
 url = "https://jaxenter.de/ansible-docker-provisionierung-container-68505"
 
 +++
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Ansible statt Docker, Spring Boot 2.0 &amp; Java 11 ohne JavaFX – unsere Top-Themen der Woche <a href="https://t.co/ghD7M3ipV8">https://t.co/ghD7M3ipV8</a> <a href="https://twitter.com/hashtag/ansible?src=hash&amp;ref_src=twsrc%5Etfw">#ansible</a> <a href="https://twitter.com/hashtag/docker?src=hash&amp;ref_src=twsrc%5Etfw">#docker</a> <a href="https://twitter.com/hashtag/springboot?src=hash&amp;ref_src=twsrc%5Etfw">#springboot</a> <a href="https://twitter.com/hashtag/java11?src=hash&amp;ref_src=twsrc%5Etfw">#java11</a> <a href="https://twitter.com/hashtag/javafx?src=hash&amp;ref_src=twsrc%5Etfw">#javafx</a> <a href="https://t.co/nGFjyocEyZ">pic.twitter.com/nGFjyocEyZ</a></p>&mdash; JAXenter (@JAXenter) <a href="https://twitter.com/JAXenter/status/973227740697714691?ref_src=twsrc%5Etfw">12. März 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Java 10, Spring Boot 2, Vavr und mehr – Top 10 der beliebtesten Themen im März <a href="https://t.co/48xHLzzMES">https://t.co/48xHLzzMES</a> <a href="https://twitter.com/hashtag/java10?src=hash&amp;ref_src=twsrc%5Etfw">#java10</a> <a href="https://twitter.com/hashtag/jdk10?src=hash&amp;ref_src=twsrc%5Etfw">#jdk10</a> <a href="https://twitter.com/hashtag/springboot2?src=hash&amp;ref_src=twsrc%5Etfw">#springboot2</a> <a href="https://twitter.com/hashtag/springboot?src=hash&amp;ref_src=twsrc%5Etfw">#springboot</a> <a href="https://twitter.com/hashtag/rest?src=hash&amp;ref_src=twsrc%5Etfw">#rest</a> <a href="https://twitter.com/hashtag/ansible?src=hash&amp;ref_src=twsrc%5Etfw">#ansible</a> <a href="https://t.co/mU28f1QPww">pic.twitter.com/mU28f1QPww</a></p>&mdash; JAXenter (@JAXenter) <a href="https://twitter.com/JAXenter/status/981473680470441986?ref_src=twsrc%5Etfw">April 4, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
