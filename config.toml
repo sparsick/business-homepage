@@ -1,6 +1,6 @@
 baseurl = "https://www.sandra-parsick.de/"
 title = "Sandra Parsick"
-copyright = "&copy; 2017 Sandra Parsick"
+copyright = "&copy; 2017-2018 Sandra Parsick"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
