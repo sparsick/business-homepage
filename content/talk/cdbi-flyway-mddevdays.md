@@ -17,7 +17,7 @@ event = "Magdeburger Developer Days 2018"
 event_url = "http://md-devdays.de/Act?id=51"
 
 # Location of event.
-location = ""
+location = "Magdeburg"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -34,9 +34,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://github.com/sparsick/flyway-talk/blob/mddevdays-18/slides/2018.04%20-%20DevDays%20MD%20-%20Continuous%20Database%20Integration%20mit%20Flyway.pdf"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/sparsick/flyway-talk/tree/mddevdays-18"
 
 # Does the content use math formatting?
 math = false

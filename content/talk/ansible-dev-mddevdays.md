@@ -34,9 +34,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://github.com/sparsick/ansible-talk/blob/mddevdays-18/slides/2018.04%20-%20MD%20DevDays%20-%20Ansible_for_developer.pdf"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/sparsick/ansible-talk/tree/mddevdays-18"
 
 # Does the content use math formatting?
 math = false
