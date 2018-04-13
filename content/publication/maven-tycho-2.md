@@ -5,6 +5,7 @@ selected = false
 url_pdf = ""
 image_preview = ""
 #authors = ["Sandra Parsick"]
+publication_types = ["1"]
 url_dataset = ""
 abstract_short = "This post describes how to build Eclipse Plugin and Eclipse Feature with Maven Tycho and which problems I have."
 image = ""

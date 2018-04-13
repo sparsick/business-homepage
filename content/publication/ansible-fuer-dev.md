@@ -2,6 +2,7 @@
 abstract = "Das automatisierte Konfigurieren von Servern ist dank Orchestrierungswerkzeugen wie Puppet und Chef heute kein Problem mehr. Doch diese eignen sich wenig für die regelmäßige Verteilung von typischen Java-Webapplikationen. Ansible hat dieses Problem erkannt und liefert Lösungen für das Konfigurationsmanagement und die Software-Verteilung aus einer Hand."
 abstract_short = "Das automatisierte Konfigurieren von Servern ist dank Orchestrierungswerkzeugen wie Puppet und Chef heute kein Problem mehr. Doch diese eignen sich wenig für die regelmäßige Verteilung von typischen Java-Webapplikationen. Ansible hat dieses Problem erkannt und liefert Lösungen für das Konfigurationsmanagement und die Software-Verteilung aus einer Hand."
 #authors = ["Sandra Parsick"]
+publication_types = ["2"]
 date = "2016-10-01"
 image = "ansible-cover.png"
 image_preview = "ansible-cover.png"

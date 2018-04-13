@@ -9,6 +9,7 @@ abstract_short = "Wer kennt nicht folgende Projektsituation: Die Entwicklertests
 url_project = ""
 publication_short = "In *Java Magazin*"
 #authors = ["Sandra Parsick"]
+publication_types = ["2"]
 url_video = ""
 date = "2015-09-01"
 selected = true

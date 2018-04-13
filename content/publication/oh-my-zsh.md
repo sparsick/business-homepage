@@ -7,6 +7,7 @@ url_slides = ""
 url_video = ""
 date = "2016-09-21"
 #authors = ["Sandra Parsick"]
+publication_types = ["1"]
 url_project = ""
 publication_short = "Im *Never Code Alone* Blog"
 math = false

@@ -6,6 +6,7 @@ url_slides = ""
 image_preview = ""
 image = ""
 #authors = ["Sandra Parsick"]
+publication_types = ["1"]
 selected = false
 url_video = ""
 abstract_short = "Post is a field report about the problems during the introduction of Maven Tycho."
