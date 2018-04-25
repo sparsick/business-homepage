@@ -1,6 +1,6 @@
 +++
 location = "München"
-url_video = "https://www.youtube.com/watch?v=l0SGrj1y4mI&feature=youtu.be"
+url_video = "https://jaxenter.de/ansible-devops-con-54133"
 title = "Ansible für Entwickler"
 date = "2016-12-06"
 event_url = "https://devopsconference.de/archiv-2016/#ansible-fur-entwickler"
