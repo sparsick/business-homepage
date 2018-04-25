@@ -51,3 +51,8 @@ image = ""
 caption = ""
 
 +++
+
+Tweets zum Vortrag:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Ansible ist das Gradle der Konfigurationstools. <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> <a href="https://twitter.com/hashtag/mddevdays?src=hash&amp;ref_src=twsrc%5Etfw">#mddevdays</a> <a href="https://twitter.com/hashtag/ansible?src=hash&amp;ref_src=twsrc%5Etfw">#ansible</a> <a href="https://twitter.com/hashtag/Java?src=hash&amp;ref_src=twsrc%5Etfw">#Java</a> <a href="https://t.co/h9wWYEnUC3">pic.twitter.com/h9wWYEnUC3</a></p>&mdash; Oliver Zeigermann (@DJCordhose) <a href="https://twitter.com/DJCordhose/status/983982232049156096?ref_src=twsrc%5Etfw">April 11, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
