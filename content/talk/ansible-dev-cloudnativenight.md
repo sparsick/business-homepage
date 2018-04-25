@@ -51,3 +51,11 @@ image = ""
 caption = ""
 
 +++
+
+Tweets zum Vortrag:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Jetzt legt <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> bei <a href="https://twitter.com/qaware?ref_src=twsrc%5Etfw">@qaware</a> auf der <a href="https://twitter.com/hashtag/CloudNativeNight?src=hash&amp;ref_src=twsrc%5Etfw">#CloudNativeNight</a> mit ihrem Vortrag über <a href="https://twitter.com/ansible?ref_src=twsrc%5Etfw">@ansible</a> los - sie hat versprochen, alle Fragen zu beantworten, die auf der Twitter-Wall auftauchen 😉😎 <a href="https://t.co/VCdMz4ay01">pic.twitter.com/VCdMz4ay01</a></p>&mdash; (((ascheman))) (@GerdAschemann) <a href="https://twitter.com/GerdAschemann/status/988835032923066368?ref_src=twsrc%5Etfw">April 24, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ansible?src=hash&amp;ref_src=twsrc%5Etfw">#ansible</a> and <a href="https://twitter.com/hashtag/istio?src=hash&amp;ref_src=twsrc%5Etfw">#istio</a> @cloudnativenerd meetup w/ <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> and <a href="https://twitter.com/adersberger?ref_src=twsrc%5Etfw">@adersberger</a>. Stay tuned - will post the slides here soon! <a href="https://t.co/VKzli6eLqs">pic.twitter.com/VKzli6eLqs</a></p>&mdash; QAware GmbH (@qaware) <a href="https://twitter.com/qaware/status/988853949682855936?ref_src=twsrc%5Etfw">April 24, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
