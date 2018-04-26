@@ -18,3 +18,6 @@ Tweets zum Vortrag:
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">The past <a href="https://twitter.com/jaxcon?ref_src=twsrc%5Etfw">@jaxcon</a> day ended with database discussion fun, today continues with <a href="https://twitter.com/FlywayDb?ref_src=twsrc%5Etfw">@FlywayDb</a> joy! <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> gave a session about migration tooling. <a href="https://t.co/DPpWIgR6kP">pic.twitter.com/DPpWIgR6kP</a></p>&mdash; Kevin Peters (@_Atze) <a href="https://twitter.com/_Atze/status/989415956077252608?ref_src=twsrc%5Etfw">April 26, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Interessanter Vortrag <a href="https://twitter.com/hashtag/jax2018?src=hash&amp;ref_src=twsrc%5Etfw">#jax2018</a> <a href="https://t.co/E2qKGhzFF4">https://t.co/E2qKGhzFF4</a></p>&mdash; Andreas Scherer (@wasmirpassiert) <a href="https://twitter.com/wasmirpassiert/status/989429851068227585?ref_src=twsrc%5Etfw">April 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
