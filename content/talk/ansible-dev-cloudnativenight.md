@@ -59,3 +59,9 @@ Tweets zum Vortrag:
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ansible?src=hash&amp;ref_src=twsrc%5Etfw">#ansible</a> and <a href="https://twitter.com/hashtag/istio?src=hash&amp;ref_src=twsrc%5Etfw">#istio</a> @cloudnativenerd meetup w/ <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> and <a href="https://twitter.com/adersberger?ref_src=twsrc%5Etfw">@adersberger</a>. Stay tuned - will post the slides here soon! <a href="https://t.co/VKzli6eLqs">pic.twitter.com/VKzli6eLqs</a></p>&mdash; QAware GmbH (@qaware) <a href="https://twitter.com/qaware/status/988853949682855936?ref_src=twsrc%5Etfw">April 24, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr">Kudos to <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> <a href="https://twitter.com/adersberger?ref_src=twsrc%5Etfw">@adersberger</a> and <a href="https://twitter.com/JannisSchaefer?ref_src=twsrc%5Etfw">@JannisSchaefer</a> for holding the great talks I attended this week 🙂</p>&mdash; Patrick Stegmann (@wonderb0lt) <a href="https://twitter.com/wonderb0lt/status/989602219698917379?ref_src=twsrc%5Etfw">April 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Having you was awesome, thanks!</p>&mdash; QAware GmbH (@qaware) <a href="https://twitter.com/qaware/status/989603957902397441?ref_src=twsrc%5Etfw">April 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
