@@ -43,3 +43,9 @@ highlight = true
 
 
 +++
+
+Tweets zum Workshop:
+
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Bis auf die Netzwerkverbindung <a href="https://twitter.com/hashtag/awesome?src=hash&amp;ref_src=twsrc%5Etfw">#awesome</a>! <a href="https://t.co/01SQGOpGkt">https://t.co/01SQGOpGkt</a></p>&mdash; sanddorn (@sanddorn) <a href="https://twitter.com/sanddorn/status/989935330206867457?ref_src=twsrc%5Etfw">April 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
