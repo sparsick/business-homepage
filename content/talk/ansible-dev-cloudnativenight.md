@@ -65,3 +65,6 @@ Tweets zum Vortrag:
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Having you was awesome, thanks!</p>&mdash; QAware GmbH (@qaware) <a href="https://twitter.com/qaware/status/989603957902397441?ref_src=twsrc%5Etfw">April 26, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Thanks <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> &amp; <a href="https://twitter.com/adersberger?ref_src=twsrc%5Etfw">@adersberger</a> for providing your slides: <a href="https://t.co/tY7equwwSR">https://t.co/tY7equwwSR</a></p>&mdash; QAware GmbH (@qaware) <a href="https://twitter.com/qaware/status/991676811011600385?ref_src=twsrc%5Etfw">May 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
