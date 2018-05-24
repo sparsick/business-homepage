@@ -2,7 +2,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 
-date = "2017-01-23T00:00:00"
+date = "2018-05-24T00:00:00"
 draft = false
 
 title = "Impressum"
@@ -45,33 +45,3 @@ die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urh
 Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine
 Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden
 von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</p><p>&nbsp;</p>
-
-<h2>Datenschutz</h2> <p>Die Betreiber dieser Seiten nehmen den Schutz Ihrer pers&ouml;nlichen Daten sehr
-ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen
-Datenschutzvorschriften sowie dieser Datenschutzerkl&auml;rung.</p> <p>Die Nutzung unserer Webseite ist in
-der Regel ohne Angabe personenbezogener Daten m&ouml;glich. Soweit auf unseren Seiten
-personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies,
-soweit m&ouml;glich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdr&uuml;ckliche Zustimmung
-nicht an Dritte weitergegeben.</p> <p>Wir weisen darauf hin, dass die Daten&uuml;bertragung im Internet (z.B.
-bei der Kommunikation per E-Mail) Sicherheitsl&uuml;cken aufweisen kann. Ein l&uuml;ckenloser Schutz der
-Daten vor dem Zugriff durch Dritte ist nicht m&ouml;glich.</p><p>&nbsp;</p> <h2>Datenschutzerkl&auml;rung
-f&uuml;r die Nutzung von Google Analytics</h2> <p>Diese Website nutzt Funktionen des Webanalysedienstes
-Google Analytics. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA.</p>
-<p>Google Analytics verwendet sog. "Cookies". Das sind Textdateien, die auf Ihrem Computer gespeichert
-werden und die eine Analyse der Benutzung der Website durch Sie erm&ouml;glichen. Die durch den Cookie
-erzeugten Informationen &uuml;ber Ihre Benutzung dieser Website werden in der Regel an einen Server von
-Google in den USA &uuml;bertragen und dort gespeichert.</p> <p>Mehr Informationen zum Umgang mit
-Nutzerdaten bei Google Analytics finden Sie in der Datenschutzerkl&auml;rung von Google: <a
-href="https://support.google.com/analytics/answer/6004245?hl=de">https://support.google.com/analytics/answer/6004245
-<p><strong>Browser Plugin</strong></p> <p>Sie k&ouml;nnen die Speicherung der Cookies durch eine
-entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in
-diesem Fall gegebenenfalls nicht s&auml;mtliche Funktionen dieser Website vollumf&auml;nglich werden nutzen
-k&ouml;nnen. Sie k&ouml;nnen dar&uuml;ber hinaus die Erfassung der durch das Cookie erzeugten und auf
-Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser
-Daten durch Google verhindern, indem sie das unter dem folgenden Link verf&uuml;gbare Browser-Plugin
-herunterladen und installieren: <a
-href="https://tools.google.com/dlpage/gaoptout?hl=de">https://tools.google.com/dlpage/gaoptout?hl=de</a></p>
-<p><strong>Widerspruch gegen Datenerfassung</strong></p> <p>Sie k&ouml;nnen die Erfassung Ihrer Daten
-durch Google Analytics verhindern, indem Sie auf folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt,
-dass das Erfassung Ihrer Daten bei zuk&uuml;nftigen Besuchen dieser Website verhindert: <a
-href="javascript:gaOptout();">Google Analytics deaktivieren</a></p>

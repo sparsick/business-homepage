@@ -284,6 +284,11 @@ enableGitInfo = false
   url = "impressum"
   weight = 6
 
+[[menu.main]]
+  name = "Datenschutzerklärung"
+  url = "datenschutzerklaerung"
+  weight = 7
+
 # Taxonomies.
 # [taxonomies]
 #   tag = "tags"
