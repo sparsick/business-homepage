@@ -1,4 +1,8 @@
 +++
+# Talk start and end times.
+#  End time can optionally be hidden by prefixing the line with `#`.
+time_start = 2018-04-26
+#time_end = 2018-06-13T16:09:46+02:00
 url_slides = "https://github.com/sparsick/flyway-talk/blob/jax18/slides/2018.04%20-%20JAX%20-%20Continuous%20Database%20Integration%20mit%20Flyway.pdf"
 abstract_short = ""
 math = false

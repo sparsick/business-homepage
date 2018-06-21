@@ -1,4 +1,8 @@
 +++
+# Talk start and end times.
+# End time can optionally be hidden by prefixing the line with `#`.
+time_start = 2016-12-02
+#time_end = 2017-12-14T19:36:14+01:00
 location = "Köln"
 url_slides = "https://github.com/goldschmiede/2016-12-02-Continuous-Integration-follow-up/blob/master/Continuous%20Integration%20-%20follow%20up.pdf"
 abstract_short = ""

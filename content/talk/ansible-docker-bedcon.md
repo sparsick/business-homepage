@@ -1,4 +1,8 @@
 +++
+# Talk start and end times.
+# End time can optionally be hidden by prefixing the line with `#`.
+time_start = 2017-09-22
+#time_end = 2017-12-14T19:36:14+01:00
 url_slides = "https://github.com/sparsick/ansible-docker-talk/blob/bedcon17/slides/17.09%20-%20Bedcon%20-%20Es%20muss%20nicht%20immer%20gleich%20Docker%20sein%20-%20IT%20Automation%2C%20die%20zu%20einem%20passt.pdf"
 event_url = "http://bed-con.org/2017/talks/Es-muss-nicht-immer-gleich-Docker-sein---IT-Automation-die-zu-einem-passt"
 event = "Berlin Expert Days 2017"

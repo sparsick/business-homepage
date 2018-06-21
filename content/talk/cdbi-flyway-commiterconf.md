@@ -1,4 +1,8 @@
 +++
+# Talk start and end times.
+# End time can optionally be hidden by prefixing the line with `#`.
+time_start = 2016-10-17
+#time_end = 2017-12-14T19:36:14+01:00
 url_slides = "https://github.com/sparsick/flyway-talk/blob/flyway-talk-committerconf-16/slides/slides.pdf"
 abstract_short = ""
 math = false

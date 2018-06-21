@@ -1,4 +1,8 @@
 +++
+# Talk start and end times.
+# End time can optionally be hidden by prefixing the line with `#`.
+time_start = 2016-03-10
+#time_end = 2017-12-14T19:36:14+01:00
 location = "Frankfurt am Main"
 math = false
 event_url = "https://entwicklertag.de/frankfurt/2016/ansible-f%C3%BCr-entwickler"
@@ -6,7 +10,7 @@ abstract = "Das automatisierte Konfiguieren von Servern ist dank Orchestrierungs
 title = "Ansible für Entwickler"
 url_pdf = ""
 selected = true
-event = "Entwicklertage Franfurt"
+event = "Entwicklertage Frankfurt"
 abstract_short = ""
 url_slides = "https://github.com/sparsick/ansible-talk/blob/entwicklertageffm16/slides/2016.03%20-%20Entwicklertage%20FFM%20-%20Ansible_for_developer.pdf"
 date = "2016-03-10"

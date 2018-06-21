@@ -1,4 +1,8 @@
 +++
+# Talk start and end times.
+# End time can optionally be hidden by prefixing the line with `#`.
+time_start = 2016-08-20
+#time_end = 2017-12-14T19:36:14+01:00
 url_pdf = ""
 selected = true
 title = "Continuous Database Integration mit Flyway"

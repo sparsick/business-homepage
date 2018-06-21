@@ -1,4 +1,8 @@
 +++
+# Talk start and end times.
+# End time can optionally be hidden by prefixing the line with `#`.
+time_start = 2016-09-30
+#time_end = 2017-12-14T19:36:14+01:00
 date = "2016-09-30"
 abstract = "Das automatisierte Konfigurieren von Servern ist dank Werkzeuge wie Puppet heute kein Problem mehr. Doch eignet sich dieses Werkzeug wenig für die regelmäßige Softwareverteilung. Ansible liefert Lösungen für beide Probleme aus einer Hand. Dieser Vortrag erklärt anhand einer Java Webapplikation die Funktionsweise von Ansible. Dabei wird gezeigt, warum Ansible vor allem für Entwickler interessant sein kann und wie Continuous Deployment auch in einer klassischen Unternehmungsstruktur umsetzbar ist."
 selected = true
