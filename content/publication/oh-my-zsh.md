@@ -23,3 +23,8 @@ name = "Zum Blog Post"
 url = "https://blog.nevercodealone.de/oh-my-zsh-agnoster-theme-windows/"
 
 +++
+<blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Content ist King!! - Google Platz 1 für <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> - du hast es verdient!! <a href="https://t.co/QRju4vRWjo">pic.twitter.com/QRju4vRWjo</a></p>&mdash; Never Code Alone (@nevercodealone) <a href="https://twitter.com/nevercodealone/status/1008805595820982272?ref_src=twsrc%5Etfw">18. Juni 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">oh-my-zsh mit Agnoster Theme für <a href="https://twitter.com/hashtag/Windows?src=hash&amp;ref_src=twsrc%5Etfw">#Windows</a> installieren – <a href="https://twitter.com/hashtag/Tutorial?src=hash&amp;ref_src=twsrc%5Etfw">#Tutorial</a> - Der mit erfolgreichste <a href="https://twitter.com/hashtag/gastbeitrag?src=hash&amp;ref_src=twsrc%5Etfw">#gastbeitrag</a> auf unserem Blog - Detailliert, übersichtlich und zielführend - Vielen Dank <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> - da kannst du gerne mal nachlegen ;) <a href="https://t.co/XwObq97j3H">https://t.co/XwObq97j3H</a> <a href="https://t.co/ls341eWaRP">pic.twitter.com/ls341eWaRP</a></p>&mdash; Never Code Alone (@nevercodealone) <a href="https://twitter.com/nevercodealone/status/1004729211238612994?ref_src=twsrc%5Etfw">7. Juni 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
