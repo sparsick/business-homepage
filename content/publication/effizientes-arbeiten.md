@@ -62,3 +62,6 @@ image = ""
 caption = ""
 
 +++
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">very <a href="https://twitter.com/hashtag/groovylang?src=hash&amp;ref_src=twsrc%5Etfw">#groovylang</a>! :) <a href="https://t.co/sXvokLZc9F">https://t.co/sXvokLZc9F</a></p>&mdash; Jenn Strater (@codeJENNerator) <a href="https://twitter.com/codeJENNerator/status/1011982289763487745?ref_src=twsrc%5Etfw">27. Juni 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
