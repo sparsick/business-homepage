@@ -13,8 +13,8 @@ publication = "Interview auf der DevOpsCon 2016"
 publication_short = "Interview auf der DevOpsCon 2016"
 
 # Abstract and optional shortened version.
-abstract = "Interview zum Thema Ansible und Provisionierung"
-abstract_short = ""
+abstract = "Auch heute wird in vielen Unternehmen noch in Silos gedacht: Entwickler auf der einen, Operator auf der anderen Seite. Dabei gibt es vor allem für Entwickler viele Möglichkeiten und Tools aus dem Ops-Bereich, die sich für die eigene Arbeit eignen. Im Interview auf der DevOpsCon in Berlin sprach Sandra Parsick über die Schnittstellen von DevOps und Agile, die DevOps-Kultur und welche Vorteile Ansible gegenüber Puppet und Chef hat."
+abstract_short = "Auch heute wird in vielen Unternehmen noch in Silos gedacht: Entwickler auf der einen, Operator auf der anderen Seite. Dabei gibt es vor allem für Entwickler viele Möglichkeiten und Tools aus dem Ops-Bereich, die sich für die eigene Arbeit eignen. Im Interview auf der DevOpsCon in Berlin sprach Sandra Parsick über die Schnittstellen von DevOps und Agile, die DevOps-Kultur und welche Vorteile Ansible gegenüber Puppet und Chef hat."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,7 +39,7 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=GfZhLzypkgE"
+url_video = "https://jaxenter.de/devops-ansible-agile-interview-51484"
 url_poster = ""
 url_source = ""
 
