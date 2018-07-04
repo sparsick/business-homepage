@@ -50,13 +50,15 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://jaxenter.de/serverless-continuous-database-integration-parsick-72158"
+url_video = ""
 url_poster = ""
 url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+[[url_custom]]
+name = "Zum Interview"
+url = "https://jaxenter.de/serverless-continuous-database-integration-parsick-72158"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
