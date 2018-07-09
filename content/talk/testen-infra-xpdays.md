@@ -1,11 +1,11 @@
 +++
-title = "Integration Testing done right"
-date = 2018-06-13T16:09:46+02:00  # Schedule page publish date.
+title = "Testen von und mit Infrastruktur"
+date = 2018-07-13T16:09:46+02:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-09-06
+time_start = 2018-11-09
 #time_end = 2018-06-13T16:09:46+02:00
 
 # Abstract and optional shortened version.
@@ -13,11 +13,11 @@ abstract = "Heutzutage läuft eine Software nicht für sich alleine, sondern agi
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Herbstcampus"
-event_url = "https://www.herbstcampus.de/veranstaltung-7131-integration-testing-done-right.html?id=7131"
+event = "XP Days Germany"
+event_url = "https://www.xpdays.de/2018/sessions/103-testen-von-und-mit-infrastruktur.html"
 
 # Location of event.
-location = "Nürnberg"
+location = "Hamburg"
 
 # Is this a selected talk? (true/false)
 selected = false
