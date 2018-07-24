@@ -1,5 +1,5 @@
 +++
-title = "Architektur Spicker Nr. 7 - Continous Delivery"
+title = "Architektur Spicker Nr. 7 - Continuous Delivery"
 date = 2018-06-27T20:55:39+02:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = [""]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Architektur Spicker Nr. 7 -  Continous Delivery"
+publication = "Architektur Spicker Nr. 7 -  Continuous Delivery"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -30,7 +30,7 @@ image_preview = ""
 image = "spicker07-1.png"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
