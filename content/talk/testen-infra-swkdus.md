@@ -34,10 +34,10 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://github.com/sparsick/infra-testing-talk/blob/swk-dus/slides/2018.07%20-%20SWK%20DUS%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "https://github.com/sparsick/infra-testing-talk/tree/swk-dus"
 
 # Does the content use math formatting?
 math = false
