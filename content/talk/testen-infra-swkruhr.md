@@ -35,9 +35,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://github.com/sparsick/infra-testing-talk/blob/swk-ruhr/slides/2018.08%20-%20SWK%20Ruhr%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/sparsick/infra-testing-talk/tree/swk-ruhr"
 
 # Does the content use math formatting?
 math = false
@@ -52,3 +52,18 @@ image = ""
 caption = ""
 
 +++
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">&quot;Integration testing done right&quot; by <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a>. Test your infra, drop the crippling lock in! Featuring testing methods, linters and hand crafted slides that couldn&#39;t be more perfect 😍<br>👏 for filling that room!<br>🙏 <a href="https://twitter.com/swk_ruhr?ref_src=twsrc%5Etfw">@swk_ruhr</a> <a href="https://twitter.com/GDataSoftwareAG?ref_src=twsrc%5Etfw">@GDataSoftwareAG</a> <a href="https://twitter.com/jetbrains?ref_src=twsrc%5Etfw">@jetbrains</a> <a href="https://twitter.com/GitKraken?ref_src=twsrc%5Etfw">@GitKraken</a> <a href="https://t.co/4c5xUzuui1">pic.twitter.com/4c5xUzuui1</a></p>&mdash; Michael Arndt (@MeneDev) <a href="https://twitter.com/MeneDev/status/1026938500581662723?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">. <a href="https://twitter.com/testcontainers?ref_src=twsrc%5Etfw">@testcontainers</a> has a guest appearance in our largest-yet <a href="https://twitter.com/swk_ruhr?ref_src=twsrc%5Etfw">@swk_ruhr</a> meetup. Talk is about integration tests and infrastructure tests, held by <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a>! <a href="https://t.co/G7hUNks2PJ">pic.twitter.com/G7hUNks2PJ</a></p>&mdash; Matthias Rottländer (@faradaxian) <a href="https://twitter.com/faradaxian/status/1026894726836961282?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">And no talk about testing without mentioning <a href="https://twitter.com/testcontainers?ref_src=twsrc%5Etfw">@testcontainers</a> 😎🐳 <a href="https://twitter.com/swk_ruhr?ref_src=twsrc%5Etfw">@swk_ruhr</a> <a href="https://twitter.com/GDataSoftwareAG?ref_src=twsrc%5Etfw">@GDataSoftwareAG</a> <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> <a href="https://t.co/pLboQLYm59">pic.twitter.com/pLboQLYm59</a></p>&mdash; Kevin Wittek (@Kiview) <a href="https://twitter.com/Kiview/status/1026893664474292227?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Integration vs Integrated tests is the new hot shit nowadays 😎. <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> talking about testing at <a href="https://twitter.com/swk_ruhr?ref_src=twsrc%5Etfw">@swk_ruhr</a> at our <a href="https://twitter.com/GDataSoftwareAG?ref_src=twsrc%5Etfw">@GDataSoftwareAG</a> campus. cc <a href="https://twitter.com/holgerGP?ref_src=twsrc%5Etfw">@holgerGP</a> <a href="https://twitter.com/BenediktRitter?ref_src=twsrc%5Etfw">@BenediktRitter</a> <a href="https://t.co/cMuRuf9a4y">pic.twitter.com/cMuRuf9a4y</a></p>&mdash; Kevin Wittek (@Kiview) <a href="https://twitter.com/Kiview/status/1026892148959051777?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">And now we are happy to welcome <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> at the <a href="https://twitter.com/swk_ruhr?ref_src=twsrc%5Etfw">@swk_ruhr</a> with her talk about testing of infrastructure. <a href="https://twitter.com/hashtag/testing?src=hash&amp;ref_src=twsrc%5Etfw">#testing</a> <a href="https://twitter.com/hashtag/docker?src=hash&amp;ref_src=twsrc%5Etfw">#docker</a> <a href="https://twitter.com/hashtag/workingatgdata?src=hash&amp;ref_src=twsrc%5Etfw">#workingatgdata</a> <a href="https://t.co/fn83NO8dQW">pic.twitter.com/fn83NO8dQW</a></p>&mdash; G DATA Global (@GDataSoftwareAG) <a href="https://twitter.com/GDataSoftwareAG/status/1026888336449970177?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
