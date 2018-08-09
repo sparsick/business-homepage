@@ -73,3 +73,7 @@ image = ""
 caption = ""
 
 +++
+
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Lesenswertes Interview.<br><br>Zitat daraus: &quot;In meinen Augen macht es für viele Java-Anwendungen keinen Sinn diese nochmal in einen Container zu stecken, da Java sein eigene Container-Mechanismen mitbringt (Fat-JARs, WAR etc).&quot; <a href="https://t.co/wgdokNQUiI">https://t.co/wgdokNQUiI</a></p>&mdash; Thomas Wenger (@thoweCH) <a href="https://twitter.com/thoweCH/status/1021840620338470917?ref_src=twsrc%5Etfw">24. Juli 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
