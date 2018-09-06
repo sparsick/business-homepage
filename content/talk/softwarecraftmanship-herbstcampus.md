@@ -35,7 +35,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "pdf/2018.09 - Herbstcampus - What the heck is Software Craftmanship.pdf"
 url_video = ""
 url_code = ""
 
@@ -55,3 +55,6 @@ caption = ""
 
 
 Zusammen mit Benjamin Nothdurft.
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">&#39;every coder needs his kata&#39;  <a href="https://twitter.com/DataDuke?ref_src=twsrc%5Etfw">@DataDuke</a> <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> introduce <a href="https://twitter.com/hashtag/Softwerkskammer?src=hash&amp;ref_src=twsrc%5Etfw">#Softwerkskammer</a> at <a href="https://twitter.com/hashtag/herbstcampus?src=hash&amp;ref_src=twsrc%5Etfw">#herbstcampus</a> 🤗🤗🤗 <a href="https://t.co/UPXZ4Lmngg">pic.twitter.com/UPXZ4Lmngg</a></p>&mdash; Patrick Drechsler (@drechsler) <a href="https://twitter.com/drechsler/status/1037704311558615040?ref_src=twsrc%5Etfw">September 6, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
