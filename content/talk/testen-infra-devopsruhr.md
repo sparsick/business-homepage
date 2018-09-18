@@ -14,7 +14,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "DevOps Ruhr"
-event_url = ""
+event_url = "https://www.meetup.com/de-DE/DevOps-Ruhr/events/254611963/"
 
 # Location of event.
 location = "Bochum"
