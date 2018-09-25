@@ -1,7 +1,7 @@
 +++
 title = "Testen von und mit Infrastruktur - Integration Testing done right ;)"
 date = 2018-11-22T16:09:46+02:00  # Schedule page publish date.
-draft = true
+draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -14,7 +14,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Agile Testing@DUS"
-event_url = ""
+event_url = "https://www.meetup.com/de-DE/Agile-Testing-Dusseldorf/events/254783361/"
 
 # Location of event.
 location = "Düsseldorf"
