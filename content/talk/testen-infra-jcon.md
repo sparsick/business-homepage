@@ -52,3 +52,11 @@ image = ""
 caption = ""
 
 +++
+
+Tweets zum Vortrag:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Danke schon! sehr gute und überschaubare Beispiele 👏</p>&mdash; Roger Castillo (@rocasespino) <a href="https://twitter.com/rocasespino/status/1051029782174081026?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Guter Vortrag, schöne Bilder. Hat Spaß gemacht 😀</p>&mdash; DariusJ (@djockel) <a href="https://twitter.com/djockel/status/1050042380831870976?ref_src=twsrc%5Etfw">October 10, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
