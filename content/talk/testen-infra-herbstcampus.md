@@ -52,3 +52,6 @@ image = ""
 caption = ""
 
 +++
+
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpunkt_verlag/30740771348/in/album-72157701208185005/" title="Herbstcampus2018__43"><img src="https://farm2.staticflickr.com/1860/30740771348_1a848a7ab0_z.jpg" width="640" height="428" alt="Herbstcampus2018__43"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
