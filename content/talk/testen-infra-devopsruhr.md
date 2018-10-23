@@ -35,9 +35,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://github.com/sparsick/infra-testing-talk/blob/devopsruhr-18/slides/2018.10%20-%20DevOpsRuhr%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/sparsick/infra-testing-talk/tree/devopsruhr-18"
 
 # Does the content use math formatting?
 math = false
