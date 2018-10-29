@@ -36,7 +36,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "https://github.com/sparsick/infra-testing-talk/blob/swk-ruhr/slides/2018.08%20-%20SWK%20Ruhr%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=tA1dEkk_SAQ"
 url_code = "https://github.com/sparsick/infra-testing-talk/tree/swk-ruhr"
 
 # Does the content use math formatting?
@@ -52,9 +52,12 @@ image = ""
 caption = ""
 
 +++
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">&quot;Integration testing done right&quot; by <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a>. Test your infra, drop the crippling lock in! Featuring testing methods, linters and hand crafted slides that couldn&#39;t be more perfect 😍<br>👏 for filling that room!<br>🙏 <a href="https://twitter.com/swk_ruhr?ref_src=twsrc%5Etfw">@swk_ruhr</a> <a href="https://twitter.com/GDataSoftwareAG?ref_src=twsrc%5Etfw">@GDataSoftwareAG</a> <a href="https://twitter.com/jetbrains?ref_src=twsrc%5Etfw">@jetbrains</a> <a href="https://twitter.com/GitKraken?ref_src=twsrc%5Etfw">@GitKraken</a> <a href="https://t.co/4c5xUzuui1">pic.twitter.com/4c5xUzuui1</a></p>&mdash; Michael Arndt (@MeneDev) <a href="https://twitter.com/MeneDev/status/1026938500581662723?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">In August, we had our very own <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> give a talk about &quot;Integration Testing Done Right&quot; at the <a href="https://twitter.com/GDataSoftwareAG?ref_src=twsrc%5Etfw">@GDataSoftwareAG</a> campus in Bochum. You can now find the recording of the talk on Youtube: <a href="https://t.co/fCpyWJYuxM">https://t.co/fCpyWJYuxM</a> <a href="https://twitter.com/hashtag/swkRuhrAtHome?src=hash&amp;ref_src=twsrc%5Etfw">#swkRuhrAtHome</a></p>&mdash; Softwerkskammer.ruhr (@swk_ruhr) <a href="https://twitter.com/swk_ruhr/status/1055735517109719040?ref_src=twsrc%5Etfw">26. Oktober 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">&quot;Integration testing done right&quot; by <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a>. Test your infra, drop the crippling lock in! Featuring testing methods, linters and hand crafted slides that couldn&#39;t be more perfect 😍<br>👏 for filling that room!<br>🙏 <a href="https://twitter.com/swk_ruhr?ref_src=twsrc%5Etfw">@swk_ruhr</a> <a href="https://twitter.com/GDataSoftwareAG?ref_src=twsrc%5Etfw">@GDataSoftwareAG</a> <a href="https://twitter.com/jetbrains?ref_src=twsrc%5Etfw">@jetbrains</a> <a href="https://twitter.com/GitKraken?ref_src=twsrc%5Etfw">@GitKraken</a> <a href="https://t.co/4c5xUzuui1">pic.twitter.com/4c5xUzuui1</a></p>&mdash; Michael Arndt (@MeneDev) <a href="https://twitter.com/MeneDev/status/1026938500581662723?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">. <a href="https://twitter.com/testcontainers?ref_src=twsrc%5Etfw">@testcontainers</a> has a guest appearance in our largest-yet <a href="https://twitter.com/swk_ruhr?ref_src=twsrc%5Etfw">@swk_ruhr</a> meetup. Talk is about integration tests and infrastructure tests, held by <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a>! <a href="https://t.co/G7hUNks2PJ">pic.twitter.com/G7hUNks2PJ</a></p>&mdash; Matthias Rottländer (@faradaxian) <a href="https://twitter.com/faradaxian/status/1026894726836961282?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
