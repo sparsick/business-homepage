@@ -52,3 +52,8 @@ image = ""
 caption = ""
 
 +++
+
+Tweets zum Vortrag:
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Beide kommen (ganz bestimmt 😇) nach <a href="https://twitter.com/hashtag/Thueringen?src=hash&amp;ref_src=twsrc%5Etfw">#Thueringen</a> zu <a href="https://twitter.com/jugthde?ref_src=twsrc%5Etfw">@jugthde</a> &amp; <a href="https://twitter.com/devopsthde?ref_src=twsrc%5Etfw">@devopsthde</a> 🎉😃 <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> ist ja schon geplant, für <a href="https://twitter.com/xeraa?ref_src=twsrc%5Etfw">@xeraa</a> bauen wir noch eine <a href="https://twitter.com/hashtag/Tour?src=hash&amp;ref_src=twsrc%5Etfw">#Tour</a>, oder <a href="https://twitter.com/maik_toepfer?ref_src=twsrc%5Etfw">@maik_toepfer</a> <a href="https://twitter.com/softwerkskammer?ref_src=twsrc%5Etfw">@softwerkskammer</a> <a href="https://twitter.com/hashtag/leipzig?src=hash&amp;ref_src=twsrc%5Etfw">#leipzig</a>, <a href="https://twitter.com/JUGNBG?ref_src=twsrc%5Etfw">@JUGNBG</a>, <a href="https://twitter.com/jugffm?ref_src=twsrc%5Etfw">@jugffm</a> ...?! 🙌 <a href="https://twitter.com/hashtag/usualsuspects?src=hash&amp;ref_src=twsrc%5Etfw">#usualsuspects</a> <a href="https://twitter.com/Container_Conf?ref_src=twsrc%5Etfw">@Container_Conf</a> 🙈 <a href="https://t.co/7E484CaWYc">pic.twitter.com/7E484CaWYc</a></p>&mdash; Jonas Hecht (@jonashackt) <a href="https://twitter.com/jonashackt/status/1062743499626463233?ref_src=twsrc%5Etfw">14. November 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
