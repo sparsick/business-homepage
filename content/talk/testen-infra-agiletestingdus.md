@@ -52,3 +52,13 @@ image = ""
 caption = ""
 
 +++
+Tweets zum Vortrag:
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">It was awesome! Thx a lot! 🎉👍 <a href="https://t.co/HCTcllq2BB">https://t.co/HCTcllq2BB</a></p>&mdash; Sven Hettwer (@SvenHettwer) <a href="https://twitter.com/SvenHettwer/status/1065724887141105665?ref_src=twsrc%5Etfw">22. November 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Now <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> starts her talk about infrastructure testing at Agile Testing Meetup Düsseldorf. Afterwards I will follow with a <a href="https://twitter.com/testcontainers?ref_src=twsrc%5Etfw">@testcontainers</a> talk. <a href="https://twitter.com/hashtag/swkRuhrOnTour?src=hash&amp;ref_src=twsrc%5Etfw">#swkRuhrOnTour</a> double feature! 😎 <a href="https://t.co/ojcZbTVOLb">pic.twitter.com/ojcZbTVOLb</a></p>&mdash; Kevin Wittek (@Kiview) <a href="https://twitter.com/Kiview/status/1065668664165318656?ref_src=twsrc%5Etfw">22. November 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Nice! Go for it 👍😁 <a href="https://t.co/XVRoZDM8Bd">https://t.co/XVRoZDM8Bd</a></p>&mdash; Benjamin Wilms (@MrBWilms) <a href="https://twitter.com/MrBWilms/status/1065685002099265536?ref_src=twsrc%5Etfw">22. November 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
