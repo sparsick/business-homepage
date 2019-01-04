@@ -1,3 +1,13 @@
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++
 math = false
 external_link = ""
@@ -9,6 +19,16 @@ title = "Software Developer bei Allianz Operations & Services SE (06/2014 – 12
 summary = "Konsolidierung und Performanceoptimierung des bestehenden SDK für die Entwicklung eines CMS; Neuentwicklung des SDK; Unterstützung bei der Konzeptionierung eines Konfigurationsmanagement für die CMS Infrastruktur"
 tags = []
 
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++
 
 ## Versicherung, 30.000 Mitarbeiter in München

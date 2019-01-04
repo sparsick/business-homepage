@@ -1,3 +1,13 @@
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++
 title = "Effizienteres Arbeiten an mehreren Projekten - Raus aus der Konfigurationshölle für verschiedene Arbeitsumgebungen"
 date = 2018-03-13T15:13:43+01:00
@@ -61,6 +71,16 @@ highlight = true
 image = ""
 caption = ""
 
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">very <a href="https://twitter.com/hashtag/groovylang?src=hash&amp;ref_src=twsrc%5Etfw">#groovylang</a>! :) <a href="https://t.co/sXvokLZc9F">https://t.co/sXvokLZc9F</a></p>&mdash; Jenn Strater (@codeJENNerator) <a href="https://twitter.com/codeJENNerator/status/1011982289763487745?ref_src=twsrc%5Etfw">27. Juni 2018</a></blockquote>

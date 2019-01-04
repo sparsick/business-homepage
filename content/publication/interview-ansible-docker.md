@@ -63,6 +63,17 @@ caption = ""
 name = "Zum Interview"
 url = "https://jaxenter.de/ansible-docker-provisionierung-container-68505"
 
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Ansible statt Docker, Spring Boot 2.0 &amp; Java 11 ohne JavaFX – unsere Top-Themen der Woche <a href="https://t.co/ghD7M3ipV8">https://t.co/ghD7M3ipV8</a> <a href="https://twitter.com/hashtag/ansible?src=hash&amp;ref_src=twsrc%5Etfw">#ansible</a> <a href="https://twitter.com/hashtag/docker?src=hash&amp;ref_src=twsrc%5Etfw">#docker</a> <a href="https://twitter.com/hashtag/springboot?src=hash&amp;ref_src=twsrc%5Etfw">#springboot</a> <a href="https://twitter.com/hashtag/java11?src=hash&amp;ref_src=twsrc%5Etfw">#java11</a> <a href="https://twitter.com/hashtag/javafx?src=hash&amp;ref_src=twsrc%5Etfw">#javafx</a> <a href="https://t.co/nGFjyocEyZ">pic.twitter.com/nGFjyocEyZ</a></p>&mdash; JAXenter (@JAXenter) <a href="https://twitter.com/JAXenter/status/973227740697714691?ref_src=twsrc%5Etfw">12. März 2018</a></blockquote>

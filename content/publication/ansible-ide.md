@@ -1,3 +1,13 @@
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++
 abstract_short = "Ansible wird immer beliebter unter den Orchestrierungswerkzeugen. In diesem Artikel beschäftigt sich Sandra Parsick mit der Fragestellung, wie weit die drei großen IDEs aktuell die Arbeit mit Ansible unterstützen. Sie zeigt außerdem, mit welchen Plug-ins man Eclipse, IntelliJ IDEA und NetBeans nachrüsten kann, um Ansible und das YAML-Format in ihnen zum Laufen zu bringen."
 url_video = ""
@@ -22,4 +32,14 @@ url_pdf = ""
 [[url_custom]]
 name = "Zum Beitrag"
 url = "https://jaxenter.de/ansible-intellij-netbeans-eclipse-51695"
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++

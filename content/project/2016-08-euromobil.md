@@ -1,3 +1,13 @@
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++
 title = "Consultant bei Euromobil Autovermietung GmbH  (08/2016 - 04/2018)"
 date = 2018-07-03T11:55:33+02:00
@@ -28,6 +38,16 @@ highlight = true
 image = ""
 caption = ""
 
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++
 ## Transport, 200 Mitarbeiter in Isernhagen (bei Hannover)
 

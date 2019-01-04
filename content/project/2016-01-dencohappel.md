@@ -1,3 +1,13 @@
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++
 image_preview = ""
 summary = "Neuentwicklung eines 3D-Konfigurators für Luftbehandlungssysteme auf Basis von TCSite; Unterstützung im Bereich Java Entwicklung und Continuous Integration"
@@ -9,6 +19,16 @@ highlight = true
 math = false
 external_link = ""
 
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++
 ## Maschinenbau, 1.700 Mitarbeiter in Herne (bei Bochum)
 

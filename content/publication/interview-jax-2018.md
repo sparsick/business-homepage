@@ -1,3 +1,13 @@
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++
 title = "Interview mit Sandra Parsick (+ Niko Köbler) auf der JAX 2018"
 date = 2018-06-18T21:48:53+02:00
@@ -72,6 +82,16 @@ highlight = true
 image = ""
 caption = ""
 
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">„Serverless und Infrastructure as Code beißen sich überhaupt nicht“ <a href="https://t.co/g8U3zX2ukk">https://t.co/g8U3zX2ukk</a> <a href="https://twitter.com/hashtag/flyway?src=hash&amp;ref_src=twsrc%5Etfw">#flyway</a> <a href="https://twitter.com/hashtag/database?src=hash&amp;ref_src=twsrc%5Etfw">#database</a> <a href="https://twitter.com/hashtag/continuousintegration?src=hash&amp;ref_src=twsrc%5Etfw">#continuousintegration</a> <a href="https://twitter.com/hashtag/serverless?src=hash&amp;ref_src=twsrc%5Etfw">#serverless</a> <a href="https://twitter.com/hashtag/ansible?src=hash&amp;ref_src=twsrc%5Etfw">#ansible</a> <a href="https://twitter.com/hashtag/jaxcon?src=hash&amp;ref_src=twsrc%5Etfw">#jaxcon</a> <a href="https://twitter.com/hashtag/jax2018?src=hash&amp;ref_src=twsrc%5Etfw">#jax2018</a> <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> <a href="https://twitter.com/dasniko?ref_src=twsrc%5Etfw">@dasniko</a> <a href="https://t.co/iMBQYtXypR">pic.twitter.com/iMBQYtXypR</a></p>&mdash; JAXenter (@JAXenter) <a href="https://twitter.com/JAXenter/status/1008625726013214730?ref_src=twsrc%5Etfw">18. Juni 2018</a></blockquote>

@@ -1,3 +1,13 @@
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++
 title = "Warum native Windows User oh-my-zsh eine Chance geben sollten"
 image_preview = ""
@@ -22,6 +32,16 @@ abstract = "Viele arbeiten unter Linux mit oh-my-zsh als Shell. Doch manchmal ma
 name = "Zum Blog Post"
 url = "https://blog.nevercodealone.de/oh-my-zsh-agnoster-theme-windows/"
 
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = ""
 +++
 <blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Content ist King!! - Google Platz 1 für <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> - du hast es verdient!! <a href="https://t.co/QRju4vRWjo">pic.twitter.com/QRju4vRWjo</a></p>&mdash; Never Code Alone (@nevercodealone) <a href="https://twitter.com/nevercodealone/status/1008805595820982272?ref_src=twsrc%5Etfw">18. Juni 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
