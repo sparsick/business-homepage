@@ -29,7 +29,7 @@ disqusShortname = ""
 googleAnalytics = "UA-91795129-1"
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
@@ -61,7 +61,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "foto.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  
+
   # Details for the Contact Widget
   email = "mail (at) sandra-parsick.de"
   address = "Neuss"
@@ -356,8 +356,8 @@ enableGitInfo = false
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the website.
-[languages.en]
-  languageCode = "en-us"
+# [languages.en]
+#   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
