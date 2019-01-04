@@ -1,13 +1,3 @@
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-# Caption (optional)
-caption = ""
-
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = ""
 +++
 title = "Software Developer bei HSBC Trinkaus & Burkhardt AG (10/2015 – 12/2015)"
 external_link = ""
@@ -16,7 +6,6 @@ date = "2017-02-12T21:09:10+01:00"
 summary = "Neuentwicklung einer Webanwendung für die Verwaltung von Postboxen und Berechtigungen"
 tags = []
 math = false
-image = ""
 image_preview = ""
 
 

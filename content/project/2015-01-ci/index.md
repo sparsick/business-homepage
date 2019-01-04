@@ -1,17 +1,6 @@
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-# Caption (optional)
-caption = ""
-
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = ""
 +++
 date = "2017-02-12T21:06:21+01:00"
 title = "Software Developer bei Cologne Intelligence (01/2015 – 09/2015)"
-image = ""
 summary = " Weiterentwicklung einer Webapplikation zur Neukundengewinnung für einen Kunden aus dem Bankenbereich; Unterstützung im Bereich Build- und Konfigurationsmanagement"
 tags = []
 highlight = true

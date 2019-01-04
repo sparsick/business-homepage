@@ -1,20 +1,9 @@
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-# Caption (optional)
-caption = ""
-
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = ""
 +++
 url_pdf = ""
 date = "2012-01-14"
 url_code = ""
 url_slides = ""
 image_preview = ""
-image = ""
 #authors = ["Sandra Parsick"]
 publication_types = ["1"]
 selected = false

@@ -1,13 +1,3 @@
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-# Caption (optional)
-caption = ""
-
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = ""
 +++
 title = "Interview auf Jobpushy"
 date = 2018-07-24T18:20:47+02:00

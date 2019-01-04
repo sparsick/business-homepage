@@ -1,13 +1,3 @@
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-# Caption (optional)
-caption = ""
-
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = ""
 +++
 image_preview = ""
 summary = " Unterstützung beim Aufbau eines automatisierten Testverfahren"
@@ -15,7 +5,6 @@ tags = []
 external_link = ""
 date = "2017-02-12T20:43:57+01:00"
 title = "Softwareentwicklerin bei vita-X AG (02/2006 - 11/2008)"
-image = ""
 highlight = false
 math = false
 

@@ -1,13 +1,3 @@
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-# Caption (optional)
-caption = ""
-
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = ""
 +++
 highlight = true
 title = "Java Consultant bei LR Health & Beauty Systems GmbH (05/2014 – 06/2014, 09/2014 – 12/2014)"
@@ -16,7 +6,6 @@ summary = "Unterstützung im Bereich Build- und Konfigurationsmanagement"
 tags = []
 date = "2017-02-12T21:00:43+01:00"
 external_link = ""
-image = ""
 image_preview = ""
 
 

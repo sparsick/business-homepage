@@ -1,19 +1,8 @@
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-# Caption (optional)
-caption = ""
-
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = ""
 +++
 date = "2017-02-12T21:19:18+01:00"
 title = "Trainer bei DIMDI - Deutsches Institut für Medizinische Dokumentation und Information (10/2016)"
 image_preview = ""
 external_link = ""
-image = ""
 summary = "Schulung: Konfigurationsmanagement und Softwareverteilung"
 tags = []
 highlight = true

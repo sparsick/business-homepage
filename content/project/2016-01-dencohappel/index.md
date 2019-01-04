@@ -1,19 +1,8 @@
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-# Caption (optional)
-caption = ""
-
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = ""
 +++
 image_preview = ""
 summary = "Neuentwicklung eines 3D-Konfigurators für Luftbehandlungssysteme auf Basis von TCSite; Unterstützung im Bereich Java Entwicklung und Continuous Integration"
 date = "2017-02-12T21:35:37+01:00"
 title = "Software Developer bei DencoHappel GmbH (01/2016 - 12/2016)"
-image = ""
 tags = []
 highlight = true
 math = false

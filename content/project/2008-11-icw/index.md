@@ -1,18 +1,7 @@
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-# Caption (optional)
-caption = ""
-
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = ""
 +++
 math = false
 tags = []
 highlight = true
-image = ""
 image_preview = ""
 summary = "Weiterentwicklung des firmeneigenen Test-Toolings für automatisierte Tests"
 date = "2017-02-12T20:46:39+01:00"

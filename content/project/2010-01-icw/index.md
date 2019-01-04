@@ -1,18 +1,7 @@
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-# Caption (optional)
-caption = ""
-
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = ""
 +++
 image_preview = ""
 summary = "Weiterentwicklung des Produktes 'ICW eHealth Framework' – Bereich Authorisierung, Authentifizierung, Benutzerverwaltung, Token Service; Integration von PAC-Systemen mit Kooperationpartner GE Healthcare; Neuentwicklung von Texas Electronic Health Information System"
 tags = []
-image = ""
 math = false
 external_link = ""
 date = "2017-02-12T20:50:50+01:00"

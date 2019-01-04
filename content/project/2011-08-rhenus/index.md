@@ -1,13 +1,3 @@
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-# Caption (optional)
-caption = ""
-
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = ""
 +++
 external_link = ""
 date = "2017-02-12T20:55:16+01:00"
@@ -15,7 +5,6 @@ title = "IT-Consultant, Software Developer bei Rhenus Freight Network GmbH (08/2
 summary = "Automatisierung der Entwicklungsprozesse unter Berücksichtigung der spezifischen Gegebenheiten und Anforderungen im agilen Geiste"
 tags = []
 math = false
-image = ""
 image_preview = ""
 highlight = true
 

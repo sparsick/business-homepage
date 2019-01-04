@@ -1,20 +1,9 @@
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-# Caption (optional)
-caption = ""
-
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = ""
 +++
 abstract = "Das automatisierte Konfigurieren von Servern ist dank Orchestrierungswerkzeugen wie Puppet und Chef heute kein Problem mehr. Doch diese eignen sich wenig für die regelmäßige Verteilung von typischen Java-Webapplikationen. Ansible hat dieses Problem erkannt und liefert Lösungen für das Konfigurationsmanagement und die Software-Verteilung aus einer Hand."
 abstract_short = "Das automatisierte Konfigurieren von Servern ist dank Orchestrierungswerkzeugen wie Puppet und Chef heute kein Problem mehr. Doch diese eignen sich wenig für die regelmäßige Verteilung von typischen Java-Webapplikationen. Ansible hat dieses Problem erkannt und liefert Lösungen für das Konfigurationsmanagement und die Software-Verteilung aus einer Hand."
 #authors = ["Sandra Parsick"]
 publication_types = ["2"]
 date = "2016-10-01"
-image = "ansible-cover.png"
 image_preview = "ansible-cover.png"
 math = false
 publication = "In *Java aktuell*, Nr. 04/2016."

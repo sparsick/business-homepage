@@ -1,13 +1,3 @@
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-# Caption (optional)
-caption = ""
-
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = ""
 +++
 abstract = "This post describes how to build Eclipse Plugin and Eclipse Feature with Maven Tycho and which problems I have."
 math = false
@@ -18,7 +8,6 @@ image_preview = ""
 publication_types = ["1"]
 url_dataset = ""
 abstract_short = "This post describes how to build Eclipse Plugin and Eclipse Feature with Maven Tycho and which problems I have."
-image = ""
 publication_short = "Im Blog von *Bernd Adamowicz*"
 url_project = ""
 url_code = ""
