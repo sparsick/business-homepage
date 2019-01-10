@@ -35,9 +35,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://github.com/sparsick/infra-testing-talk/blob/jugbonn-19/slides/2019.01%20-%20JUG%20Bonn%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/sparsick/infra-testing-talk/tree/jugbonn-19"
 
 # Does the content use math formatting?
 math = false
@@ -52,3 +52,9 @@ image = ""
 caption = ""
 
 +++
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Great JUG meetup at <a href="https://twitter.com/JUGBonn?ref_src=twsrc%5Etfw">@JUGBonn</a> with talks from <a href="https://twitter.com/berndruecker?ref_src=twsrc%5Etfw">@berndruecker</a> and <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a>, thanks for the shortwhile and instructive evening :)</p>&mdash; Markus Schlichting (@madmas) <a href="https://twitter.com/madmas/status/1082756204974276608?ref_src=twsrc%5Etfw">8. Januar 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Testing distributed systems is easy said no one ever. Next talk about <a href="https://twitter.com/hashtag/testing?src=hash&amp;ref_src=twsrc%5Etfw">#testing</a> with and without infrastructure by <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> during <a href="https://twitter.com/JUGBonn?ref_src=twsrc%5Etfw">@JUGBonn</a> <a href="https://twitter.com/hashtag/Meetup?src=hash&amp;ref_src=twsrc%5Etfw">#Meetup</a> at <a href="https://twitter.com/leanix_net?ref_src=twsrc%5Etfw">@leanix_net</a> office. <a href="https://twitter.com/hashtag/Bonn?src=hash&amp;ref_src=twsrc%5Etfw">#Bonn</a> <a href="https://twitter.com/hashtag/Startup?src=hash&amp;ref_src=twsrc%5Etfw">#Startup</a> <a href="https://twitter.com/hashtag/Tech?src=hash&amp;ref_src=twsrc%5Etfw">#Tech</a> <a href="https://t.co/K6QkNrN2f8">pic.twitter.com/K6QkNrN2f8</a></p>&mdash; André Christ (@christ_andre) <a href="https://twitter.com/christ_andre/status/1082728705317916672?ref_src=twsrc%5Etfw">8. Januar 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
