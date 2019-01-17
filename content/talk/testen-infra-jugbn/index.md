@@ -53,6 +53,10 @@ caption = ""
 
 +++
 
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Thx to <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> and <a href="https://twitter.com/berndruecker?ref_src=twsrc%5Etfw">@berndruecker</a> for coming &amp; your great talks and to <a href="https://twitter.com/leanix_net?ref_src=twsrc%5Etfw">@leanix_net</a> for the fantastic hosting. Thx to the 59 (!) guests (counted by me). Hope to see you all at the 20th of march for our <a href="https://twitter.com/JavaLandConf?ref_src=twsrc%5Etfw">@JavaLandConf</a> Afterparty, again <a href="https://twitter.com/leanix_net?ref_src=twsrc%5Etfw">@leanix_net</a></p>&mdash; JUG Bonn (@JUGBonn) <a href="https://twitter.com/JUGBonn/status/1085253712426254336?ref_src=twsrc%5Etfw">15. Januar 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Great JUG meetup at <a href="https://twitter.com/JUGBonn?ref_src=twsrc%5Etfw">@JUGBonn</a> with talks from <a href="https://twitter.com/berndruecker?ref_src=twsrc%5Etfw">@berndruecker</a> and <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a>, thanks for the shortwhile and instructive evening :)</p>&mdash; Markus Schlichting (@madmas) <a href="https://twitter.com/madmas/status/1082756204974276608?ref_src=twsrc%5Etfw">8. Januar 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
