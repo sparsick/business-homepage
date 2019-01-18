@@ -35,7 +35,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "pdf/2019.01 - JUG Saxony - Software Craftmanship Talk.pdf"
 url_video = ""
 url_code = ""
 
@@ -52,6 +52,19 @@ image = ""
 caption = ""
 
 +++
-
-
 Zusammen mit Benjamin Nothdurft.
+
+Tweets zum Vortrag:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> and <a href="https://twitter.com/DataDuke?ref_src=twsrc%5Etfw">@DataDuke</a> giving an introduction to software craftmanship <a href="https://twitter.com/jugsaxony?ref_src=twsrc%5Etfw">@jugsaxony</a> in Halle. Still new aspects also for me. Tnx for sharing 👍 <a href="https://t.co/XNhtj0n36Z">pic.twitter.com/XNhtj0n36Z</a></p>&mdash; Maik Toepfer (@maik_toepfer) <a href="https://twitter.com/maik_toepfer/status/1085978433144918017?ref_src=twsrc%5Etfw">January 17, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Danke euch beiden, ein sehr schöner Ein-/Überblick. Hier noch eine sehr lesenswerte Ergänzung <a href="https://t.co/j0vrLb2LWf">https://t.co/j0vrLb2LWf</a> von <a href="https://twitter.com/coreyhaines?ref_src=twsrc%5Etfw">@coreyhaines</a></p>&mdash; Andreas Gebhardt (@agebhar1) <a href="https://twitter.com/agebhar1/status/1086016392254685186?ref_src=twsrc%5Etfw">January 17, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Wir freuen uns heute an der  <a href="https://twitter.com/UniHalle?ref_src=twsrc%5Etfw">@UniHalle</a> zu Gast zu sein. Mit <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> und <a href="https://twitter.com/DataDuke?ref_src=twsrc%5Etfw">@DataDuke</a> zum Thema „Gib dem Entwickler seine Code Kata - What the heck is Software Craftsmanship?“ Danke an alle, die die Veranstaltung möglich gemacht haben. <a href="https://twitter.com/MITP_Verlag?ref_src=twsrc%5Etfw">@MITP_Verlag</a> <a href="https://twitter.com/UniHalle_Jobs?ref_src=twsrc%5Etfw">@UniHalle_Jobs</a> <a href="https://twitter.com/CGI_DE?ref_src=twsrc%5Etfw">@CGI_DE</a> <a href="https://t.co/KjA6dygRra">pic.twitter.com/KjA6dygRra</a></p>&mdash; JUG Saxony (@jugsaxony) <a href="https://twitter.com/jugsaxony/status/1085967415240986625?ref_src=twsrc%5Etfw">January 17, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Für Kurzentschlossene: Unser Kollege <a href="https://twitter.com/DataDuke?ref_src=twsrc%5Etfw">@DataDuke</a> zeigt euch heute Abend gemeinsam mit <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> bei der <a href="https://twitter.com/jugsaxony?ref_src=twsrc%5Etfw">@jugsaxony</a>, wie ihr zu besseren Software Craftern werden könnt: <a href="https://t.co/bMpaFCa3VB">https://t.co/bMpaFCa3VB</a> <a href="https://twitter.com/hashtag/software?src=hash&amp;ref_src=twsrc%5Etfw">#software</a> <a href="https://twitter.com/hashtag/craftsmanship?src=hash&amp;ref_src=twsrc%5Etfw">#craftsmanship</a> <a href="https://t.co/sMoU46rzNu">pic.twitter.com/sMoU46rzNu</a></p>&mdash; codecentric AG (@codecentric) <a href="https://twitter.com/codecentric/status/1085926041485422592?ref_src=twsrc%5Etfw">January 17, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
