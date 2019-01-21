@@ -56,6 +56,10 @@ Zusammen mit Benjamin Nothdurft.
 
 Tweets zum Vortrag:
 
+<blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Vergangenen Donnerstag waren wir an der <a href="https://twitter.com/UniHalle?ref_src=twsrc%5Etfw">@Unihalle</a> zu Gast. Der Abend mit euch war ein voller Erfolg - vielen Dank allen Beteiligten! Die Slides zum Vortrag von <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> &amp; <a href="https://twitter.com/DataDuke?ref_src=twsrc%5Etfw">@DataDuke</a> zum Thema &quot;Craftsmanship&quot; findet ihr jetzt in der Veranstaltung <a href="https://t.co/qrCk0A9OFv">https://t.co/qrCk0A9OFv</a></p>&mdash; JUG Saxony (@jugsaxony) <a href="https://twitter.com/jugsaxony/status/1087325875761233920?ref_src=twsrc%5Etfw">21. Januar 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> and <a href="https://twitter.com/DataDuke?ref_src=twsrc%5Etfw">@DataDuke</a> giving an introduction to software craftmanship <a href="https://twitter.com/jugsaxony?ref_src=twsrc%5Etfw">@jugsaxony</a> in Halle. Still new aspects also for me. Tnx for sharing 👍 <a href="https://t.co/XNhtj0n36Z">pic.twitter.com/XNhtj0n36Z</a></p>&mdash; Maik Toepfer (@maik_toepfer) <a href="https://twitter.com/maik_toepfer/status/1085978433144918017?ref_src=twsrc%5Etfw">January 17, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
