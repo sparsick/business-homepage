@@ -36,7 +36,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "https://github.com/sparsick/infra-testing-talk/blob/jcon-18/slides/2018.10%20-%20JCon%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=86bSsLOd4YE"
 url_code = "https://github.com/sparsick/infra-testing-talk/tree/jcon-18"
 
 # Does the content use math formatting?
@@ -54,6 +54,14 @@ caption = ""
 +++
 
 Tweets zum Vortrag:
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="und" dir="ltr">Thx <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> 🎉🍋🤘 <a href="https://t.co/mTnMxT3nNX">https://t.co/mTnMxT3nNX</a></p>&mdash; Citrus Framework (@citrus_test) <a href="https://twitter.com/citrus_test/status/1071025426334670848?ref_src=twsrc%5Etfw">7. Dezember 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Found another gem on the <a href="https://twitter.com/jcon_conference?ref_src=twsrc%5Etfw">@jcon_conference</a><br>YouTube channel!💪 <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> with her talk &quot;integration testing done right&quot;. Also mentioning <a href="https://twitter.com/citrus_test?ref_src=twsrc%5Etfw">@citrus_test</a>. 😉 <a href="https://t.co/wbH5HkuyxH">https://t.co/wbH5HkuyxH</a></p>&mdash; Sven Hettwer (@SvenHettwer) <a href="https://twitter.com/SvenHettwer/status/1071025144917839872?ref_src=twsrc%5Etfw">7. Dezember 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Danke schon! sehr gute und überschaubare Beispiele 👏</p>&mdash; Roger Castillo (@rocasespino) <a href="https://twitter.com/rocasespino/status/1051029782174081026?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
