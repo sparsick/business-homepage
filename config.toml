@@ -196,7 +196,8 @@ enableGitInfo = false
     'Uncategorized',  # 0
     'Bloggastbeitrag',  # 1
     'Artikel',  # 2
-    'Interview'  # 3
+    'Interview',  # 3
+    'Podcast' #4
   ]
 
   # Configuration of talk pages.
