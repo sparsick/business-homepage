@@ -12,6 +12,9 @@ time_start = 2018-11-08
 abstract = "Die Software Craftmanship ist eine Bewegung in der Softwareentwicklung, die es sich als Ziel gesetzt hat, das Entwickeln von Software mehr als Handwerk anstatt als Ingenieurdisziplin zu sehen. Die Bewegung beruht auf vier Prinzipien: Clean Code, Übung, lebenslanges Lernen und voneinander Lernen. In unserem Vortrag mit zahlreichen Beispielen und Bildern möchten wir Euch den Ursprung, einen Abriss der Entwicklungshistorie, den aktuellen Stand sowie alle Formen der Partizipation wie Code Retreats, Hackergarten, Lean Coffees und Code Katas aufzeigen und Euch für einen stärkeren Zusammenhalt begeistern, sodass auch Ihr bessere Softwareentwickler werden könnt."
 abstract_short = ""
 
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Sandra Parsick", "Benjamin Nothdurft"]
+
 # Name of event and optional event URL.
 event = "XP Days Germany"
 event_url = "https://www.xpdays.de/2018/sessions/102-gib-dem-entwickler-seine-code-kata-what-the-heck-is-software-craftsmanship.html"
@@ -52,9 +55,6 @@ image = ""
 caption = ""
 
 +++
-
-
-Zusammen mit Benjamin Nothdurft.
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">A sketch note from <a href="https://twitter.com/DataDuke?ref_src=twsrc%5Etfw">@dataduke</a> and my session about <a href="https://twitter.com/hashtag/softwarecraftsmanship?src=hash&amp;ref_src=twsrc%5Etfw">#softwarecraftsmanship</a> 😍 <a href="https://twitter.com/hashtag/xdde18?src=hash&amp;ref_src=twsrc%5Etfw">#xdde18</a> <a href="https://t.co/HcHedTJTmr">pic.twitter.com/HcHedTJTmr</a></p>&mdash; Sandra Parsick (@SandraParsick) <a href="https://twitter.com/SandraParsick/status/1060494146144792576?ref_src=twsrc%5Etfw">November 8, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

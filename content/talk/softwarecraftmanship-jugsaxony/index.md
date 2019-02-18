@@ -12,6 +12,9 @@ time_start = 2019-01-17
 abstract = "Die Software Craftmanship ist eine Bewegung in der Softwareentwicklung, die es sich als Ziel gesetzt hat, das Entwickeln von Software mehr als Handwerk anstatt als Ingenieurdisziplin zu sehen. Die Bewegung beruht auf vier Prinzipien: Clean Code, Übung, lebenslanges Lernen und voneinander Lernen. In unserem Vortrag mit zahlreichen Beispielen und Bildern möchten wir Euch den Ursprung, einen Abriss der Entwicklungshistorie, den aktuellen Stand sowie alle Formen der Partizipation wie Code Retreats, Hackergarten, Lean Coffees und Code Katas aufzeigen und Euch für einen stärkeren Zusammenhalt begeistern, sodass auch Ihr bessere Softwareentwickler werden könnt."
 abstract_short = ""
 
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Sandra Parsick", "Benjamin Nothdurft"]
+
 # Name of event and optional event URL.
 event = "JUG Saxony"
 event_url = "https://jugsaxony.org/veranstaltungen/110/gib_dem_entwickler_seine_code_kata_what_the_heck_is_software_craftsmanship_/"
@@ -52,7 +55,6 @@ image = ""
 caption = ""
 
 +++
-Zusammen mit Benjamin Nothdurft.
 
 Tweets zum Vortrag:
 
