@@ -1,6 +1,6 @@
 +++
 title = "Give the aspiring developer a code kata! - What the heck is Software Craft(smanship)?"
-date = 2019-02-18T23:18:46+01:00  # Schedule page publish date.
+date = 2019-05-27T23:18:46+01:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.

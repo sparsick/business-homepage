@@ -1,6 +1,6 @@
 +++
 title = "What the heck is Software Craftsmanship?"
-date = 2018-07-13T16:10:00+02:00  # Schedule page publish date.
+date = 2019-03-12T16:10:00+02:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.

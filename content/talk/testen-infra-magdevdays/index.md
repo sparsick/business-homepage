@@ -1,6 +1,6 @@
 +++
 title = "Testen von und mit Infrastruktur - Integration Testing done right ;)"
-date = 2018-10-25T16:09:46+02:00  # Schedule page publish date.
+date = 2019-05-20T16:09:46+02:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
