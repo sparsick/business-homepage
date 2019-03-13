@@ -35,7 +35,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "pdf/2019.03 - DevOps Gathering - What the heck is Software Craftsmanship.pdf"
 url_video = ""
 url_code = ""
 
