@@ -32,4 +32,4 @@ categories = []
 * Konzeption einer Platform-Lösung
 * Coaching in Java, TDD und anderen Methodiken
 
-**Eingesetzte Technologien und Werkzeuge:** Java SE 8/11, Groovy, Hibernate, JPA, JAXB, Spring Boot, Docker, Oracle, Ansible, Jenkins, Maven, Jira, Confluence, Subversion, Git, Junit 5, Mockito, AssertJ, IntelliJ IDEA  2018, Scrum
+**Eingesetzte Technologien und Werkzeuge:** Java SE 8 / 11, Groovy, Hibernate, JPA, JAXB, Spring Boot, Docker, Oracle, Ansible, Jenkins, Maven, Jira, Confluence, Subversion, Git, Junit 5, Mockito, AssertJ, IntelliJ IDEA  2018, Scrum
