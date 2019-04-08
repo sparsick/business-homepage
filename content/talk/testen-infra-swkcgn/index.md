@@ -35,9 +35,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-#url_slides = "https://github.com/sparsick/infra-testing-talk/blob/jugbonn-19/slides/2019.01%20-%20JUG%20Bonn%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
+url_slides = "https://github.com/sparsick/infra-testing-talk/blob/swk-cgn-19/slides/2019.04%20-%20Softwerkskammer%20K%C3%B6ln%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
 url_video = ""
-#url_code = "https://github.com/sparsick/infra-testing-talk/tree/jugbonn-19"
+url_code = "https://github.com/sparsick/infra-testing-talk/tree/swk-cgn-19"
 
 # Does the content use math formatting?
 math = false
@@ -52,3 +52,12 @@ image = ""
 caption = ""
 
 +++
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Very interesting project for testing <a href="https://twitter.com/ansible?ref_src=twsrc%5Etfw">@ansible</a> playbooks: Molecule<br><br>Thanks <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a><br> <a href="https://t.co/fA6bRsNQM3">https://t.co/fA6bRsNQM3</a></p>&mdash; Michael Kutz (@MichaKutz) <a href="https://twitter.com/MichaKutz/status/1115300435139731457?ref_src=twsrc%5Etfw">April 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Infrastructure Testing done right by <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> is about to start <a href="https://twitter.com/rewedigitaltech?ref_src=twsrc%5Etfw">@rewedigitaltech</a> meetup <a href="https://t.co/knTvbxe1RS">pic.twitter.com/knTvbxe1RS</a></p>&mdash; Michael Kutz (@MichaKutz) <a href="https://twitter.com/MichaKutz/status/1115289833713405952?ref_src=twsrc%5Etfw">April 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Und wieder viele Menschen zu Gast bei der <a href="https://twitter.com/hashtag/softwerkskammer?src=hash&amp;ref_src=twsrc%5Etfw">#softwerkskammer</a> Köln <a href="https://twitter.com/rewedigitaltech?ref_src=twsrc%5Etfw">@rewedigitaltech</a>: Testen von und mit Infrastruktur mit <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> <a href="https://t.co/CBmRm6opSp">pic.twitter.com/CBmRm6opSp</a></p>&mdash; Stefan Scheidt (@stefanscheidt) <a href="https://twitter.com/stefanscheidt/status/1115289788607860737?ref_src=twsrc%5Etfw">April 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
