@@ -53,6 +53,11 @@ caption = ""
 
 +++
 
+Bilder zum Vortrag:
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpunkt_verlag/44195118170/in/album-72157673807266017/" title="clc2018_84"><img src="https://live.staticflickr.com/4904/44195118170_fa4bfd28e1_z.jpg" width="640" height="428" alt="clc2018_84"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpunkt_verlag/44195118840/in/album-72157673807266017/" title="clc2018_81"><img src="https://live.staticflickr.com/4867/44195118840_4f05015392_z.jpg" width="640" height="427" alt="clc2018_81"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Tweets zum Vortrag:
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr"><a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> thinks about infrastructural testing at the <a href="https://twitter.com/hashtag/ContainerConf?src=hash&amp;ref_src=twsrc%5Etfw">#ContainerConf</a> 2018.<a href="https://twitter.com/hashtag/ConLi18?src=hash&amp;ref_src=twsrc%5Etfw">#ConLi18</a> <a href="https://twitter.com/hashtag/Conconf18?src=hash&amp;ref_src=twsrc%5Etfw">#Conconf18</a> <a href="https://t.co/X6nbE2Io8J">pic.twitter.com/X6nbE2Io8J</a></p>&mdash; Cloudibility (@cloudibility) <a href="https://twitter.com/cloudibility/status/1062727121859198978?ref_src=twsrc%5Etfw">14. November 2018</a></blockquote>
