@@ -53,6 +53,9 @@ caption = ""
 
 +++
 
+Bilder vom Event:
+https://photos.google.com/share/AF1QipMGG7HGtRyPKRRGTvQpRBa5z6y7DPRTXS5XvD51Vaugwwe2PblefWSmczPwrLiZaw?key=LTdlMi1NUDc5c3JwVXNRVmVBNUhWSzV3V2dRM1FB
+
 Tweets zum Vortrag:
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">MEETUP <a href="https://twitter.com/Xceptance?ref_src=twsrc%5Etfw">@Xceptance</a> <a href="https://twitter.com/JenaDevs?ref_src=twsrc%5Etfw">@JenaDevs</a> <a href="https://twitter.com/devopsthde?ref_src=twsrc%5Etfw">@devopsthde</a> ~&gt; Die allseits versierte <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> spricht wieder über <a href="https://twitter.com/testcontainers?ref_src=twsrc%5Etfw">@testcontainers</a> Weitere Hausaufgabe: <a href="https://t.co/BlrzZ13sYs">https://t.co/BlrzZ13sYs</a> + Wer mehr über Chaos Monkey &amp; Co erfahren möchte kommt zu <a href="https://twitter.com/MrBWilms?ref_src=twsrc%5Etfw">@MrBWilms</a> <a href="https://twitter.com/jugthde?ref_src=twsrc%5Etfw">@jugthde</a> nach Ilmenau <a href="https://twitter.com/rewedigitaltech?ref_src=twsrc%5Etfw">@rewedigitaltech</a> am 31.1. <a href="https://t.co/CmWwQ5yTYF">pic.twitter.com/CmWwQ5yTYF</a></p>&mdash; Benjamin Nothdurft (@DataDuke) <a href="https://twitter.com/DataDuke/status/1085631488022986752?ref_src=twsrc%5Etfw">16. Januar 2019</a></blockquote>
