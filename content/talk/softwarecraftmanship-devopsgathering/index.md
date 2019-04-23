@@ -39,7 +39,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "pdf/2019.03 - DevOps Gathering - What the heck is Software Craftsmanship.pdf"
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=8_ptijtbtuM&feature=youtu.be"
 url_code = ""
 
 # Does the content use math formatting?
