@@ -9,8 +9,8 @@ authors = [""]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Interview im *JAXenter*"
-publication_short = "Im *JAXenter*"
+publication = "Interview im *Entwickler Magazin 3.18*"
+publication_short = "Im *Entwickler Magazin 3.18*"
 
 # Abstract and optional shortened version.
 abstract = "Container können das Deployment unheimlich erleichtern. Aber sind Container deshalb in allen Umgebungen gesetzt? Oftmals lassen sich einfachere Lösungen finden, gerade wenn es nur um Automatisierung geht. In unserem Interview erklärt Softwareentwicklerin und Java-Expertin Sandra Parsick, welche Möglichkeiten es gibt und wann sie angewendet werden sollten."
@@ -45,7 +45,8 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Zum Magazin", url = "https://entwickler.de/entwickler-magazin/entwickler-magazin-3-18-579835512.html"},
+              {name = "Zum Interview auf JAXenter", url = "https://jaxenter.de/ansible-docker-provisionierung-container-68505"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -58,12 +59,6 @@ highlight = true
 [header]
 image = ""
 caption = ""
-
-[[url_custom]]
-name = "Zum Interview"
-url = "https://jaxenter.de/ansible-docker-provisionierung-container-68505"
-
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
