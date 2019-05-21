@@ -38,7 +38,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://slides.com/sparsick/2019-01-17-157"
 url_video = ""
 url_code = ""
 
@@ -55,3 +55,9 @@ image = ""
 caption = ""
 
 +++
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Erste <a href="https://twitter.com/hashtag/Outdoor?src=hash&amp;ref_src=twsrc%5Etfw">#Outdoor</a> <a href="https://twitter.com/hashtag/session?src=hash&amp;ref_src=twsrc%5Etfw">#session</a> des Tages zu code <a href="https://twitter.com/hashtag/dojos?src=hash&amp;ref_src=twsrc%5Etfw">#dojos</a>, <a href="https://twitter.com/hashtag/katas?src=hash&amp;ref_src=twsrc%5Etfw">#katas</a> und was zum 😈 ist denn <a href="https://twitter.com/hashtag/SoftwareCraftmanship?src=hash&amp;ref_src=twsrc%5Etfw">#SoftwareCraftmanship</a>. Die Handwerker der Softwareentwicklung. Geselle -&gt; Meister?! <a href="https://twitter.com/devdaysMD?ref_src=twsrc%5Etfw">@devdaysMD</a> <a href="https://twitter.com/hashtag/MDDevDays?src=hash&amp;ref_src=twsrc%5Etfw">#MDDevDays</a> <a href="https://twitter.com/DataDuke?ref_src=twsrc%5Etfw">@DataDuke</a> <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> time for a new Manifest? Craftmanship over process <a href="https://twitter.com/SoCraTes_Conf?ref_src=twsrc%5Etfw">@SoCraTes_Conf</a> <a href="https://t.co/JERMa64bSc">pic.twitter.com/JERMa64bSc</a></p>&mdash; Daniel Pisanu (@d_pisanu) <a href="https://twitter.com/d_pisanu/status/1130749723797786624?ref_src=twsrc%5Etfw">May 21, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Software Craftsmanship auf den <a href="https://twitter.com/hashtag/mddevdays?src=hash&amp;ref_src=twsrc%5Etfw">#mddevdays</a> präsentiert von <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> und <a href="https://twitter.com/DataDuke?ref_src=twsrc%5Etfw">@DataDuke</a> <a href="https://t.co/fSk7xKyUgd">pic.twitter.com/fSk7xKyUgd</a></p>&mdash; Softwerkskammer MD (@swkMagdeburg) <a href="https://twitter.com/swkMagdeburg/status/1130749378581487618?ref_src=twsrc%5Etfw">May 21, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
