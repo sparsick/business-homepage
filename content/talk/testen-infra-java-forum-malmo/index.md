@@ -1,5 +1,5 @@
 +++
-title = "Testing and Infrastructure for Microservices that suck less!"
+title = "Testing and Infrastructure"
 date = 2019-05-28T10:12:49+02:00  # Schedule page publish date.
 draft = false
 
@@ -47,9 +47,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://github.com/sparsick/infra-testing-talk/blob/javaforummalm%C3%B619/slides/2019.05%20-%20Java%20Forum%20Malm%C3%B6%20-%20Testing%20and%20Infrastructure.pdf"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/sparsick/infra-testing-talk/tree/javaforummalm%C3%B619"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -61,3 +61,13 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+
+Some tweets:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">First speaker out at tonight&#39;s Meetup is <a href="https://twitter.com/groundbreakers?ref_src=twsrc%5Etfw">@groundbreakers</a> <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> speaking about testing infrastructure <a href="https://twitter.com/hashtag/community?src=hash&amp;ref_src=twsrc%5Etfw">#community</a> <a href="https://twitter.com/hashtag/Java?src=hash&amp;ref_src=twsrc%5Etfw">#Java</a> <a href="https://t.co/aZfAVWJjsT">pic.twitter.com/aZfAVWJjsT</a></p>&mdash; Javaforum Malmö (@javaforum) <a href="https://twitter.com/javaforum/status/1133400645438988289?ref_src=twsrc%5Etfw">May 28, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">This I evening I will join <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> on a trip to Malmö Sweden in order to give a <a href="https://twitter.com/testcontainers?ref_src=twsrc%5Etfw">@testcontainers</a> talk at <a href="https://twitter.com/javaforum?ref_src=twsrc%5Etfw">@javaforum</a>. Then tomorrow it&#39;s back to Copenhagen for the last day of <a href="https://twitter.com/gr8conf?ref_src=twsrc%5Etfw">@gr8conf</a> and another talk about the last year of <a href="https://twitter.com/testcontainers?ref_src=twsrc%5Etfw">@testcontainers</a> development.</p>&mdash; Kevin Wittek (@Kiview) <a href="https://twitter.com/Kiview/status/1133360893138538496?ref_src=twsrc%5Etfw">May 28, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
