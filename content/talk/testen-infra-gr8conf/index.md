@@ -47,9 +47,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://github.com/sparsick/infra-testing-talk/blob/gr8conf19/slides/2019.05%20-%20Gr8Conf-%20Testing%20and%20Infrastructure.pdf"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/sparsick/infra-testing-talk/tree/gr8conf19"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -61,3 +61,8 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+Some tweets:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Happy to see <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> talking about using <a href="https://twitter.com/testcontainers?ref_src=twsrc%5Etfw">@testcontainers</a> for database testing in her <a href="https://twitter.com/gr8conf?ref_src=twsrc%5Etfw">@gr8conf</a> talk (even with <a href="https://twitter.com/spockframework?ref_src=twsrc%5Etfw">@spockframework</a> extension example!) 😎 <a href="https://twitter.com/hashtag/swkRuhrOnTour?src=hash&amp;ref_src=twsrc%5Etfw">#swkRuhrOnTour</a> <a href="https://t.co/CeLhOrmnwk">pic.twitter.com/CeLhOrmnwk</a></p>&mdash; Kevin Wittek (@Kiview) <a href="https://twitter.com/Kiview/status/1133029010408181760?ref_src=twsrc%5Etfw">May 27, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
