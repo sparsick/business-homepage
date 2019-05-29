@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-05-27
+time_start = 2019-05-29
 #time_end = 2019-02-18T23:18:46+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -47,7 +47,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://slides.com/sparsick/2019-03-12-craftsmanship#/"
 url_video = ""
 url_code = ""
 
@@ -61,3 +61,8 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+Some tweets:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Learning about crafting software  at <a href="https://twitter.com/hashtag/GR8Conf?src=hash&amp;ref_src=twsrc%5Etfw">#GR8Conf</a> — a good topic for <a href="https://twitter.com/hashtag/groovylang?src=hash&amp;ref_src=twsrc%5Etfw">#groovylang</a> developers and everyone. <a href="https://t.co/X0MmYvYpas">pic.twitter.com/X0MmYvYpas</a></p>&mdash; Jenn Strater @ GR8Conf (@codeJENNerator) <a href="https://twitter.com/codeJENNerator/status/1133663640094224384?ref_src=twsrc%5Etfw">May 29, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
