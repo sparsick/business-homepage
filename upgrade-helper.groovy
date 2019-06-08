@@ -15,15 +15,14 @@ dir.eachFileRecurse (FileType.FILES) { file ->
     newFile.delete()
 
     file.eachLine  { line ->
-      if(line.startsWith("date")) {
-        line = line.replace("date", "publishDate")
-      }
-
-      if(line.startsWith("time_start")) {
-        line = line.replace("time_start", "date")
-      }
-
       newFile << line + "\n"
+
+      if(line.startsWith("date")) {
+        newFile << "all_day = true\n"
+      }
+
+
+
     }
 
   }

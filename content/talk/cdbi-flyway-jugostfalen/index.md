@@ -2,6 +2,7 @@
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 date = 2018-02-08
+all_day = true
 #time_end = 2017-12-14T19:36:14+01:00
 url_slides = "https://github.com/sparsick/flyway-talk/blob/jugostfalen-18/slides/2018.02%20-%20JUG%20Ostfalen%20-%20Continuous%20Database%20Integration%20mit%20Flyway.pdf"
 abstract_short = ""

@@ -2,6 +2,7 @@
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 date = 2017-07-06
+all_day = true
 #time_end = 2017-12-14T19:36:14+01:00
 title = "Muss es immer Docker sein?"
 url_slides = "https://github.com/sparsick/ansible-docker-talk/blob/jfs17/slides/17.07%20-%20JFS%20-%20Muss%20es%20immer%20Docker%20sein%20.pdf"

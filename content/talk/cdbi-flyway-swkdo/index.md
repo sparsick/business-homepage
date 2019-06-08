@@ -2,6 +2,7 @@
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 date = 2013-09-25
+all_day = true
 #time_end = 2017-12-14T19:36:14+01:00
 title = "Continuous Database Integration with Flyway and Jenkins"
 url_slides = "https://github.com/sparsick/flyway-talk/blob/flyway-talk-swkdo/slides/Continuous%20database%20integration%20with%20Flyway%20and%20Jenkins.odp"

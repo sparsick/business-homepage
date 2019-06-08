@@ -2,6 +2,7 @@
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 date = 2017-11-15
+all_day = true
 #time_end = 2017-12-14T19:36:14+01:00
 url_slides = "https://github.com/sparsick/ansible-docker-talk/blob/conlifecylce17/slides/17.11%20-%20Continuous%20Lifecycle%20-%20Es%20muss%20nicht%20immer%20gleich%20Docker%20sein%20-%20IT%20Automation%2C%20die%20zu%20einem%20passt.pdf"
 event_url = "https://www.continuouslifecycle.de/veranstaltung-5846-es-muss-nicht-gleich-docker-sein-%E2%80%93-it-automatisierung%2C-die-zu-einem-passt.html?id=5846"

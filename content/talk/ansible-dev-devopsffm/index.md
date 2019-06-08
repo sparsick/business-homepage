@@ -2,6 +2,7 @@
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 date = 2016-11-17
+all_day = true
 #time_end = 2017-12-14T19:36:14+01:00
 publishDate = "2016-11-17"
 event_url = "https://www.meetup.com/de-DE/DevOps-Frankfurt/events/234936050/"

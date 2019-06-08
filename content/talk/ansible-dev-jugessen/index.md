@@ -2,6 +2,7 @@
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 date = 2017-05-30
+all_day = true
 #time_end = 2017-12-14T19:36:14+01:00
 title = "Ansible für Java-Entwickler"
 url_slides = "https://github.com/sparsick/ansible-talk/blob/jugessen17/slides/2017.05%20-%20JUG%20Essen%20-%20Ansible_for_developer.pdf"

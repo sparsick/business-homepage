@@ -3,6 +3,7 @@ publishDate = 2018-05-29  # Schedule page publish publishDate.
 
 title = "Es muss nicht gleich Docker sein - IT Automation, die zu einem passt"
 date = 2018-05-29
+all_day = true
 #time_end = 2017-11-07
 url_slides = "https://github.com/sparsick/ansible-docker-talk/blob/devopsconber18/slides/18.05%20-%20DevOpsCon%20-%20Es%20muss%20nicht%20immer%20gleich%20Docker%20sein%20-%20IT%20Automation%2C%20die%20zu%20einem%20passt.pdf"
 event_url = "https://devopsconference.de/continuous-delivery/es-muss-nicht-gleich-docker-sein-it-automation-die-zu-einem-passt/"

@@ -6,6 +6,7 @@ draft = false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date = 2019-10-10
+all_day = true
 #time_end = 2018-06-13T16:09:46+02:00
 
 # Abstract and optional shortened version.
