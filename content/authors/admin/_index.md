@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sandra Parsick
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,52 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+#role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+#organizations:
+#- name: Stanford University
+  #url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Agile Softwareentwicklung mit Java-Technologien und Open Source
+- Buildmanagement
+- Releasemanagement
+- Konfigurationsmanagement
+- Continuous Integration
+- Continuous Delivery
+- Software Craftsmanship
+- Softwarearchitektur
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+  #courses:
+  #- course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+  #- course: MEng in Artificial Intelligence
+  #  institution: Massachusetts Institute of Technology
+  #  year: 2009
+  #- course: BSc in Artificial Intelligence
+  #  institution: Massachusetts Institute of Technology
+  #  year: 2008
+
+#  [education]
+#   educations = [
+#    "Finanzdienstleister",
+#    "Industrie",
+#    "Transport",
+#    "Maschinenbau",
+#    "Öffentlicher Dienst",
+#    "Bank",
+#    "IT-Dienstleistung",
+#    "Versicherung",
+#    "E-Commerce",
+#    "Logistik",
+#    "Gesundheitswesen"
+#   ]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -62,14 +82,16 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+# Über mich
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Ich bin als freiberufliche Softwareentwicklerin und Beraterin im Java Umfeld tätig. Seit 2008 beschäftigte ich mich mit agiler Softwareentwicklung in verschiedenen Rollen. Gerne unterstütze und berate ich Sie in den Bereichen der Java Enterprise Anwendungen, agilen Methoden, Software Craftsmanship und in der Automatisierung von Softwareentwicklungsprozessen.
+
+In meiner Freizeit engagiere ich mich in der [Softwerkskammer Ruhrgebiet](https://www.softwerkskammer.org/groups/ruhrgebiet), einer Regionalgruppe der Software Craftmanship Community im deutschsprachigen Raum. Seit 2019 bin ich Mitglied im [Oracle Groundbreaker Ambassador Programm](https://apex.oracle.com/pls/apex/f?p=19297:3).
