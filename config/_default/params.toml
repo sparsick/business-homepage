@@ -63,12 +63,7 @@ office_hours = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/SandraParsick"},
-  {icon = "envelope", icon_pack = "fas", name = "Write me an email", link = "mailto:mail(at)sandra-parsick.de"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/sparsick"},
-  {icon = "github", icon_pack = "fab", name = "Github", link = "https://github.com/sparsick"},
-  {icon = "xing", icon_pack = "fab", name = "Xing", link = "https://xing.to/sparsick"},
-  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/sandra-parsick-589a6b20"},
+  {icon = "keybase", icon_pack = "fab", name = "sparsick", link = "https://keybase.io/sparsick"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
