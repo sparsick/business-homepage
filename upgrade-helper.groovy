@@ -14,25 +14,15 @@ dir.eachFileRecurse (FileType.FILES) { file ->
     def newFile = new File(oldName)
     newFile.delete()
 
-    boolean foundFirst = false
     file.eachLine  { line ->
-      if(line.startsWith("+++") && !foundFirst) {
-        foundFirst = true
+      if(line.startsWith("abstract_short")) {
+        line.replace("abstract_short", "summary")
       }
 
-      if(line.startsWith("+++") && foundFirst) {
-        newFile << '''
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-# Caption (optional)
-caption = ""
-
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = ""
-'''
+      if(line.startsWith("url_custom")) {
+        line.replace("url_custom", "links")
       }
+
       newFile << line + "\n"
     }
 
