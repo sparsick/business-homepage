@@ -16,11 +16,11 @@ dir.eachFileRecurse (FileType.FILES) { file ->
 
     file.eachLine  { line ->
       if(line.startsWith("abstract_short")) {
-        line.replace("abstract_short", "summary")
+        line = line.replace("abstract_short", "summary")
       }
 
-      if(line.startsWith("url_custom")) {
-        line.replace("url_custom", "links")
+      if(line.startsWith("[[url_custom]]") || line.startsWith("url_custom")) {
+        line = line.replace("url_custom", "links")
       }
 
       newFile << line + "\n"

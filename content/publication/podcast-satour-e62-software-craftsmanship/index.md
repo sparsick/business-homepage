@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Software Craftsmanship ist eine Bewegung, die die Softwareentwicklung nicht nur als Ingenieursdisziplin versteht, sondern auch als Handwerk. Die beiden Podcaster gehen auf die Entstehung der Bewegung ein, wie sie sich im deutschsprachigen Raum etabliert hat und wie sie heute organisiert ist. Auch diskutieren sie, was es mit Code Retreats, Coding Dojos oder Katas im Allgemeinen auf sich hat."
-abstract_short = ""
+summary = ""
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -62,7 +62,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "Podcast Folge", url = "https://www.heise.de/developer/artikel/Episode-62-Software-Craftsmanship-4337056.html"}]
+links = [{name = "Podcast Folge", url = "https://www.heise.de/developer/artikel/Episode-62-Software-Craftsmanship-4337056.html"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

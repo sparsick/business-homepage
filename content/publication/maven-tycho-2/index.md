@@ -7,7 +7,7 @@ image_preview = ""
 #authors = ["Sandra Parsick"]
 publication_types = ["1"]
 url_dataset = ""
-abstract_short = "This post describes how to build Eclipse Plugin and Eclipse Feature with Maven Tycho and which problems I have."
+summary = "This post describes how to build Eclipse Plugin and Eclipse Feature with Maven Tycho and which problems I have."
 publication_short = "Im Blog von *Bernd Adamowicz*"
 url_project = ""
 url_code = ""
@@ -18,7 +18,7 @@ publication = "Gastbeitrag im persönlichen Blog von *Bernd Adamowicz*"
 url_video = ""
 
 
-[[url_custom]]
+[[links]]
 name = "Zum Blog Post"
 url = "http://www.bernd-adamowicz.de/235/automated-build-of-rcp-artifacts-with-maven-tycho-a-field-report-part-2/"
 

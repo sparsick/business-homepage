@@ -8,7 +8,7 @@ image_preview = ""
 publication_types = ["1"]
 selected = false
 url_video = ""
-abstract_short = "Post is a field report about the problems during the introduction of Maven Tycho."
+summary = "Post is a field report about the problems during the introduction of Maven Tycho."
 publication_short = "Im Blog von *Bernd Adamowicz*"
 publication = "Gastbeitrag im persönlichen Blog von *Bernd Adamowicz*"
 abstract = "Post is a field report about the problems during the introduction of Maven Tycho."
@@ -17,7 +17,7 @@ url_project = ""
 title = "Automated Build of RCP Artifacts with Maven Tycho – A field report (Part 1)"
 url_dataset = ""
 
-[[url_custom]]
+[[links]]
 name = "Zum Blog Post"
 url = "http://www.bernd-adamowicz.de/105/automated-build-of-rcp-artifacts-with-maven-tycho-a-field-report-part-1/"
 

@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract ="In dieser Folge war ich zu Gast bei Dierk Söllner. Wir sprechen über den Toolseinsatz im Rahmen von modernen Techniken aus Continuous Integration (CI) und Continuous Delivery (CD). Insbesondere unterstützt Continuous Delivery wichtige Architekturziele wie Stabilität und Reaktionsfähigkeit. Dieser Podcast ist der erste Teil. Wir hatten so viel Spaß bei der Produktion und haben über so viele Themen gesprochen, dass die Zeit nicht gereicht hat. Im nächsten Monat folgt die zweite Ausgabe."
-abstract_short = ""
+summary = ""
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -63,7 +63,7 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
-url_custom = [{name = "Podcast Folge", url = "https://www.devopsde.de/programm/28-folge-17-devops-toolparade-teil-1"}]
+links = [{name = "Podcast Folge", url = "https://www.devopsde.de/programm/28-folge-17-devops-toolparade-teil-1"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

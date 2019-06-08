@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Softwareentwicklerin und Beraterin Sandra Parsick gibt im Interview Einsichten in ihren Job und verrät warum der Einsatz von gehypten Technologien, wie Docker und Kubernetes, problematisch sein kann. "
-abstract_short = ""
+summary = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -56,7 +56,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-[[url_custom]]
+[[links]]
 name = "Zum Interview"
 url = "https://www.jobpushy.de/blog/21/%E2%80%9Cverzichtet-auf-conference-driven-development%E2%80%9D----freiberuflerin-sandra-parsick"
 

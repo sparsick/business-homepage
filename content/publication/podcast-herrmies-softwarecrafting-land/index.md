@@ -23,7 +23,7 @@ publication_short = "Herr Mies will's wissen - Im Software-Crafting-Land"
 
 # Abstract and optional shortened version.
 abstract = "Ich war zusammen mit Benjamin Nothdurft Gäste bei 'Herr Mies willst wissen'. Wir haben uns über die Javaland und über Software Craftsmanship unterhalten. "
-abstract_short = ""
+summary = ""
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Podcast Folge", url = "https://mies.me/2019/04/22/hmww33-im-software-crafting-land-mit-sandra-parsick-und-benjamin-nothdurft/"}]
+links = [{name = "Podcast Folge", url = "https://mies.me/2019/04/22/hmww33-im-software-crafting-land-mit-sandra-parsick-und-benjamin-nothdurft/"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

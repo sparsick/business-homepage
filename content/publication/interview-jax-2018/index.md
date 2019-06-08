@@ -24,7 +24,7 @@ publication_short = "Interview auf der JAX 2018"
 # Abstract and optional shortened version.
 abstract = "Beißen sich die Ansätze „Serverless“ und „Infrastructure as Code“ nicht? Ganz und gar nicht, erklärt Sandra Parsick, freiberufliche Softwareentwicklerin, im Interview auf der JAX 2018 in Mainz. Wir sprachen mit ihr zudem über Continuous Database Integration mit Flyway und über die Neuigkeiten beim Automatisierungs-Werkzeug Ansible. Im Interview auf der JAX 2018 gibt Sandra Parsick einen kurzen Überblick über die Voraussetzungen, die geschaffen werden müssen, um Datenbank-Skripte in den Continuous-Integration-Prozess zu integrieren, außerdem stellt sie das Datenbankmigrations-Tool Flyway vor. Der Liquibase-Konkurrent bietet „plain old SQL“ und Migrationsskripte in Java, wodurch ein Umweg über eine XML-Abstrahierung unnötig wird. Unsere Speakerin spricht außerdem über die aktuellen Entwicklungen bei Ansible und auf die Frage hin, ob sich Infrastructure as Code und der derzeit gehypte Serverless-Ansatz nicht beißen, schaltet sich Niko Köbler, Autor des Buches „Serverless Computing in der AWS Cloud“, in die Diskussion ein."
 
-abstract_short = "Beißen sich die Ansätze „Serverless“ und „Infrastructure as Code“ nicht? Ganz und gar nicht, erklärt Sandra Parsick, freiberufliche Softwareentwicklerin, im Interview auf der JAX 2018 in Mainz. Wir sprachen mit ihr zudem über Continuous Database Integration mit Flyway und über die Neuigkeiten beim Automatisierungs-Werkzeug Ansible."
+summary = "Beißen sich die Ansätze „Serverless“ und „Infrastructure as Code“ nicht? Ganz und gar nicht, erklärt Sandra Parsick, freiberufliche Softwareentwicklerin, im Interview auf der JAX 2018 in Mainz. Wir sprachen mit ihr zudem über Continuous Database Integration mit Flyway und über die Neuigkeiten beim Automatisierungs-Werkzeug Ansible."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -56,7 +56,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-[[url_custom]]
+[[links]]
 name = "Zum Interview"
 url = "https://jaxenter.de/serverless-continuous-database-integration-parsick-72158"
 

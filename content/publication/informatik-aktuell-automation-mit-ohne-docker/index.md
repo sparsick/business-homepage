@@ -23,7 +23,7 @@ publication_short = "in: *Informatik aktuell*"
 
 # Abstract and optional shortened version.
 abstract = "Oft werden Container mit klassischen Provisionierungswerkzeugen verglichen, obwohl Container andere Problemstellungen lösen. Dieser Artikel zeigt, worin sich Container bzw. Werkzeuge aus dem Container-Umfeld und Provisionierungswerkzeuge unterscheiden und beleuchtet, in welchen Situationen es Sinn macht, auf ein klassisches Provisionierungswerkzeug zu setzen, wann das Container-Ökosystem die bessere Lösung ist oder auch eine Kombination aus beidem."
-abstract_short = ""
+summary = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -56,7 +56,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-[[url_custom]]
+[[links]]
 name = "Zum Artikel"
 url = "https://www.informatik-aktuell.de/entwicklung/methoden/it-automatisierung-mit-oder-ohne-docker.html"
 

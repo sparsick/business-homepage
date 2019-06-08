@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = ""
+summary = ""
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -62,7 +62,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "Podcast Folge", url = "http://www.devopsde.de/programm/30-folge-18-devops-toolparade-teil-2"}]
+links = [{name = "Podcast Folge", url = "http://www.devopsde.de/programm/30-folge-18-devops-toolparade-teil-2"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
