@@ -1,14 +1,14 @@
 +++
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2017-11-08
+date = 2017-11-08
 #time_end = 2017-12-14T19:36:14+01:00
 title = "Ansible für Java-Entwickler"
 url_slides = "https://github.com/sparsick/ansible-talk/blob/wjax17/slides/2017.11%20-%20W-JAX%20-%20Ansible_for_developer.pdf"
 selected = true
 location = "München"
 url_video = "https://jaxenter.de/ansible-fuer-java-entwickler-grundkurs-73798"
-date = "2017-11-08"
+publishDate = "2017-11-08"
 url_pdf = ""
 event_url = "https://jax.de/devops-continuous-delivery/ansible-fuer-java-entwickler/"
 math = false

@@ -1,11 +1,11 @@
 +++
 title = "Testen von und mit Infrastruktur - Integration Testing done right ;)"
-date = 2019-10-10T16:09:46+02:00  # Schedule page publish date.
+publishDate = 2019-10-10T16:09:46+02:00  # Schedule page publish publishDate.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-10-10
+date = 2019-10-10
 #time_end = 2018-06-13T16:09:46+02:00
 
 # Abstract and optional shortened version.

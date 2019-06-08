@@ -1,9 +1,9 @@
 +++
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2016-02-18
+date = 2016-02-18
 #time_end = 2017-12-14T19:36:14+01:00
-date = "2016-02-18"
+publishDate = "2016-02-18"
 selected = true
 title = "Ansible für Entwickler "
 location = "Düsseldorf"

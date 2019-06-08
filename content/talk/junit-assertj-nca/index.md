@@ -1,11 +1,11 @@
 +++
 title = "JUnit5 + AssertJ = Besser lesbare Tests"
-date = 2019-06-15T10:19:52+02:00  # Schedule page publish date.
+publishDate = 2019-06-15T10:19:52+02:00  # Schedule page publish publishDate.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-06-15T10:19:52+02:00
+date = 2019-06-15T10:19:52+02:00
 #time_end = 2019-05-15T10:19:52+02:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

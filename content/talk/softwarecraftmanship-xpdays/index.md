@@ -1,11 +1,11 @@
 +++
 title = "Gib dem Entwickler seine Code Kata - What the heck is Software Craftsmanship?"
-date = 2018-07-13T16:10:00+02:00  # Schedule page publish date.
+publishDate = 2018-07-13T16:10:00+02:00  # Schedule page publish publishDate.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-11-08
+date = 2018-11-08
 #time_end = 2018-06-13T16:10:00+02:00
 
 # Abstract and optional shortened version.

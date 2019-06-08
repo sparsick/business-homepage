@@ -1,12 +1,12 @@
 +++
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2016-12-06
+date = 2016-12-06
 #time_end = 2017-12-14T19:36:14+01:00
 location = "München"
 url_video = "https://jaxenter.de/ansible-devops-con-54133"
 title = "Ansible für Entwickler"
-date = "2016-12-06"
+publishDate = "2016-12-06"
 event_url = "https://devopsconference.de/archiv-2016/#ansible-fur-entwickler"
 math = false
 url_pdf = ""

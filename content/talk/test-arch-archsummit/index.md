@@ -1,11 +1,11 @@
 +++
 title = "Workshop - Softwarearchitektur automatisiert testen"
-date = 2019-09-16  # Schedule page publish date.
+publishDate = 2019-09-16  # Schedule page publish publishDate.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-09-16
+date = 2019-09-16
 #time_end = 2019-06-08T07:34:30+02:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

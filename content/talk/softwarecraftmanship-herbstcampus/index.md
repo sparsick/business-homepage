@@ -1,11 +1,11 @@
 +++
 title = "Gib dem Entwickler seine Code Kata"
-date = 2018-06-13T16:10:00+02:00  # Schedule page publish date.
+publishDate = 2018-06-13T16:10:00+02:00  # Schedule page publish publishDate.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-09-06
+date = 2018-09-06
 #time_end = 2018-06-13T16:10:00+02:00
 
 # Abstract and optional shortened version.

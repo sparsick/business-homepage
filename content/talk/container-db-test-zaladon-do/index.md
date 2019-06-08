@@ -1,11 +1,11 @@
 +++
 title = "Einsatz von Containern für Datenbanktests"
-date = 2019-03-07T22:31:42+01:00  # Schedule page publish date.
+publishDate = 2019-03-07T22:31:42+01:00  # Schedule page publish publishDate.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-03-28
+date = 2019-03-28
 #time_end = 2019-03-07T22:31:42+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

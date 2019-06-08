@@ -15,12 +15,12 @@ dir.eachFileRecurse (FileType.FILES) { file ->
     newFile.delete()
 
     file.eachLine  { line ->
-      if(line.startsWith("abstract_short")) {
-        line = line.replace("abstract_short", "summary")
+      if(line.startsWith("date")) {
+        line = line.replace("date", "publishDate")
       }
 
-      if(line.startsWith("[[url_custom]]") || line.startsWith("url_custom")) {
-        line = line.replace("url_custom", "links")
+      if(line.startsWith("time_start")) {
+        line = line.replace("time_start", "date")
       }
 
       newFile << line + "\n"

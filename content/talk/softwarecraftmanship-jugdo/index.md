@@ -8,7 +8,7 @@ url_pdf = ""
 url_video = ""
 location = " Dortmund"
 event = "Sommerfest JUG DO"
-date = "2015-08-20"
+publishDate = "2015-08-20"
 title = "Software Craftsmanship in Deutschland"
 url_slides = "https://prezi.com/b3iqcf9mrccn/jug-do-sommerfest-2015-software-craftsmanship-in-deutschland/"
 

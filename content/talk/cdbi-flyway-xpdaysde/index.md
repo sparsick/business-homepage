@@ -1,9 +1,9 @@
 +++
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2015-11-26
+date = 2015-11-26
 #time_end = 2017-12-14T19:36:14+01:00
-date = "2015-11-26"
+publishDate = "2015-11-26"
 url_pdf = ""
 abstract = "Skripte für relationale Datenbanken werden von Entwicklern gerne stiefmütterlich behandelt. Beim ersten Release können sie dank ORM Frameworks generiert werden. Doch spätestens beim zweiten Release, müssen Datebankmigrationskripte geschrieben werden. Sie werden dann gerne an Tickets an gehangen, per Email verteilt, in Release Notes versteckt etc. Irgendwann gibt es keinen Überblick mehr, welche Datenbankskripte zur welcher Softwareversion gehören. Dieser Vortrag zeigt, warum eine Einbindung von Datenbankenskripte in den Continuous Integration Prozess erstrebenswert ist, welche Voraussetzung dafür geschaffen werden müssen und wie Flyway dabei helfen kann."
 url_video = ""

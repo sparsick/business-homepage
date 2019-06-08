@@ -1,8 +1,8 @@
 +++
-date = 2017-11-08  # Schedule page publish date.
+publishDate = 2017-11-08  # Schedule page publish publishDate.
 
 title = "Es muss nicht gleich Docker sein - IT Automation, die zu einem passt"
-time_start = 2017-11-08
+date = 2017-11-08
 #time_end = 2017-11-07
 url_slides = "https://github.com/sparsick/ansible-docker-talk/blob/wjax17/slides/17.11%20-%20W-JAX%20-%20Es%20muss%20nicht%20immer%20gleich%20Docker%20sein%20-%20IT%20Automation%2C%20die%20zu%20einem%20passt.pdf"
 event_url = "https://jax.de/devops-continuous-delivery/es-muss-nicht-immer-gleich-docker-sein-it-automation-die-zu-einem-passt/"

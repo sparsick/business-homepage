@@ -1,11 +1,11 @@
 +++
 title = "Ansible für Entwickler - Konfigurationsmanagement nicht nur für Ops"
-date = 2018-04-24  # Schedule page publish date.
+publishDate = 2018-04-24  # Schedule page publish publishDate.
 draft = false
 
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-04-24
+date = 2018-04-24
 #time_end = 2017-12-14T19:36:14+01:00
 
 # Abstract and optional shortened version.

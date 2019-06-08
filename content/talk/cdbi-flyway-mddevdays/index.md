@@ -1,11 +1,11 @@
 +++
 title = "Continuous Database Integration mit Flyway"
-date = 2018-04-11  # Schedule page publish date.
+publishDate = 2018-04-11  # Schedule page publish publishDate.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-04-11
+date = 2018-04-11
 #time_end = 2017-12-14T19:38:34+01:00
 
 # Abstract and optional shortened version.

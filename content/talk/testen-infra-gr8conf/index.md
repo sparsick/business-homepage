@@ -1,11 +1,11 @@
 +++
 title = "Testing and Infrastructure"
-date = 2019-02-18T23:14:07+01:00  # Schedule page publish date.
+publishDate = 2019-02-18T23:14:07+01:00  # Schedule page publish publishDate.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-05-27
+date = 2019-05-27
 #time_end = 2019-02-18T23:14:07+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

@@ -1,11 +1,11 @@
 +++
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2015-07-15
+date = 2015-07-15
 #time_end = 2017-12-14T19:36:14+01:00
 url_video = ""
 selected = true
-date = "2015-07-15"
+publishDate = "2015-07-15"
 url_slides = "https://github.com/sparsick/ansible-talk/blob/swkdo/slides/Ansible_for_developer.pdf"
 url_pdf = ""
 event_url = "https://www.softwerkskammer.org/activities/do-jul-2015"
