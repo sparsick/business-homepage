@@ -22,7 +22,7 @@ publication = "Interview auf Nighthacking - The future of Java"
 publication_short = "Interview auf Nighthacking - The future of Java"
 
 # Abstract and optional shortened version.
-abstract = "I was interviewed by Yolande Poirier about the ftuture of Java "
+abstract = "I was interviewed by Yolande Poirier about the future of Java "
 summary = ""
 
 # Is this a selected publication? (true/false)

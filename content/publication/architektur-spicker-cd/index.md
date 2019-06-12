@@ -25,8 +25,6 @@ publication_short = ""
 abstract = "Die aktuelle Ausgabe unseres Architektur-Spickers bringt zeitgemäße Techniken aus Continuous Integration (CI) und Continuous Delivery (CD) kurzgefasst zusammen und zeigt wie wichtige Architekturziele wie Stabilität und Reaktionsfähigkeit damit unterstützt werden. Der Aufbau einer passenden CI/CD-Kette bildet den 'roten Faden' hierzu."
 summary = ""
 
-# Featured image thumbnail (optional)
-image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -63,12 +61,6 @@ math = false
 # Does this page require source code highlighting? (true/false)
 highlight = true
 
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -79,4 +71,5 @@ caption = ""
 # Focal point (optional)
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 focal_point = ""
+preview_only = true
 +++

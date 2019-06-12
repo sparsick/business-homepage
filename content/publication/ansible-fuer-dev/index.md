@@ -4,7 +4,6 @@ summary = "Das automatisierte Konfigurieren von Servern ist dank Orchestrierungs
 #authors = ["Sandra Parsick"]
 publication_types = ["2"]
 date = "2016-10-01"
-image_preview = "ansible-cover.png"
 math = false
 publication = "In *Java aktuell*, Nr. 04/2016."
 publication_short = "In *Java aktuell*"
@@ -31,4 +30,5 @@ caption = ""
 # Focal point (optional)
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 focal_point = ""
+preview_only = true
 +++

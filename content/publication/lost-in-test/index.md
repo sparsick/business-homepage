@@ -1,5 +1,4 @@
 +++
-image_preview = "java_magazin_0915-200x283.jpg"
 url_dataset = ""
 title = "Losts in Tests: Wie strukturiere ich meine Entwicklertests?"
 math = false
@@ -32,4 +31,5 @@ caption = ""
 # Focal point (optional)
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 focal_point = ""
+preview_only = true
 +++

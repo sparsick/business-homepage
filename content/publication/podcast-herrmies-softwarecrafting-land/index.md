@@ -1,6 +1,6 @@
 +++
 title = "Herr Mies willst wissen – Im Software-Crafting-Land mit Sandra Parsick und Benjamin Nothdurft"
-date = 2019-04-23T21:08:24+02:00
+date = 2019-04-24T21:08:24+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
