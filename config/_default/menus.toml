@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Vorträge"
-  url = "#talks"
+  url = "#upcoming-talks"
   weight = 3
 
 [[main]]
