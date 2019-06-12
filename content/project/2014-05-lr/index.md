@@ -1,6 +1,6 @@
 +++
 highlight = true
-title = "Java Consultant bei LR Health & Beauty Systems GmbH (05/2014 – 06/2014, 09/2014 – 12/2014)"
+title = "Java Consultant bei LR Health & Beauty Systems GmbH (05/2014 – 06/2014, 09/2014 – 12/ 2014)"
 math = false
 summary = "Unterstützung im Bereich Build- und Konfigurationsmanagement"
 tags = []

@@ -1,5 +1,5 @@
 +++
-title = "Consultant bei einem Finanzdienstleister (seit 10/2018)"
+title = "Consultant bei einem Finanzdienstleister (seit 10/ 2018)"
 date = 2019-03-11T14:47:25+01:00
 draft = false
 summary="Unterstützung in der Entwicklung von JVM-basierten Backend-Systeme "

@@ -1,5 +1,5 @@
 +++
-title = "Software Developer bei HSBC Trinkaus & Burkhardt AG (10/2015 – 12/2015)"
+title = "Software Developer bei HSBC Trinkaus & Burkhardt AG (10/ 2015 – 12/ 2015)"
 external_link = ""
 highlight = true
 date = "2017-02-12T21:09:10+01:00"

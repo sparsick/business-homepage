@@ -1,6 +1,6 @@
 +++
 date = "2017-02-12T21:40:15+01:00"
-title = "Software Developer bei Valtech GmbH (10/2017 - 09/2018)"
+title = "Software Developer bei Valtech GmbH (10/ 2017 - 09/2018)"
 image_preview = ""
 tags = []
 highlight = true

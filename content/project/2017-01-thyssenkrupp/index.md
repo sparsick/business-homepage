@@ -1,5 +1,5 @@
 +++
-date = "2017-02-12T21:40:15+01:00"
+date = "2017-02-12T21:39:15+01:00"
 title = "Software Developer bei ThyssenKrupp Steel AG (01/2017 - 09/2017)"
 image_preview = ""
 tags = []

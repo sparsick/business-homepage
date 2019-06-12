@@ -5,7 +5,7 @@ highlight = true
 image_preview = ""
 summary = "Weiterentwicklung des firmeneigenen Test-Toolings für automatisierte Tests"
 date = "2017-02-12T20:46:39+01:00"
-title = "Quality Assurance Engineer bei InterComponentWare AG (12/2008 – 12/2009)"
+title = "Quality Assurance Engineer bei InterComponentWare AG (12/ 2008 – 12/ 2009)"
 external_link = ""
 
 

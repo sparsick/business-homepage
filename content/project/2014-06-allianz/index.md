@@ -4,7 +4,7 @@ external_link = ""
 image_preview = ""
 highlight = true
 date = "2017-02-12T21:03:11+01:00"
-title = "Software Developer bei Allianz Operations & Services SE (06/2014 – 12/2014)"
+title = "Software Developer bei Allianz Operations & Services SE (06/2014 – 12/ 2014)"
 summary = "Konsolidierung und Performanceoptimierung des bestehenden SDK für die Entwicklung eines CMS; Neuentwicklung des SDK; Unterstützung bei der Konzeptionierung eines Konfigurationsmanagement für die CMS Infrastruktur"
 tags = []
 

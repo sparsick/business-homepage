@@ -1,6 +1,6 @@
 +++
 title = "Consultant bei Euromobil Autovermietung GmbH  (08/2016 - 04/2018)"
-date = 2018-07-03T11:55:33+02:00
+date = "2017-02-12T21:36:37+01:00"
 draft = false
 
 # Tags: can be used for filtering projects.

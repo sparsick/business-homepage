@@ -1,6 +1,6 @@
 +++
 date = "2017-02-12T21:19:18+01:00"
-title = "Trainer bei DIMDI - Deutsches Institut für Medizinische Dokumentation und Information (10/2016)"
+title = "Trainer bei DIMDI - Deutsches Institut für Medizinische Dokumentation und Information (10/ 2016)"
 image_preview = ""
 external_link = ""
 summary = "Schulung: Konfigurationsmanagement und Softwareverteilung"
