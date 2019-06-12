@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-#role: Professor of Artificial Intelligence
+role: Diplom-Informatiker
 
 # Organizations/Affiliations
-#organizations:
-#- name: Stanford University
-  #url: ""
+organizations:
+- name: Freiberufler
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
