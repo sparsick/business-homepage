@@ -50,7 +50,7 @@ tags = []
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "https://github.com/sparsick/junit5-example/tree/master/junit5"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -62,3 +62,9 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Der erste Test ist grün mit <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> beim #<a href="https://twitter.com/hashtag/NCAEvent?src=hash&amp;ref_src=twsrc%5Etfw">#NCAEvent</a> mit <a href="https://twitter.com/hashtag/junit?src=hash&amp;ref_src=twsrc%5Etfw">#junit</a> bei <a href="https://twitter.com/tarentsolutions?ref_src=twsrc%5Etfw">@tarentsolutions</a> in Bonn 😀 <a href="https://t.co/h9ufsRAqVA">pic.twitter.com/h9ufsRAqVA</a></p>&mdash; Never Code Alone (@nevercodealone) <a href="https://twitter.com/nevercodealone/status/1139812556204150784?ref_src=twsrc%5Etfw">June 15, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Looking forward to tomorrow! <a href="https://twitter.com/hashtag/JUnit5?src=hash&amp;ref_src=twsrc%5Etfw">#JUnit5</a> <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> et al...<br><br>✅ <a href="https://t.co/IzeGiD6BfN">https://t.co/IzeGiD6BfN</a></p>&mdash; Christian Stein (@sormuras) <a href="https://twitter.com/sormuras/status/1139613072782495745?ref_src=twsrc%5Etfw">June 14, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
