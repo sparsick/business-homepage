@@ -14,7 +14,7 @@ In diesem Vortrag möchten wir zeigen, wie man den Microservice-Gedanken – kle
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2019-11-07T14:48:43+02:00
 #date_end: 2019-06-15T14:48:43+02:00
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2019-06-15T14:48:43+02:00
