@@ -48,9 +48,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://github.com/sparsick/infra-testing-talk/blob/jfstuttgart19/slides/2019.07%20-%20Java%20Forum%20Stuttgart%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/sparsick/infra-testing-talk/tree/jfstuttgart19"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -62,3 +62,21 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+<blockquote class="twitter-tweet"><p lang="sv" dir="ltr">Infrastruktur testen mit Sandra Parsick <a href="https://twitter.com/hashtag/jfs2019?src=hash&amp;ref_src=twsrc%5Etfw">#jfs2019</a> <a href="https://t.co/WhR2WJBpAn">pic.twitter.com/WhR2WJBpAn</a></p>&mdash; gerdcastan (@gerdcastan) <a href="https://twitter.com/gerdcastan/status/1146690991191154688?ref_src=twsrc%5Etfw">July 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr"><a href="https://twitter.com/hashtag/jfs2019?src=hash&amp;ref_src=twsrc%5Etfw">#jfs2019</a> <a href="https://twitter.com/the_talll?ref_src=twsrc%5Etfw">@the_talll</a> Und der nächste Talk! Bin gespannt! <a href="https://twitter.com/hashtag/klassenfahrt?src=hash&amp;ref_src=twsrc%5Etfw">#klassenfahrt</a> <a href="https://twitter.com/hashtag/tngtech?src=hash&amp;ref_src=twsrc%5Etfw">#tngtech</a> <a href="https://twitter.com/tngtech?ref_src=twsrc%5Etfw">@tngtech</a> <a href="https://t.co/QLQrVUFgvq">pic.twitter.com/QLQrVUFgvq</a></p>&mdash; Manuel Meilinger (@MMeilinger) <a href="https://twitter.com/MMeilinger/status/1146687690986930177?ref_src=twsrc%5Etfw">July 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> recommends MockServer for your tests. Trust her, she knows what she is talking about. <a href="https://twitter.com/hashtag/jfs2019?src=hash&amp;ref_src=twsrc%5Etfw">#jfs2019</a> <a href="https://t.co/o5vY6T3iAr">https://t.co/o5vY6T3iAr</a></p>&mdash; Oliver B. Fischer (@sweblogtweets) <a href="https://twitter.com/sweblogtweets/status/1146719551679356933?ref_src=twsrc%5Etfw">July 4, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">The amazing <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> talks about testing infrastructure holistically at <a href="https://twitter.com/hashtag/jfs2019?src=hash&amp;ref_src=twsrc%5Etfw">#jfs2019</a> with a plethora of recommendations for the audience. <a href="https://t.co/sf5hALDNhR">pic.twitter.com/sf5hALDNhR</a></p>&mdash; Frank Prechtel (@FrankPrechtel) <a href="https://twitter.com/FrankPrechtel/status/1146692954783924225?ref_src=twsrc%5Etfw">July 4, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Testing of  your Infrastructure - a well done talk by <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> <a href="https://twitter.com/hashtag/testing?src=hash&amp;ref_src=twsrc%5Etfw">#testing</a> <a href="https://twitter.com/hashtag/jfs2019?src=hash&amp;ref_src=twsrc%5Etfw">#jfs2019</a> <a href="https://t.co/UuJngpXw2f">pic.twitter.com/UuJngpXw2f</a></p>&mdash; marfis technologies (@marfistech) <a href="https://twitter.com/marfistech/status/1146691156278939649?ref_src=twsrc%5Etfw">July 4, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Weiter gehts mit ‚Testen von mit Infrastruktur‘ von und mit der lieben <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> <a href="https://t.co/nEdxhlZSmx">pic.twitter.com/nEdxhlZSmx</a></p>&mdash; Latti (@Latti_Nbg) <a href="https://twitter.com/Latti_Nbg/status/1146688901383434240?ref_src=twsrc%5Etfw">July 4, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Jetzt: Testen von und mit Infrastruktur - mit <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a><br>Ich bin sehr gespannt! <a href="https://twitter.com/hashtag/jfs2019?src=hash&amp;ref_src=twsrc%5Etfw">#jfs2019</a></p>&mdash; Skyr (@_skyr) <a href="https://twitter.com/_skyr/status/1146688619056435200?ref_src=twsrc%5Etfw">July 4, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
