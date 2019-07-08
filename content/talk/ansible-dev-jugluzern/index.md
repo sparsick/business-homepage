@@ -15,7 +15,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "JUG Luzern"
-event_url = ""
+event_url = "https://www.jug.ch/html/events/2019/ansible_lu.html"
 
 # Location of event.
 location = "Luzern / Schweiz"

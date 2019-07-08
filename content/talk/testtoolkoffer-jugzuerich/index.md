@@ -3,10 +3,11 @@
 
 title: "Ich packe meinen Testtoolkoffer und nehme mit ..."
 event: "JUG Zürich"
-event_url: ""
+event_url: "https://www.jug.ch/html/events/2019/testing_tools_zh.html"
 location: "Zürich / Schweiz"
 summary:
-abstract: ""
+abstract: "Wer hat die Aussage 'Ja, das kann man nicht testen' oder 'den Test kann man nicht schöner schreiben' noch nicht gehört? Doch neben JUnit gibt es weitere Testwerkzeuge, die den Entwickleralltag beim Testschreiben vereinfachen können.
+Dieser Vortrag gibt einen Überblick über weniger bekannte Features von JUnit 5 und stellt nicht so bekannte Testbibliotheken vor, mit denen das Schreiben von Tests wieder Spass macht."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
