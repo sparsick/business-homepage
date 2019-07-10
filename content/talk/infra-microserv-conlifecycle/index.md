@@ -3,7 +3,7 @@
 
 title: "Infrastructure as Microservices - Alternativen zum Monolithen Kubernetes"
 event: "Continuous Lifecycle"
-event_url: ""
+event_url: "https://www.continuouslifecycle.de/lecture.php?id=9177&source=0"
 location: "Mannheim"
 summary:
 abstract: "Es ist en Vogue Anwendungen in fachlich geschnittene Microservices zu unterteilen und in Kubernetes-Clustern zu betreiben. Streng genommen ist ein Kubernetes-Cluster ein monolithisches System, bestehend aus untrennbaren Services. Damit ist gemeint, dass die einzelnen Services nicht unabhängig voneinander betrieben bzw. ausgeschaltet werden können. Dieses Konzept erinnert stark an die 90’er mit dem Konzept großer Application-Server. Konsequent wäre es, das Betriebskonzept der Software-Architektur anzupassen: Unabhängig betreibbare Infrastruktur-Services anbieten. Wie z.B. Service-Registry, Deployment-Verteilung, Load-Balancing…
