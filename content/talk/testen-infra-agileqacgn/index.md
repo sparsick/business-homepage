@@ -55,6 +55,8 @@ caption = ""
 +++
 
 Tweets:
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Meetup-Empfehlung für Köln: <a href="https://twitter.com/qa_agile?ref_src=twsrc%5Etfw">@qa_agile</a> ! Habe gestern von zwei super Speakern <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> und <a href="https://twitter.com/Kiview?ref_src=twsrc%5Etfw">@Kiview</a> viel zum Testen von Infrastruktur und <a href="https://twitter.com/testcontainers?ref_src=twsrc%5Etfw">@testcontainers</a> gelernt. Vielen Dank <a href="https://twitter.com/tarentsolutions?ref_src=twsrc%5Etfw">@tarentsolutions</a> <a href="https://twitter.com/MichaKutz?ref_src=twsrc%5Etfw">@MichaKutz</a></p>&mdash; Christoph Baudson (@sustainablepace) <a href="https://twitter.com/sustainablepace/status/1151386641879195648?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Danke für den kurzweiligen Vortrag. Bin gespannt, was die Teamkollegen morgen dazu meinen.</p>&mdash; JK (@jaekae42) <a href="https://twitter.com/jaekae42/status/1151228139638591493?ref_src=twsrc%5Etfw">July 16, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
