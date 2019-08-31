@@ -49,7 +49,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "https://github.com/sparsick/infra-testing-talk/blob/javaforummalm%C3%B619/slides/2019.05%20-%20Java%20Forum%20Malm%C3%B6%20-%20Testing%20and%20Infrastructure.pdf"
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=bWh5cA0Vy-k"
 url_code = "https://github.com/sparsick/infra-testing-talk/tree/javaforummalm%C3%B619"
 
 # Featured image
