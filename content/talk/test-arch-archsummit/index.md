@@ -48,9 +48,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://www.embarc.de/workshop-software-architektur-summit-2019-berlin/"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/sparsick/testing-architecture-demo"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
