@@ -3,7 +3,7 @@
 
 title: "Infrastructure as Microservices - Alternativen zum Monolithen Kubernetes"
 event: "Softwerkskammer Düsseldorf"
-event_url: ""
+event_url: "https://www.meetup.com/de-DE/Softwerkskammer-Dusseldorf/events/264756757/"
 location: "Düsseldorf"
 summary:
 abstract: "Es ist en Vogue Anwendungen in fachlich geschnittene Microservices zu unterteilen und in Kubernetes-Clustern zu betreiben. Streng genommen ist ein Kubernetes-Cluster ein monolithisches System, bestehend aus untrennbaren Services. Damit ist gemeint, dass die einzelnen Services nicht unabhängig voneinander betrieben bzw. ausgeschaltet werden können. Dieses Konzept erinnert stark an die 90’er mit dem Konzept großer Application-Server. Konsequent wäre es, das Betriebskonzept der Software-Architektur anzupassen: Unabhängig betreibbare Infrastruktur-Services anbieten. Wie z.B. Service-Registry, Deployment-Verteilung, Load-Balancing…
