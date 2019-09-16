@@ -62,3 +62,8 @@ url_code = "https://github.com/sparsick/testing-architecture-demo"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+Tweets zur Veranstaltung
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">In ihrem Workshop zeigen euch <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> und <a href="https://twitter.com/StefanZoerner?ref_src=twsrc%5Etfw">@StefanZoerner</a>, wie man <a href="https://twitter.com/hashtag/Softwarearchitektur?src=hash&amp;ref_src=twsrc%5Etfw">#Softwarearchitektur</a> automatisiert testen kann. <a href="https://t.co/AJuviOd06H">pic.twitter.com/AJuviOd06H</a></p>&mdash; Softw. Arch. Summit (@SoftwArchSummit) <a href="https://twitter.com/SoftwArchSummit/status/1173516409655242753?ref_src=twsrc%5Etfw">September 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
