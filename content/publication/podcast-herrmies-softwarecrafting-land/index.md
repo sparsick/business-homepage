@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Podcast Folge", url = "https://mies.me/2019/04/22/hmww33-im-software-crafting-land-mit-sandra-parsick-und-benjamin-nothdurft/"}]
+links = [{name = "Podcast Folge", url = "https://podcasts.apple.com/us/podcast/hmww33-im-software-crafting-land-mit-sandra-parsick/id1257454170?i=1000436005166"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
