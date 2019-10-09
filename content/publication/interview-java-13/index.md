@@ -50,6 +50,8 @@ links:
   url: https://jaxenter.de/7-experten-7-meinungen-java-14-87362
 - name: Interview Part 1 (English)
   url: https://jaxenter.com/java-13-highlights-162509.html
+- name: Interview Part 2 (English)
+  url: https://jaxenter.com/java-wish-list-162531.html
 
 
 url_pdf:
