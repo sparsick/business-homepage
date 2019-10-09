@@ -54,5 +54,9 @@ caption = ""
 
 +++
 
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">.<a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> talking about <a href="https://twitter.com/hashtag/IntegrationTesting?src=hash&amp;ref_src=twsrc%5Etfw">#IntegrationTesting</a> done right! Thanks for being with us! <a href="https://t.co/yk1DwqSMVU">pic.twitter.com/yk1DwqSMVU</a></p>&mdash; JUG Paderborn (@jugpaderborn) <a href="https://twitter.com/jugpaderborn/status/1181605111807827979?ref_src=twsrc%5Etfw">October 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Schonmal vormerken: Im Oktober besucht uns <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> und wird uns zeigen, wie man Integrationstests richtig macht. Anmeldung via Eventbrite <a href="https://t.co/deT5N3vijT">https://t.co/deT5N3vijT</a> <a href="https://t.co/7v48I17oMS">pic.twitter.com/7v48I17oMS</a></p>&mdash; JUG Paderborn (@jugpaderborn) <a href="https://twitter.com/jugpaderborn/status/1093757677476417537?ref_src=twsrc%5Etfw">8. Februar 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
