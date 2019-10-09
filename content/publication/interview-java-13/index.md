@@ -19,7 +19,12 @@ publication_types: ["3"]
 publication: "Interview zu Java 13"
 publication_short: ""
 
-abstract: "Ich wurde von der Jax Redaktion zum Thema Java 13 interviewt."
+abstract: "Ich wurde von der Jax Redaktion zum Thema Java 13 interviewt. \n
+
+_English Version_ \n
+
+I was interviewed by the Jax editors about Java 13.
+"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,12 +42,14 @@ featured: false
 #   icon: twitter
 
 links:
-- name: Zum Interview Teil 1
+- name: Zum Interview Teil 1 (Deutsch)
   url: https://jaxenter.de/7-experten-highlights-java-13-87270
-- name: Zum Interview Teil 2
+- name: Zum Interview Teil 2 (Deutsch)
   url: https://jaxenter.de/7-experten-7-meinungen-java-release-kadenz-87315
-- name: Zum Interview Teil 3
+- name: Zum Interview Teil 3 (Deutsch)
   url: https://jaxenter.de/7-experten-7-meinungen-java-14-87362
+- name: Interview Part 1 (English)
+  url: https://jaxenter.com/java-13-highlights-162509.html
 
 
 url_pdf:
