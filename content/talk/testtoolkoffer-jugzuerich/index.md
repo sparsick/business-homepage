@@ -41,9 +41,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "https://github.com/sparsick/test-tool-talk/blob/jug-schweiz-zurich/slides/2019.10%20-%20JUG%20Schweiz%20Zuerich%20-%20Ich%20packe%20meinen%20Testtoolkoffer%20und%20nehme%20mit.pdf"
 
-url_code:
+url_code: "https://github.com/sparsick/test-tool-talk/tree/jug-schweiz-zurich"
 url_pdf:
 url_video:
 
@@ -61,3 +61,11 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Tweets:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Von Basics bis zu den schwierigen Tests zu externen Systemen (DB, HTLM, Mail) alles dabei. Gut verständlich mit einem tiefen Verständnis der Materie. Danke!</p>&mdash; Oliver Nautsch (@ollispieps) <a href="https://twitter.com/ollispieps/status/1183845678063194114?ref_src=twsrc%5Etfw">October 14, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Schade, wäre sehr gerne dabei gewesen! Freu mich auf die Slides.</p>&mdash; Patrick Baumgartner (@patbaumgartner) <a href="https://twitter.com/patbaumgartner/status/1183785411136675841?ref_src=twsrc%5Etfw">October 14, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
