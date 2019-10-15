@@ -52,3 +52,6 @@ image = ""
 caption = ""
 
 +++
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Danke für den Talk und den Austausch danach 👍</p>&mdash; Pascal Gafner (@legap) <a href="https://twitter.com/legap/status/1184184847352434689?ref_src=twsrc%5Etfw">October 15, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
