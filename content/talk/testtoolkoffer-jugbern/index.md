@@ -61,3 +61,7 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p lang="de" dir="ltr">Freuen uns auf Deinen Talk morgen für die <a href="https://twitter.com/jugch?ref_src=twsrc%5Etfw">@jugch</a> in Bern. Das Wetter sollte bis dann wieder passen. ☀️<a href="https://t.co/ErtwaOk7cM">https://t.co/ErtwaOk7cM</a></p>&mdash; Thomas Wenger (@thoweCH) <a href="https://twitter.com/thoweCH/status/1184133329802674178?ref_src=twsrc%5Etfw">October 15, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
