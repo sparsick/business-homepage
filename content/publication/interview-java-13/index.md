@@ -51,6 +51,8 @@ links:
 - name: Interview Part 1 (English)
   url: https://jaxenter.com/java-13-highlights-162509.html
 - name: Interview Part 2 (English)
+  url: https://jaxenter.com/java-13-cycle-162524.html
+- name: Interview Part 3 (English)
   url: https://jaxenter.com/java-wish-list-162531.html
 
 
