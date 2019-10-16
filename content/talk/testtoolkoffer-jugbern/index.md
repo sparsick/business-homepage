@@ -41,9 +41,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "https://github.com/sparsick/test-tool-talk/blob/jug-schweiz-bern19/slides/2019.10%20-%20JUG%20Schweiz%20Bern%20-%20Ich%20packe%20meinen%20Testtoolkoffer%20und%20nehme%20mit.pdf"
 
-url_code:
+url_code: "https://github.com/sparsick/test-tool-talk/tree/jug-schweiz-bern19"
 url_pdf:
 url_video:
 
