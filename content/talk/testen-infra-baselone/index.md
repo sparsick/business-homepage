@@ -53,3 +53,8 @@ image = ""
 caption = ""
 
 +++
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr">Got to see <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> on her final stop of &quot;Testing Tour de Suisse&quot;. Cool talk and extra thumbs up for wearing a Wizo shirt and providing star wars based code examples :-) <a href="https://t.co/WOuTMDROZF">pic.twitter.com/WOuTMDROZF</a></p>&mdash; Matthias Haeussler (@maeddes) <a href="https://twitter.com/maeddes/status/1184778115941326849?ref_src=twsrc%5Etfw">October 17, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Speakerin im Wizo Shirt 👍 <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> <a href="https://twitter.com/hashtag/baselone?src=hash&amp;ref_src=twsrc%5Etfw">#baselone</a></p>&mdash; Thorsten Springhart (@thollsten) <a href="https://twitter.com/thollsten/status/1184771442610757632?ref_src=twsrc%5Etfw">October 17, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
