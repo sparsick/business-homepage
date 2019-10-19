@@ -73,3 +73,6 @@ caption = ""
 focal_point = ""
 preview_only = true
 +++
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Ich finde die Architektur Spicker von <a href="https://twitter.com/embarced?ref_src=twsrc%5Etfw">@embarced</a> wirklich Klasse! <a href="https://t.co/gk2gRAPoDq">https://t.co/gk2gRAPoDq</a> <br><br>&quot;Wissen auf den Punkt&quot; gebracht, zB &quot;Continuous Delivery&quot; von <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> und <a href="https://twitter.com/StefanZoerner?ref_src=twsrc%5Etfw">@StefanZoerner</a> <a href="https://t.co/v0aRxnh2D0">https://t.co/v0aRxnh2D0</a><br><br>👌🤓</p>&mdash; Peter Koch 🇨🇭 (@petikoch) <a href="https://twitter.com/petikoch/status/1185183743784505345?ref_src=twsrc%5Etfw">October 18, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
