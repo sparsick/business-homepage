@@ -62,3 +62,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">💯! Tear down all the walls, keep your passions and specializations.<br><br>Big topic yesterday <a href="https://twitter.com/softwerkskammer?ref_src=twsrc%5Etfw">@softwerkskammer</a> <a href="https://twitter.com/hashtag/D%C3%BCsseldorf?src=hash&amp;ref_src=twsrc%5Etfw">#Düsseldorf</a> with <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> and <a href="https://twitter.com/sanddorn?ref_src=twsrc%5Etfw">@sanddorn</a> <a href="https://t.co/gCZxpHcrcQ">https://t.co/gCZxpHcrcQ</a></p>&mdash; Georg Berky (@georgberky) <a href="https://twitter.com/georgberky/status/1187244524785033222?ref_src=twsrc%5Etfw">October 24, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
