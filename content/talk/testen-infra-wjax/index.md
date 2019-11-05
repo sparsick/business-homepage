@@ -48,9 +48,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://github.com/sparsick/infra-testing-talk/blob/wjax-19/slides/2019.11%20-%20W-JAX%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/sparsick/infra-testing-talk/tree/wjax-19"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
