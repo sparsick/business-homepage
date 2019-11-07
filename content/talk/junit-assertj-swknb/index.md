@@ -18,7 +18,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Softwerkskammer Nürnberg"
-event_url = ""
+event_url = "https://www.softwerkskammer.org/activities/Treffen_SWK_Nuernberg_November_2019"
 
 # Location of event.
 location = "Nürnberg"
@@ -48,9 +48,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://github.com/sparsick/junit5-example/tree/master/junit5"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/sparsick/MarsRover-legacy/tree/swknbg-19"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
