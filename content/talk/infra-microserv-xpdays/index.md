@@ -62,3 +62,9 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Alternatives to Kubernetes by <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> and <a href="https://twitter.com/sanddorn?ref_src=twsrc%5Etfw">@sanddorn</a> at <a href="https://twitter.com/hashtag/xpdays19?src=hash&amp;ref_src=twsrc%5Etfw">#xpdays19</a> <a href="https://t.co/MYEo7EvIwQ">pic.twitter.com/MYEo7EvIwQ</a></p>&mdash; Thorsten Brunzendorf (@thbrunzendorf) <a href="https://twitter.com/thbrunzendorf/status/1192396841939349505?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/xdde19?src=hash&amp;ref_src=twsrc%5Etfw">#xdde19</a> .<a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> and her colleague on why you don&#39;t need k8s everytime 😁 &quot;just use the building Blocks you really need&quot;. Happy to have her a <a href="https://twitter.com/softwerkskammer?ref_src=twsrc%5Etfw">@softwerkskammer</a> Nuremberg tonight. <a href="https://twitter.com/hashtag/swknbg?src=hash&amp;ref_src=twsrc%5Etfw">#swknbg</a> <a href="https://t.co/YVHrqio2vz">pic.twitter.com/YVHrqio2vz</a></p>&mdash; Marco Emrich (@marcoemrich) <a href="https://twitter.com/marcoemrich/status/1192396553669021696?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
