@@ -62,6 +62,9 @@ url_code = "https://github.com/sparsick/infra-testing-talk/tree/wjax-19"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p lang="de" dir="ltr">Danke <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a>, einiges (beruhigendes) Bekanntes und einige Inspirationen die schleunigst umgesetzt werden (wollen). Freue mich (und hoffe) auf weitere Entwickung im Testen des Codes von Infrastructure as Code.</p>&mdash; 𝒇𝚕𝚘𝚛𝚒𝚊𝚗 𝙷𝚎𝚞𝚋𝚎𝚌𝚔 ☕⌨ (@FlorianHeubeck) <a href="https://twitter.com/FlorianHeubeck/status/1192213094782685190?ref_src=twsrc%5Etfw">November 6, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Das Foto wird der Menge nicht gerecht. Kein Weitwinkel dabei ;-) Sehr viele Teilnehmer bei <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> Test Talk. Klasse wie immer! <a href="https://twitter.com/jaxcon?ref_src=twsrc%5Etfw">@jaxcon</a> <a href="https://twitter.com/hashtag/wjax2019?src=hash&amp;ref_src=twsrc%5Etfw">#wjax2019</a> <a href="https://t.co/QieFsBL9w1">pic.twitter.com/QieFsBL9w1</a></p>&mdash; Matthias Haeussler (@maeddes) <a href="https://twitter.com/maeddes/status/1192041860224757760?ref_src=twsrc%5Etfw">November 6, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
