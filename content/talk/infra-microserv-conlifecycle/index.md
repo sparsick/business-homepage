@@ -42,9 +42,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "https://github.com/sanddorn/InfrastructureAsMicroservice/blob/conlifecycle-19/slides/2019.11%20-%20Continuous%20Lifecycle%20-%20Infrastructure%20As%20Microservices.pdf"
 
-url_code:
+url_code: "https://github.com/sanddorn/InfrastructureAsMicroservice/tree/conlifecycle-19"
 url_pdf:
 url_video:
 
