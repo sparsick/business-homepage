@@ -79,3 +79,6 @@ caption = ""
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 focal_point = ""
 +++
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">. <a href="https://twitter.com/Ookami86?ref_src=twsrc%5Etfw">@Ookami86</a> mentions my publication about <a href="https://twitter.com/FlywayDb?ref_src=twsrc%5Etfw">@FlywayDb</a> in his talk on <a href="https://twitter.com/ConLifecycle?ref_src=twsrc%5Etfw">@ConLifecycle</a>. 😁🤗😍 <a href="https://twitter.com/hashtag/ConLi19?src=hash&amp;ref_src=twsrc%5Etfw">#ConLi19</a><br><br>Link to the article:<a href="https://t.co/QBmoEU9xhf">https://t.co/QBmoEU9xhf</a> <a href="https://t.co/CtyIowYKpl">pic.twitter.com/CtyIowYKpl</a></p>&mdash; Sandra Parsick (@SandraParsick) <a href="https://twitter.com/SandraParsick/status/1195006158358102022?ref_src=twsrc%5Etfw">November 14, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
