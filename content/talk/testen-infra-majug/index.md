@@ -62,3 +62,9 @@ url_code = "https://github.com/sparsick/infra-testing-talk/tree/majug-19"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Unbedingt reinschauen! Das ist eine echte Test-Tool-Schatzkiste. Danke <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> für&#39;s Zusammentragen! <a href="https://t.co/u9CUZO6hV3">https://t.co/u9CUZO6hV3</a></p>&mdash; Jochen Kraushaar (@KraushaarJochen) <a href="https://twitter.com/KraushaarJochen/status/1195081289747116032?ref_src=twsrc%5Etfw">November 14, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Klasse Vortrag von <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a>. Viel gelernt 👍 <a href="https://t.co/z2JYD03Eso">pic.twitter.com/z2JYD03Eso</a></p>&mdash; Mannheim Java User Group (@majug) <a href="https://twitter.com/majug/status/1195059123781550084?ref_src=twsrc%5Etfw">November 14, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
