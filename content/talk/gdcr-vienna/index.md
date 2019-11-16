@@ -60,3 +60,12 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Notes from final retrospective in Vienna <a href="https://twitter.com/hashtag/coderetreat?src=hash&amp;ref_src=twsrc%5Etfw">#coderetreat</a> <a href="https://twitter.com/hashtag/gdcr19?src=hash&amp;ref_src=twsrc%5Etfw">#gdcr19</a> Thank you <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> and <a href="https://twitter.com/techtalks?ref_src=twsrc%5Etfw">@techtalks</a> <a href="https://t.co/Zp8zMiCLkE">pic.twitter.com/Zp8zMiCLkE</a></p>&mdash; Peter Kofler (@codecopkofler) <a href="https://twitter.com/codecopkofler/status/1195736822783119360?ref_src=twsrc%5Etfw">November 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> is kicking off the Global Day of Coderetreat (2nd edition) in Vienna, Austria hosted by <a href="https://twitter.com/techtalks?ref_src=twsrc%5Etfw">@techtalks</a>.<br><br>Looking forward to an awesome day with a lot to learn!<a href="https://twitter.com/hashtag/gdcr?src=hash&amp;ref_src=twsrc%5Etfw">#gdcr</a> <a href="https://twitter.com/hashtag/gdcr19?src=hash&amp;ref_src=twsrc%5Etfw">#gdcr19</a> <a href="https://t.co/5l36HcQKrp">pic.twitter.com/5l36HcQKrp</a></p>&mdash; Paul Rohorzka (@paulroho) <a href="https://twitter.com/paulroho/status/1195617722513670144?ref_src=twsrc%5Etfw">November 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">It starts! <a href="https://twitter.com/hashtag/gdcr?src=hash&amp;ref_src=twsrc%5Etfw">#gdcr</a> at <a href="https://twitter.com/techtalks?ref_src=twsrc%5Etfw">@techtalks</a> with <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> and <a href="https://twitter.com/codecopkofler?ref_src=twsrc%5Etfw">@codecopkofler</a> <a href="https://t.co/2UhD0XLXhG">pic.twitter.com/2UhD0XLXhG</a></p>&mdash; David Tanzer (@dtanzer) <a href="https://twitter.com/dtanzer/status/1195615772036468736?ref_src=twsrc%5Etfw">November 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
