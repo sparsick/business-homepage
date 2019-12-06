@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 links:
--name: Podcast
+-name: Podcast Folge
  url: https://www.heise.de/developer/artikel/Episode-66-Kubernetes-4602464.html
 url_pdf:
 url_code:

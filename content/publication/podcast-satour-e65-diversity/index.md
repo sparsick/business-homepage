@@ -39,7 +39,7 @@ featured: false
 #   icon: twitter
 
 links:
-  - name: Podcast
+  - name: Podcast Folge
     url: https://www.heise.de/developer/artikel/Episode-65-Diversitaet-in-der-IT-4516899.html
 
 url_pdf:
