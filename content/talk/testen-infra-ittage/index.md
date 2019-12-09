@@ -43,9 +43,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "https://github.com/sparsick/infra-testing-talk/blob/ittage-19/slides/2019.12%20-%20IT-Tage%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
 
-url_code:
+url_code: "https://github.com/sparsick/infra-testing-talk/tree/ittage-19"
 url_pdf:
 url_video:
 
