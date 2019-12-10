@@ -63,3 +63,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">...mal sehen, ob ich meine bewährte Test-Strategie jetzt ändern werde 😇 <a href="https://t.co/LXEfz6KHK4">pic.twitter.com/LXEfz6KHK4</a></p>&mdash; Nils Hartmann 🌻 (@nilshartmann) <a href="https://twitter.com/nilshartmann/status/1204352863650140160?ref_src=twsrc%5Etfw">December 10, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
