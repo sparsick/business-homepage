@@ -63,3 +63,18 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p lang="de" dir="ltr">Danke für den coolen Abend!<br>Hat Spass gemacht 😀</p>&mdash; Ralf D. Müller™ (@RalfDMueller) <a href="https://twitter.com/RalfDMueller/status/1204880724412846080?ref_src=twsrc%5Etfw">December 11, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr"><a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> präsentiert heute Infrastruktur Testing. <a href="https://twitter.com/JUG_DA?ref_src=twsrc%5Etfw">@JUG_DA</a> in <a href="https://twitter.com/TUDarmstadt?ref_src=twsrc%5Etfw">@TUDarmstadt</a> sehr lehrreich. <a href="https://t.co/MFiSyftysP">pic.twitter.com/MFiSyftysP</a></p>&mdash; Harjeet Singh (@singhffm) <a href="https://twitter.com/singhffm/status/1204836073643401216?ref_src=twsrc%5Etfw">December 11, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Und jetzt geht es weiter mit dem geselligen Teil des heutigen Abends, mit hohem Frauenanteil, und das in der IT!!! <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> <a href="https://twitter.com/aelindara?ref_src=twsrc%5Etfw">@aelindara</a> <a href="https://twitter.com/KatrinRabow?ref_src=twsrc%5Etfw">@KatrinRabow</a> (und <a href="https://twitter.com/RalfDMueller?ref_src=twsrc%5Etfw">@RalfDMueller</a>, <a href="https://twitter.com/MarcelBruch?ref_src=twsrc%5Etfw">@MarcelBruch</a>, <a href="https://twitter.com/GerdAschemann?ref_src=twsrc%5Etfw">@GerdAschemann</a> <a href="https://twitter.com/sippsack?ref_src=twsrc%5Etfw">@sippsack</a> <a href="https://twitter.com/wolkenarchitekt?ref_src=twsrc%5Etfw">@wolkenarchitekt</a> <a href="https://twitter.com/dasniko?ref_src=twsrc%5Etfw">@dasniko</a>) <a href="https://t.co/P4hM0fKaOJ">pic.twitter.com/P4hM0fKaOJ</a></p>&mdash; JUG-Darmstadt (@JUG_DA) <a href="https://twitter.com/JUG_DA/status/1204844415065509890?ref_src=twsrc%5Etfw">December 11, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">nach der <a href="https://twitter.com/hashtag/ittage?src=hash&amp;ref_src=twsrc%5Etfw">#ittage</a> ist vor der <a href="https://twitter.com/JUG_DA?ref_src=twsrc%5Etfw">@JUG_DA</a> - heute mit <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> und dem <a href="https://twitter.com/embarced?ref_src=twsrc%5Etfw">@embarced</a> Architekturspicker <a href="https://t.co/Ga4LMAhXIX">pic.twitter.com/Ga4LMAhXIX</a></p>&mdash; Ralf D. Müller™ (@RalfDMueller) <a href="https://twitter.com/RalfDMueller/status/1204808222760210433?ref_src=twsrc%5Etfw">December 11, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

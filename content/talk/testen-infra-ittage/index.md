@@ -63,5 +63,9 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Nice discussion at the coffee bar IT Tage 2019 in Frankfurt with <a href="https://twitter.com/RalfDMueller?ref_src=twsrc%5Etfw">@RalfDMueller</a> <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> <a href="https://twitter.com/dasniko?ref_src=twsrc%5Etfw">@dasniko</a> <a href="https://t.co/98tQVGmIn3">pic.twitter.com/98tQVGmIn3</a></p>&mdash; Wolfgang Weigend (@wolflook) <a href="https://twitter.com/wolflook/status/1204699036684627968?ref_src=twsrc%5Etfw">December 11, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">...mal sehen, ob ich meine bewährte Test-Strategie jetzt ändern werde 😇 <a href="https://t.co/LXEfz6KHK4">pic.twitter.com/LXEfz6KHK4</a></p>&mdash; Nils Hartmann 🌻 (@nilshartmann) <a href="https://twitter.com/nilshartmann/status/1204352863650140160?ref_src=twsrc%5Etfw">December 10, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
