@@ -21,7 +21,7 @@ event = "Softwerkskammer Ruhrgebiet"
 event_url = "https://www.meetup.com/de-DE/Softwerkskammer-Ruhrgebiet/events/267291454/"
 
 # Location of event.
-location = "München"
+location = "Dortmund"
 
 # Is this a selected talk? (true/false)
 selected = false
