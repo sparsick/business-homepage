@@ -13,23 +13,7 @@ all_day = true
 authors = ["Sandra Parsick", "Stefan Zörner"]
 
 # Abstract and optional shortened version.
-abstract = "Nicht-manuelle Tests stellen die Qualität einer Softwarelösung auf effiziente Weise sicher und sind Standard in der Software-Entwicklung.
-Auch, weil die Automatisierung in der Regel früher Rückmeldung gibt zu Fehlern und anderen Unschönheiten.
-Der Ansatz ist auf verschiedenen funktionalen Ebenen gängig — Unit-Tests, Modul-Tests, Integrationstests ...
-Wäre es nicht toll, auch Aspekte Eurer Softwarearchitektur automatisch testen zu können?
-
-Was heißt es überhaupt, Eure Architektur zu testen?
-In diesem Workshop diskutieren wir zunächst kurz verschiedene Ansatzpunkte und Möglichkeiten dazu.
-Und wir räumen mit Mythen und Missverständnissen auf.
-So ist eine Überprüfung, ob eine Implementierung bestimmte Vorgaben einhält, zwar für einzelne Aspekte problemlos möglich.
-Wenn die Vorgaben nichts taugen ist das Ergebnis gleichzeitig uninteressant (und die Tests sind Verschwendung).
-
-Konsequenterweise konzentrieren wir uns anschließend auf effektive Ansätze aus dem Chaos Engineering  und Fitness Functions.
-Denn diese können bei richtiger Anwendung die Wirksamkeit Eurer Architekturansätze langfristig absichern.
-Und sie erlauben eine zielgerichtete Weiterentwicklung Eurer Softwarelösung.
-
-Interaktive Elemente und die Anwendung der Konzepte auf Eure Softwarelösungen runden den Workshop ab.
-"
+abstract = "Nicht-manuelle Tests stellen die Qualität einer Softwarelösung auf effiziente Weise sicher und sind Standard in der Software-Entwicklung. Auch, weil die Automatisierung in der Regel früher Rückmeldung gibt zu Fehlern und anderen Unschönheiten. Der Ansatz ist auf verschiedenen funktionalen Ebenen gängig — Unit-Tests, Modul-Tests, Integrationstests ... Wäre es nicht toll, auch Aspekte Eurer Softwarearchitektur automatisch testen zu können? Was heißt es überhaupt, Eure Architektur zu testen? In diesem Workshop diskutieren wir zunächst kurz verschiedene Ansatzpunkte und Möglichkeiten dazu. Und wir räumen mit Mythen und Missverständnissen auf. So ist eine Überprüfung, ob eine Implementierung bestimmte Vorgaben einhält, zwar für einzelne Aspekte problemlos möglich. Wenn die Vorgaben nichts taugen ist das Ergebnis gleichzeitig uninteressant (und die Tests sind Verschwendung). Konsequenterweise konzentrieren wir uns anschließend auf effektive Ansätze aus dem Chaos Engineering  und Fitness Functions. Denn diese können bei richtiger Anwendung die Wirksamkeit Eurer Architekturansätze langfristig absichern. Und sie erlauben eine zielgerichtete Weiterentwicklung Eurer Softwarelösung. Interaktive Elemente und die Anwendung der Konzepte auf Eure Softwarelösungen runden den Workshop ab."
 abstract_short = ""
 
 # Name of event and optional event URL.
