@@ -16,7 +16,7 @@ publishDate: 2019-11-07T14:59:04+01:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SoftwareArchitekTOUR - Episode 65: Diversität in der IT"
+publication: "SoftwareArchitekTOUR Podcast"
 publication_short: ""
 
 abstract: "Dem heiklen Thema Diversität hat der SoftwareArchitekTOUR-Podcast eine eigene Episode gewidmet. Es geht um Initiativen und Erfahrungen.\n

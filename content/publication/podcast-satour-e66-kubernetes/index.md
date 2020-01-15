@@ -16,7 +16,7 @@ publishDate: 2019-12-06T14:02:36+01:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SoftwareArchitekTOUR - Episode 66: Kubernetes"
+publication: "SoftwareArchitekTOUR Podcast"
 publication_short: ""
 
 abstract: "Der SoftwareArchitekTOUR-Podcast thematisiert den Einsatz der Containerorchestrierungsplattform Kubernetes, ihre Vorteile, aber auch damit verbundene Herausforderungen. \n

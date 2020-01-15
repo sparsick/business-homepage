@@ -18,7 +18,7 @@ authors = ["Sandra Parsick", "Eberhard Wolff"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "SoftwareArchitekTOUR - Episode 62: Software Craftsmanship "
+publication = "SoftwareArchitekTOUR Podcast"
 publication_short = ""
 
 # Abstract and optional shortened version.
