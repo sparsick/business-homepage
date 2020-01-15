@@ -63,6 +63,8 @@ slides: ""
 projects: []
 ---
 
+Blog post, der diesen Vortrag erwähnt: https://blog.codecentric.de/en/2020/01/brave-new-container-world/
+
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Kicking of the next <a href="https://twitter.com/Container_Conf?ref_src=twsrc%5Etfw">@Container_Conf</a> <a href="https://twitter.com/hashtag/conli19?src=hash&amp;ref_src=twsrc%5Etfw">#conli19</a> day with <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> &amp; <a href="https://twitter.com/sanddorn?ref_src=twsrc%5Etfw">@sanddorn</a> about <a href="https://twitter.com/hashtag/infrastructure?src=hash&amp;ref_src=twsrc%5Etfw">#infrastructure</a> as <a href="https://twitter.com/hashtag/microservices?src=hash&amp;ref_src=twsrc%5Etfw">#microservices</a> w/ &amp; w/o <a href="https://twitter.com/kubernetesio?ref_src=twsrc%5Etfw">@kubernetesio</a> monolith 🤘 You need to visit <a href="https://twitter.com/devopsthde?ref_src=twsrc%5Etfw">@devopsthde</a> 😇 <a href="https://t.co/HSZGbZhAJ8">pic.twitter.com/HSZGbZhAJ8</a></p>&mdash; Jonas Hecht (@jonashackt) <a href="https://twitter.com/jonashackt/status/1194923198296539136?ref_src=twsrc%5Etfw">November 14, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
