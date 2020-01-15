@@ -15,10 +15,10 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Webworker Ruhr"
-#event_url = "https://www.softwerkskammer.org/activities/bo-aug-18"
+event_url = "https://www.meetup.com/de-DE/wwruhr/events/267775787"
 
 # Location of event.
-#location = "Bochum"
+location = "Essen"
 
 # Is this a selected talk? (true/false)
 selected = false
