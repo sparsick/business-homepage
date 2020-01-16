@@ -16,7 +16,7 @@ publishDate: 2020-01-01T10:58:14+01:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "DeveloperMelange 027: Devops Culture and Team Structure"
 publication_short: ""
 
 abstract: "Sandra gives us a crash course in what DevOps originally meant and means, when you are a DevOp person and what you would need."
