@@ -1,5 +1,5 @@
 +++
-title = "Workshop - Die Wirksamkeit Eurer Architektur automatisiert testen"
+title = "Workshop: Die Wirksamkeit Eurer Architektur automatisiert testen"
 publishDate = 2019-12-08  # Schedule page publish publishDate.
 draft = false
 

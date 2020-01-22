@@ -1,5 +1,5 @@
 +++
-title = "Workshop - Softwarearchitektur automatisiert testen"
+title = "Workshop: Softwarearchitektur automatisiert testen"
 publishDate = 2019-09-16  # Schedule page publish publishDate.
 draft = false
 
