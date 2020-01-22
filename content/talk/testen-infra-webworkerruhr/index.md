@@ -36,9 +36,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-#url_slides = "https://github.com/sparsick/infra-testing-talk/blob/swk-ruhr/slides/2018.08%20-%20SWK%20Ruhr%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
+url_slides = "https://github.com/sparsick/infra-testing-talk/blob/wwruhr-20/slides/2020.01%20-%20WWRuhr%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
 #url_video = "https://www.youtube.com/watch?v=tA1dEkk_SAQ"
-#url_code = "https://github.com/sparsick/infra-testing-talk/tree/swk-ruhr"
+url_code = "https://github.com/sparsick/infra-testing-talk/tree/wwruhr-20"
 
 # Does the content use math formatting?
 math = false
