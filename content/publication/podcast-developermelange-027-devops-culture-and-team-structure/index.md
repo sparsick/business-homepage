@@ -71,3 +71,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">devops is neither a role nor a single person, it is the culture of the team. 👍 <a href="https://t.co/o0XkjhZsNy">https://t.co/o0XkjhZsNy</a></p>&mdash; Gottfried (@GottfriedSzing) <a href="https://twitter.com/GottfriedSzing/status/1218072405119324160?ref_src=twsrc%5Etfw">January 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
