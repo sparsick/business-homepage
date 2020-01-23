@@ -53,3 +53,15 @@ image = ""
 caption = ""
 
 +++
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr"><a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> mit großer Testabdeckung bei <a href="https://twitter.com/hashtag/wwruhr?src=hash&amp;ref_src=twsrc%5Etfw">#wwruhr</a> <a href="https://t.co/VniWX7WrhI">pic.twitter.com/VniWX7WrhI</a></p>&mdash; manoi (@__manoi) <a href="https://twitter.com/__manoi/status/1220417879922892805?ref_src=twsrc%5Etfw">January 23, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Los geht&#39;s. Mit <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> mit &quot;Testen von und mit Infrastruktur&quot; <a href="https://twitter.com/hashtag/WWRuhr?src=hash&amp;ref_src=twsrc%5Etfw">#WWRuhr</a> <a href="https://t.co/iaZL8CqL7B">pic.twitter.com/iaZL8CqL7B</a></p>&mdash; Webworker Ruhr (@WWRuhr) <a href="https://twitter.com/WWRuhr/status/1220409357457858562?ref_src=twsrc%5Etfw">January 23, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Now <a href="https://twitter.com/WWRuhr?ref_src=twsrc%5Etfw">@WWRuhr</a> <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> about &quot;integration testing done right&quot; <a href="https://t.co/GSOFNDrdTJ">pic.twitter.com/GSOFNDrdTJ</a></p>&mdash; Madeleine Neumann @ 🏘️ (@Maggysche) <a href="https://twitter.com/Maggysche/status/1220408066824425472?ref_src=twsrc%5Etfw">January 23, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">&quot;Integration testing done right&quot; mit <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> <a href="https://twitter.com/hashtag/WWRuhr?src=hash&amp;ref_src=twsrc%5Etfw">#WWRuhr</a> <a href="https://t.co/yXdsvmotMb">pic.twitter.com/yXdsvmotMb</a></p>&mdash; Ronald Krentz (@rokr) <a href="https://twitter.com/rokr/status/1220407547498323975?ref_src=twsrc%5Etfw">January 23, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
