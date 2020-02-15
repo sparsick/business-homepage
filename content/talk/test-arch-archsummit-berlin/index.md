@@ -50,7 +50,7 @@ tags = []
 url_pdf = ""
 url_slides = "https://www.embarc.de/workshop-software-architektur-summit-2019-berlin/"
 url_video = ""
-url_code = "https://github.com/sparsick/testing-architecture-demo"
+url_code = "https://github.com/sparsick/testing-architecture-demo/tree/archsummitber19"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
