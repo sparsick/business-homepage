@@ -21,7 +21,7 @@ event = "DWX - Developer Week"
 event_url = "https://www.developer-week.de"
 
 # Location of event.
-location = "Remscheidt"
+location = "Nürnberg"
 
 # Is this a selected talk? (true/false)
 selected = false
