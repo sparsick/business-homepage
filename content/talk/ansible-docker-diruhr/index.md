@@ -18,6 +18,8 @@ abstract_short = ""
 math = false
 
 +++
+Blogeintrag zum Vortrag: https://www.setlog.com/24-10-2018-es-muss-nicht-immer-docker-sein
+
 Tweets zum Vortrag
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Dreht sich für dich alles immer nur um <a href="https://twitter.com/hashtag/Docker?src=hash&amp;ref_src=twsrc%5Etfw">#Docker</a>? Kein Problem-gemeinsam mit <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> gehen wir den Alternativen mal auf den Grund 🧐Fix anmelden 👉<a href="https://t.co/VrVoMg3UXe">https://t.co/VrVoMg3UXe</a> und vorbeikommen! 🏃‍♂️🏃‍♀️<br>.<a href="https://twitter.com/hashtag/Howtosetlog?src=hash&amp;ref_src=twsrc%5Etfw">#Howtosetlog</a> <a href="https://twitter.com/hashtag/Meetup?src=hash&amp;ref_src=twsrc%5Etfw">#Meetup</a> <a href="https://twitter.com/hashtag/DigitalInnovationRuhr?src=hash&amp;ref_src=twsrc%5Etfw">#DigitalInnovationRuhr</a><br>.<a href="https://twitter.com/hashtag/Software?src=hash&amp;ref_src=twsrc%5Etfw">#Software</a> <a href="https://twitter.com/hashtag/Deployment?src=hash&amp;ref_src=twsrc%5Etfw">#Deployment</a> <a href="https://twitter.com/hashtag/containers?src=hash&amp;ref_src=twsrc%5Etfw">#containers</a> <a href="https://t.co/EalFbJ3Tfi">pic.twitter.com/EalFbJ3Tfi</a></p>&mdash; Setlog (@SetlogGmbH) <a href="https://twitter.com/SetlogGmbH/status/1052130510384836610?ref_src=twsrc%5Etfw">16. Oktober 2018</a></blockquote>
