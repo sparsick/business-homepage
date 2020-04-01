@@ -15,6 +15,7 @@ In diesem Vortrag möchten wir zeigen, wie man den Microservice-Gedanken – kle
 date: 2020-04-23T14:48:43+02:00
 #date_end: 2020-05-15T14:48:43+02:00
 all_day: true
+draft: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-01-15T00:48:43+02:00

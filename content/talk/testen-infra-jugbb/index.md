@@ -16,7 +16,7 @@ Dieser Vortrag zeigt anhand einer Java-Anwendung, wie man mithilfe von 3rd-Party
 date: 2020-04-01T14:58:00+02:00
 #date_end: 2019-06-15T14:58:00+02:00
 all_day: true
-
+draft: true
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-01-15T00:58:00+02:00
 
