@@ -18,8 +18,8 @@ In diesem Training möchten wir zeigen, wie man den Microservice-Gedanken kleine
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-06-18T22:30:51+01:00
-#date_end: 2020-01-22T22:30:51+01:00
+date: 2020-11-23T22:30:51+01:00
+date_end: 2020-11-25T22:30:51+01:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
