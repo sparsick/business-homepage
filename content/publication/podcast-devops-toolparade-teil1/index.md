@@ -1,6 +1,6 @@
 +++
 title = "DevOps auf die Ohren und ins Hirn - Devops Toolparade Teil 1"
-date = 2019-02-10T12:50:20+01:00
+date = 2018-11-17T12:50:20+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,12 +18,12 @@ authors = [""]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "DevOps auf die Ohren und ins Hirn - Devops Toolparade Teil 1"
 publication_short = ""
 
 # Abstract and optional shortened version.
 abstract ="In dieser Folge war ich zu Gast bei Dierk Söllner. Wir sprechen über den Toolseinsatz im Rahmen von modernen Techniken aus Continuous Integration (CI) und Continuous Delivery (CD). Insbesondere unterstützt Continuous Delivery wichtige Architekturziele wie Stabilität und Reaktionsfähigkeit. Dieser Podcast ist der erste Teil. Wir hatten so viel Spaß bei der Produktion und haben über so viele Themen gesprochen, dass die Zeit nicht gereicht hat. Im nächsten Monat folgt die zweite Ausgabe."
-summary = ""
+summary = "In dieser Folge war ich zu Gast bei Dierk Söllner. Wir sprechen über den Toolseinsatz im Rahmen von modernen Techniken aus Continuous Integration (CI) und Continuous Delivery (CD). Insbesondere unterstützt Continuous Delivery wichtige Architekturziele wie Stabilität und Reaktionsfähigkeit. Dieser Podcast ist der erste Teil. Wir hatten so viel Spaß bei der Produktion und haben über so viele Themen gesprochen, dass die Zeit nicht gereicht hat. Im nächsten Monat folgt die zweite Ausgabe."
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -63,7 +63,7 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
-links = [{name = "Podcast Folge", url = "https://www.devopsde.de/programm/28-folge-17-devops-toolparade-teil-1"}]
+links = [{name = "Podcast Folge", url = "https://podcastb15769.podigee.io/17-devops-toolparade-teil-1"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -78,3 +78,5 @@ doi = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+<script class="podigee-podcast-player" src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://podcastb15769.podigee.io/17-devops-toolparade-teil-1/embed?context=external"></script>
