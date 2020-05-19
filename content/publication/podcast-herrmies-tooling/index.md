@@ -1,6 +1,6 @@
 +++
-title = "Herr Mies willst wissen – HMww35 - Ich packe meinen Testtoolkoffer mit Sandra Parsick"
-date = 2020-04-27T21:08:24+02:00
+title = "Herr Mies willst wissen – HMww36 - Tooling mit Sandra Parsick"
+date = 2020-05-18T21:08:24+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -77,4 +77,4 @@ doi = ""
   focal_point = ""
 +++
 
-<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Und da ist sie, die neue Folge. Erneut mit der wunderbaren <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@sandraparsick</a> mit der ich mich darüber unterhalten habe, welche Tools wir so einsetzen (und ganz nebenbei, ob es Fullstack Entwickler wirklich gibt) <a href="https://t.co/M4YKGJXSNk">pic.twitter.com/M4YKGJXSNk</a></p>&mdash; Herr Mies (@HerrMies) <a href="https://twitter.com/HerrMies/status/1262266000092864512?ref_src=twsrc%5Etfw">May 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Und da ist sie, die neue Folge. Erneut mit der wunderbaren <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@sandraparsick</a> mit der ich mich darüber unterhalten habe, welche Tools wir so einsetzen (und ganz nebenbei, ob es Fullstack Entwickler wirklich gibt) <a href="https://t.co/M4YKGJXSNk">pic.twitter.com/M4YKGJXSNk</a></p>&mdash; Herr Mies (@HerrMies) <a href="https://twitter.com/HerrMies/status/1262266000092864512?ref_src=twsrc%5Etfw">May 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
