@@ -13,8 +13,8 @@ Dieser Vortrag zeigt anhand einer Java-Anwendung, wie man mithilfe von 3rd-Party
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-06-08T00:00:00 # - 2020-06-11
-#date_end: 2019-06-15T14:58:00+02:00
+date: 2020-10-13T00:00:00 # - 2020-06-11
+date_end: 2020-10-15T14:58:00+02:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
