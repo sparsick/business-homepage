@@ -3,7 +3,7 @@
 
 title: "Infrastructure as Microservices - Alternativen zum Monolithen Kubernetes"
 event: "JAX"
-event_url: "https://jax.de/cloud-container-serverless/infrastructure-as-microservices-alternativen-zum-monolithen-kubernetes/"
+event_url: "https://jax.de/jax-online-conference/infrastructure-as-microservices-alternativen-zum-monolithen-kubernetes/"
 location: "Mainz"
 summary:
 abstract: "Es ist en Vogue Anwendungen in fachlich geschnittene Microservices zu unterteilen und in Kubernetes-Clustern zu betreiben. Streng genommen ist ein Kubernetes-Cluster ein monolithisches System, bestehend aus untrennbaren Services. Damit ist gemeint, dass die einzelnen Services nicht unabhängig voneinander betrieben bzw. ausgeschaltet werden können. Dieses Konzept erinnert stark an die 90’er mit dem Konzept großer Application-Server. Konsequent wäre es, das Betriebskonzept der Software-Architektur anzupassen: Unabhängig betreibbare Infrastruktur-Services anbieten. Wie z.B. Service-Registry, Deployment-Verteilung, Load-Balancing…
@@ -12,8 +12,8 @@ In diesem Vortrag möchten wir zeigen, wie man den Microservice-Gedanken – kle
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-05-11T14:48:43+02:00
-date_end: 2020-05-15T14:48:43+02:00
+date: 2020-09-0814:48:43+02:00
+date_end: 2020-09-08T14:48:43+02:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
