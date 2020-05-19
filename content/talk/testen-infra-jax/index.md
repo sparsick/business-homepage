@@ -7,7 +7,7 @@ draft = false
 #   End time can optionally be hidden by prefixing the line with `#`.
 date = 2020-09-09
 all_day = true
-<!-- time_end = 2020-05-15 -->
+# time_end = 2020-05-15
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
