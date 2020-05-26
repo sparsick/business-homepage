@@ -42,9 +42,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-#url_slides: "https://github.com/sanddorn/InfrastructureAsMicroservice/blob/xpdays-19/slides/2019.11%20-%20XP%20Days%20Germany%20-%20Infrastructure%20As%20Microservices.pdf"
+url_slides: "https://github.com/sanddorn/InfrastructureAsMicroservice/blob/jaxonline-20/slides/2020.05%20-%20JAX%20Online%20-%20Infrastructure%20As%20Microservices.pdf"
 
-#url_code: "https://github.com/sanddorn/InfrastructureAsMicroservice/tree/xpdays-19"
+url_code: "https://github.com/sanddorn/InfrastructureAsMicroservice/tree/jaxonline-20"
 url_pdf:
 url_video:
 
