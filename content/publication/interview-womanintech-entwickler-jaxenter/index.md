@@ -41,6 +41,8 @@ links:
   url: https://jaxenter.de/karriere/women-tech-sandra-parsick-90277
 - name: Zum Interview entwickler.de
   url: https://entwickler.de/online/karriere/women-in-tech-sandra-parsick-579917747.html
+- name: Zum Interview JAXenter (English Version)
+  url: https://jaxenter.com/women-in-tech-parsick-167507.html
 
 url_pdf:
 url_code:
