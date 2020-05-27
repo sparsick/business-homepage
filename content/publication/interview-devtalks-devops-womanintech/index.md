@@ -31,7 +31,7 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
- - name: DevTalks Homepage
+ - name: Zum Interview
    url: https://devtalks.de/ep-3-sandra-parsick/
    #icon_pack: fab
    #icon: twitter
@@ -67,6 +67,9 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Wir bedanken uns bei Sandra (<a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a>) für diesen Wundervollen DevTalk gestern Abend. Es hat super viel Spaß gemacht und war super spannend!<br><br>Solltet ihr es verpasst haben schaut gleich direkt rein <a href="https://t.co/2DJmIXmfgs">https://t.co/2DJmIXmfgs</a><br>https:// <a href="https://t.co/7gxgPCmI8O">https://t.co/7gxgPCmI8O</a></p>&mdash; DevTalks (@DevTalksde) <a href="https://twitter.com/DevTalksde/status/1265670070841348097?ref_src=twsrc%5Etfw">May 27, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">War echt toll und du hast mir so oft aus der Seele gesprochen. 😊😬</p>&mdash; Sandra Gerberding (@stgerberding) <a href="https://twitter.com/stgerberding/status/1265398687926288384?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
