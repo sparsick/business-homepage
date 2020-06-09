@@ -3,7 +3,7 @@
 
 title: "Ich packe meinen Testtoolkoffer und nehme mit ... - Testwerkzeuge für den Entwickleralltag"
 event: "DWX Home"
-event_url: ""
+event_url: "https://www.developer-week.de/dwx-home/#/talk/ich-packe-meinen-testtoolkoffer-und-nehme-mit-testwerkzeuge-fur-den-entwickleralltag"
 location: "Remote"
 summary:
 abstract: "Tests sind das Hauptkommunikationsmittel von Entwicklern über den Code. Mit Tests kommuniziert man auch noch mit dem nächsten Entwickler, nachdem man das Projekt verlassen hat. Tests sind eine lebende Spezifikation des Codes, den sie testen. Man sollte sie mindestens so sauber halten, wie den Produktionscode - wenn nicht sauberer.
@@ -16,7 +16,7 @@ Neben JUnit, gibt es viele weitere Testwerkzeuge, die den Entwickleralltag beim 
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2020-07-01T12:00:00+02:00
 #date_end: 2020-10-02
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-05-19T14:48:43+02:00
