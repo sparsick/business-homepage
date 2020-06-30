@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://backoffice.doag.org/formes/pubfiles/9909032/docs/Publikationen/Java-Aktuell/2018/02-2018/02-2018-Java-aktuell-Web.pdf"
+url_pdf = "pdf/02-2018-java-aktuell-sandra-parsick-flyway.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
