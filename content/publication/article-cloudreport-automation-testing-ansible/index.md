@@ -39,7 +39,7 @@ links:
 - name: Online Version
   url: http://the-report.cloud/automated-quality-assurance-for-ansible-playbooks
 
-url_pdf: "http://the-report.cloud/wp-content/uploads/2020/01/CloudReport_2020_01.pdf"
+url_pdf: "pdf/2020-01-CloudReport-Sandra-Parisck-testing-ansible.pdf"
 url_code:
 url_dataset:
 url_poster:
