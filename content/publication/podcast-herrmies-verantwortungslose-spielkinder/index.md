@@ -22,7 +22,7 @@ publication = "Herr Mies willst wissen – HMww39 - Verantwortungslose Spielkind
 publication_short = "Herr Mies willst wissen – HMww39 - Verantwortungslose Spielkinder"
 
 # Abstract and optional shortened version.
-abstract = "Ich war Gast bei 'Herr Mies willst wissen'. Wir sprachen über den Artikel von Eberhard Wolff zu "verantwortungslosen Developern"."
+abstract = "Ich war Gast bei 'Herr Mies willst wissen'. Wir sprachen über den Artikel von Eberhard Wolff zu 'verantwortungslosen Developern'."
 summary = ""
 
 # Is this a selected publication? (true/false)
