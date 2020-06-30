@@ -48,7 +48,7 @@ url_slides: "https://github.com/sparsick/test-tool-talk/blob/devathome-20/slides
 
 url_code: "https://github.com/sparsick/test-tool-talk/tree/devathome-20"
 url_pdf:
-url_video:
+url_video: "https://www.youtube.com/watch?v=hAK5SJXhZX0"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
