@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Ich packe meinen Testtoolkoffer und nehme mit ... - Testwerkzeuge für den Entwickleralltag"
+draft: true
 event: "betterCode()"
 event_url: "https://www.bettercode.eu/"
 location: "Darmstadt"
