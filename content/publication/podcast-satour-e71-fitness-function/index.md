@@ -69,3 +69,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Heise Architektur Podcast Folge 71 mit <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> und <a href="https://twitter.com/StefanZoerner?ref_src=twsrc%5Etfw">@StefanZoerner</a> !!! Coole Folge mit zwei agilen Architekten! 😉 <a href="https://twitter.com/heisedc?ref_src=twsrc%5Etfw">@heisedc</a></p>&mdash; NilsRoettger (@NilsRoettger) <a href="https://twitter.com/NilsRoettger/status/1293638311404240897?ref_src=twsrc%5Etfw">August 12, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
