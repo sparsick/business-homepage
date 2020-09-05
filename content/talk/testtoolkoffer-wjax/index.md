@@ -14,8 +14,8 @@ Neben JUnit, gibt es viele weitere Testwerkzeuge, die den Entwickleralltag beim 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-02
-date_end: 2020-11-06
+date: 2020-11-03
+# date_end: 2020-11-06
 all_day: true
 
 # Schedule page publish date (NOT talk date).
