@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Workshop: Infrastruktur als Microservice gedacht – Alternativen zu Kubernetes"
+draft: true
 event: "DevOps Essentials"
 event_url: "https://devops-essentials.de/lecture.php?id=11367&source=11"
 location: "Darmstadt"
