@@ -57,9 +57,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: https://github.com/sparsick/iac-qa-talk/blob/qa-barcamp20/slides/2020.09%20-%20QS%20Barcamp%2020%20-%20Keynote%20Infrastructure%20As%20Code.pdf
 
-url_code:
+url_code: https://github.com/sparsick/iac-qa-talk/tree/qa-barcamp20
 url_pdf:
 url_video:
 
@@ -77,3 +77,15 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr"><a href="https://twitter.com/hashtag/qscamp?src=hash&amp;ref_src=twsrc%5Etfw">#qscamp</a> keynote war toll, und der anschließende open space war eine echte Ergänzung 😂 <a href="https://t.co/QBMwgtWWQZ">pic.twitter.com/QBMwgtWWQZ</a></p>&mdash; Ursula Beiersdorf (@Testhexe) <a href="https://twitter.com/Testhexe/status/1302182379956703233?ref_src=twsrc%5Etfw">September 5, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Es war sehr interessant und gut zu sehen, das wir bei der Transformation beim Kunden in die richtige Richtung gehen.</p>&mdash; MaikNog (@MaikNog) <a href="https://twitter.com/MaikNog/status/1302166157672275968?ref_src=twsrc%5Etfw">September 5, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p lang="de" dir="ltr">Vielen Dank für den interessanten Vortrag! Hoffentlich haben auch OPs Vertreter die Message mitgenommen <a href="https://twitter.com/hashtag/qscamp?src=hash&amp;ref_src=twsrc%5Etfw">#qscamp</a></p>&mdash; QS-Barcamp (@QS_Barcamp) <a href="https://twitter.com/QS_Barcamp/status/1302163902546022401?ref_src=twsrc%5Etfw">September 5, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr"><a href="https://twitter.com/hashtag/qscamp?src=hash&amp;ref_src=twsrc%5Etfw">#qscamp</a> <a href="https://twitter.com/hashtag/FlattenTheCurve?src=hash&amp;ref_src=twsrc%5Etfw">#FlattenTheCurve</a>: Keynote Takeaway: Die Lernkurve von OPS beim Programmieren wird schneller flach durch Pairing von DEV und OPS! <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a></p>&mdash; Ursula Beiersdorf (@Testhexe) <a href="https://twitter.com/Testhexe/status/1302161742760419328?ref_src=twsrc%5Etfw">September 5, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
