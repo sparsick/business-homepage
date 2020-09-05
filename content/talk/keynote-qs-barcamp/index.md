@@ -4,7 +4,7 @@
 title: "Keynote: Infrastructure as Code - Muss man nicht testen, Hauptsache es läuft"
 event: "QS-Barcamp"
 event_url: "https://www.qs-barcamp.de/"
-location: "Hamburg"
+location: "Remote"
 address:
   street:
   city:
