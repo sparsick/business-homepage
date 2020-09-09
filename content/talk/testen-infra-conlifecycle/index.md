@@ -37,7 +37,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "https://github.com/sparsick/infra-testing-talk/blob/conlifecycle18/slides/2018.11%20-%20Continuous%20Lifecycle%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
-url_video = ""
+url_video = "https://slideslive.com/dpunktverlag/continuous-lifecycle-2018?presentation_id=38912146"
 url_code = "https://github.com/sparsick/infra-testing-talk/tree/conlifecycle18"
 
 # Does the content use math formatting?
