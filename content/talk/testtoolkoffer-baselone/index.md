@@ -5,6 +5,7 @@ title: "Featured Talk: Ich packe meinen Testtoolkoffer und nehme mit ... - Testw
 event: "BaselOne"
 event_url: "https://baselone.ch/speech.html?id=E805A007-E54B-4CD0-A241-DE0C42822657"
 location: "Basel"
+draft: true
 summary:
 abstract: "Tests sind das Hauptkommunikationsmittel von Entwicklern über den Code. Mit Tests kommuniziert man auch noch mit dem nächsten Entwickler, nachdem man das Projekt verlassen hat. Tests sind eine lebende Spezifikation des Codes, den sie testen. Man sollte sie mindestens so sauber halten, wie den Produktionscode - wenn nicht sauberer.
 
