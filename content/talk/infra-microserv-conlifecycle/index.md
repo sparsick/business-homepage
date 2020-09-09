@@ -46,7 +46,7 @@ url_slides: "https://github.com/sanddorn/InfrastructureAsMicroservice/blob/conli
 
 url_code: "https://github.com/sanddorn/InfrastructureAsMicroservice/tree/conlifecycle-19"
 url_pdf:
-url_video:
+url_video: "https://vimeo.com/ondemand/continuouslifecycle2019/437795541"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
