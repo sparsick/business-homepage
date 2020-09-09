@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Interview zum 25 Jahre Java"
+title: "Interview zu 25 Jahre Java"
 authors: []
 date: 2020-05-28T10:13:56+02:00
 doi: ""
@@ -16,10 +16,10 @@ publishDate: 2020-05-28T10:13:56+02:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Interview zu Java 13"
-publication_short: ""
+publication: "In *Java Magazin*, Nr. 08/2020"
+publication_short: "In *Java Magazin*"
 
-abstract: "Ich wurde von der Jax Redaktion zum Thema 25 Jahre Java interviewt."
+abstract: "Ich wurde zum Thema 25 Jahre Java interviewt."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 links:
-- name: Zum Interview
+- name: Zum Interview (Online Version)
   url: https://jaxenter.de/java/25-jahra-java-interview-parsick-95965
 
 
