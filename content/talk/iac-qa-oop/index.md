@@ -33,7 +33,7 @@ all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-09-22T10:12:31+02:00
-draft:true
+draft: true
 
 authors: []
 tags: []
