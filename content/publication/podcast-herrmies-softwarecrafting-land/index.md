@@ -1,5 +1,5 @@
 +++
-title = "Herr Mies willst wissen – Im Software-Crafting-Land mit Sandra Parsick und Benjamin Nothdurft"
+title = "Herr Mies will's wissen – Im Software-Crafting-Land mit Sandra Parsick und Benjamin Nothdurft"
 date = 2019-04-24T21:08:24+02:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "Herr Mies will's wissen – Im Software-Crafting-Land mit Sandra 
 publication_short = "Herr Mies will's wissen - Im Software-Crafting-Land"
 
 # Abstract and optional shortened version.
-abstract = "Ich war zusammen mit Benjamin Nothdurft Gäste bei 'Herr Mies willst wissen'. Wir haben uns über die Javaland und über Software Craftsmanship unterhalten. "
+abstract = "Ich war zusammen mit Benjamin Nothdurft Gäste bei 'Herr Mies will's wissen'. Wir haben uns über die Javaland und über Software Craftsmanship unterhalten. "
 summary = ""
 
 # Is this a selected publication? (true/false)

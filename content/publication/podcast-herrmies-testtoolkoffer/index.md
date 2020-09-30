@@ -1,5 +1,5 @@
 +++
-title = "Herr Mies willst wissen – HMww35 - Ich packe meinen Testtoolkoffer mit Sandra Parsick"
+title = "Herr Mies will's wissen – HMww35 - Ich packe meinen Testtoolkoffer mit Sandra Parsick"
 date = 2020-04-27T21:08:24+02:00
 draft = false
 
@@ -18,11 +18,11 @@ authors = [""]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "Herr Mies willst wissen – HMww35 - Ich packe meinen Testtoolkoffer mit Sandra Parsick"
+publication = "Herr Mies will's wissen – HMww35 - Ich packe meinen Testtoolkoffer mit Sandra Parsick"
 publication_short = "Herr Mies will's wissen - Ich packe meinen Testtoolkoffer"
 
 # Abstract and optional shortened version.
-abstract = "Ich war Gast bei 'Herr Mies willst wissen'. Wir sprachen übers Testing "
+abstract = "Ich war Gast bei 'Herr Mies will's wissen'. Wir sprachen übers Testing "
 summary = ""
 
 # Is this a selected publication? (true/false)
