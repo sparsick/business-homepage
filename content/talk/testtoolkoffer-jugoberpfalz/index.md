@@ -64,3 +64,8 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Großen Dank nochmal an <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> und die <a href="https://twitter.com/hashtag/JUGOberpfalz?src=hash&amp;ref_src=twsrc%5Etfw">#JUGOberpfalz</a> für einen recht schönen Talk über Testing und fälschlichen Annahmen was für möglich oder unmöglich gehalten wird.</p>&mdash; Georg Göring (@arkencl) <a href="https://twitter.com/arkencl/status/1313900491395473408?ref_src=twsrc%5Etfw">October 7, 2020</a></blockquote>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Thank you <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> for a great JUGOberpfalz session on Testing. If you want to see <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> coding, join her in 10 Minutes on YouTube <a href="https://t.co/UL4cxAXquZ">https://t.co/UL4cxAXquZ</a></p>&mdash; Richard Fichtner (@RichardFichtner) <a href="https://twitter.com/RichardFichtner/status/1313899351299821570?ref_src=twsrc%5Etfw">October 7, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
