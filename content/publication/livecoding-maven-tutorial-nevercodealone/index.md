@@ -83,3 +83,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Das war eine tolle Session gestern. Habe einen Haufen Neues über Maven gelernt, z.B. dass man Plugins mit Groovy <a href="https://twitter.com/hashtag/groovylang?src=hash&amp;ref_src=twsrc%5Etfw">#groovylang</a>  integrationstesten kann! Freue mich schon auf die nächste Runde mit euch 😊. <a href="https://t.co/CiozSd9xuh">https://t.co/CiozSd9xuh</a></p>&mdash; Georg Berky (@georgberky) <a href="https://twitter.com/georgberky/status/1314087519223533568?ref_src=twsrc%5Etfw">October 8, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr"><a href="https://twitter.com/TheASF?ref_src=twsrc%5Etfw">@TheASF</a> <a href="https://twitter.com/ASFMavenProject?ref_src=twsrc%5Etfw">@ASFMavenProject</a> gestern Abend ca. 2 Stunden life programmieren und ein Beitrag zum versions-maven-plugin <a href="https://t.co/hF8R3yp2wa">https://t.co/hF8R3yp2wa</a> <a href="https://twitter.com/hashtag/MojoHaus?src=hash&amp;ref_src=twsrc%5Etfw">#MojoHaus</a> <a href="https://twitter.com/hashtag/Maven?src=hash&amp;ref_src=twsrc%5Etfw">#Maven</a> <a href="https://t.co/kJcICeYWl2">https://t.co/kJcICeYWl2</a></p>&mdash; Karl Heinz Marbaise (@khmarbaise) <a href="https://twitter.com/khmarbaise/status/1314079395800322050?ref_src=twsrc%5Etfw">October 8, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
