@@ -43,9 +43,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-#url_slides: "https://github.com/sparsick/infra-testing-talk/blob/jugda-19/slides/2019.12%20-%20JUG%20Darmstadt%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
+url_slides: "https://github.com/sparsick/infra-testing-talk/blob/devopsconberlin-20/slides/2020.10%20-%20DevOpsCon%20Berlin%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
 
-#url_code: "https://github.com/sparsick/infra-testing-talk/tree/jugda-19"
+url_code: "https://github.com/sparsick/infra-testing-talk/tree/devopsconberlin-20"
 url_pdf:
 url_video:
 
