@@ -1,5 +1,5 @@
 +++
-title = "Gib dem Entwickler seine Code Kata - What the heck is Software Craftsmanship?"
+title = "Abgesagt - Gib dem Entwickler seine Code Kata - What the heck is Software Craftsmanship?"
 publishDate = 2020-02-20T16:10:00+02:00  # Schedule page publish publishDate.
 draft = false
 
