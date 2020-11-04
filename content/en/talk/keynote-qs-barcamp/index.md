@@ -78,6 +78,10 @@ slides: ""
 projects: []
 ---
 
+[Blog Post "#FlattenTheCurve: Another QS Barcamp Perspective"](https://testhexen.de/?p=467)
+
+
+
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr"><a href="https://twitter.com/hashtag/qscamp?src=hash&amp;ref_src=twsrc%5Etfw">#qscamp</a> keynote war toll, und der anschließende open space war eine echte Ergänzung 😂 <a href="https://t.co/QBMwgtWWQZ">pic.twitter.com/QBMwgtWWQZ</a></p>&mdash; Ursula Beiersdorf (@Testhexe) <a href="https://twitter.com/Testhexe/status/1302182379956703233?ref_src=twsrc%5Etfw">September 5, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
