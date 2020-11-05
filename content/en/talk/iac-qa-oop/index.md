@@ -3,7 +3,7 @@
 
 title: "Infrastructure as Code - Muss man nicht testen, Hauptsache es läuft"
 event: "OOP 2021"
-event_url: "https://www.oop-konferenz.de/oop2021.html"
+event_url: "https://www.oop-konferenz.de/oop2021/programm/konferenzprogramm.html#item-2145"
 location:
 address:
   street:
@@ -27,13 +27,13 @@ machen"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-02-08T10:12:31+02:00
-date_end: 2020-02-12T10:12:31+02:00
-all_day: false
+date: 2021-02-09T10:12:31+02:00
+#date_end: 2020-02-12T10:12:31+02:00
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-09-22T10:12:31+02:00
-draft: true
+draft: false
 
 authors: []
 tags: []
