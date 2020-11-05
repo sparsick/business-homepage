@@ -19,19 +19,29 @@ publication_types: ["6"]
 publication: "Livecoding - Never Code Alone - Maven JLink Plugin Open Source Contributing"
 publication_short: ""
 
-abstract: "Du denkst etwas zu einem Open Source beitragen ist schwierig? Wir wollen das Gegenteil zeigen. Karl Heinz Marbaise und Christian Stein, Maven Commiter, mobben mit Georg Berky und Sandra Parsick, zwar Maven Nutzer, aber ohne Maven-Entwicklungserfahrung, ein Maven Issue weg. Ganz nebenbei wird das neue Jetbrain Intellji Plugin 'Code With Me' unter Probe gestellt. Ganz ohne Drehbuch, nur Live Improvisation.\n
+abstract: "Bei unserem letzten Live Stream haben wir gelernt, wie ein Bug in einem
+Maven Plugin mit Hilfe von Integration Test nachgestellt werden kann.
+Eigentlich hatten Karl Heinz Marbaise, Christian Stein, Georg Berky und
+Sandra Parsick heute vor diesen Bug zu fixen. Doch ein anderes Plugin
+braucht unsere Hilfe dringender. In dieser Folge zeigen wir anhand des
+JLink Maven Plugins wie ein Release im Maven Universum vorbereitet wird.
+Ganz nebenbei erklären Karl Heinz und Christian wie die Apache
+Foundation funktioniert. Und auch in dieser Folge heißt die Devise: Ganz
+ohne Drehbuch, nur Live Improvisation. Der Bug vom letzten Mal ist aber
+nicht vergessen. Dieser wird beim nächsten Mal gefixt.
 
 Das Live Video von der Session kann direkt auf YouTube mitverfolgt werden. Hier könnt ihr euch gerne mit Fragen über den Chat einbringen. Folgt dafür bitte dem Kanal
-https://www.youtube.com/channel/UCjVT6iJ_wg7OM0DkV5TpNCQ \n
+https://www.youtube.com/channel/UCjVT6iJ_wg7OM0DkV5TpNCQ
 
-Ablauf Live Maven Tutorial Open Source Contributing Meetup
+Live Video letztes Event - Maven Tutorial deutsch Intellij Open Source Contributing Code with me
+https://youtu.be/oe2r5fFl6V4
+
+Ablauf Live Maven Tutorial Open Source Contributing Meetup:
 - Kurzes Onboarding
 - Vorstellung aktuelles Beispiel
-- Gemeinsames Best Mob Programming
+- Gemeinsames Best Practice Mob Programming
 
-Wir treffen uns ab 20:00 im Online Meeting und gehen dann schnell live. \n
-
-Teilnehmer für das Live Coding können über den NCA Slack Channel der Video Session beitreten. Wir verwenden Visual Studio Code mit dem Live Sharing Extension Pack. Zugang gibt es auf Anfrage über nevercodealone@gmail.com"
+Wir treffen uns ab 20:00 im Online Meeting und gehen dann schnell live"
 
 # Summary. An optional shortened abstract.
 summary: ""
