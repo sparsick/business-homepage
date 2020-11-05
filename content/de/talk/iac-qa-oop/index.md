@@ -4,7 +4,7 @@
 title: "Infrastructure as Code - Muss man nicht testen, Hauptsache es läuft"
 event: "OOP 2021"
 event_url: "https://www.oop-konferenz.de/oop2021/programm/konferenzprogramm.html#item-2145"
-location:
+location: Remote
 address:
   street:
   city:
