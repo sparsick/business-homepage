@@ -47,7 +47,7 @@ url_slides: "https://github.com/sparsick/test-tool-talk/blob/jcon-20/slides/2020
 
 url_code: "https://github.com/sparsick/test-tool-talk/tree/jcon-20"
 url_pdf:
-url_video:
+url_video: "https://www.youtube.com/watch?v=x-vZ9WFmkC4"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
