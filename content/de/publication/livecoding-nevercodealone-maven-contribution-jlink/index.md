@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Livecoding - Never Code Alone - Maven JLink Plugin Open Source Contributing"
+title: "Live Coding - Never Code Alone - Maven JLink Plugin Open Source Contributing"
 authors: ["Sandra Parsick", "Karl Heinz Marbaise", "Christian Stein", "Georg Berky"]
 date: 2020-11-11T08:50:43+02:00
 doi: ""
@@ -94,7 +94,7 @@ projects: []
 slides: ""
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hat richtig Spass gemacht ... JLink Java Maven Plugin Open Source Contributing Live Coding <a href="https://t.co/FEThp4fg8r">https://t.co/FEThp4fg8r</a> via <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a></p>&mdash; Karl Heinz Marbaise (@khmarbaise) <a href="https://twitter.com/khmarbaise/status/1327735724016340998?ref_src=twsrc%5Etfw">November 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hat richtig Spass gemacht ... JLink Java Maven Plugin Open Source Contributing Live Coding <a href="https://t.co/FEThp4fg8r">https://t.co/FEThp4fg8r</a> via <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a></p>&mdash; Karl Heinz Marbaise (@khmarbaise) <a href="https://twitter.com/khmarbaise/status/1327735724016340998?ref_src=twsrc%5Etfw">November 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Wir haben wieder was für <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a>, <a href="https://twitter.com/hashtag/javaprogramming?src=hash&amp;ref_src=twsrc%5Etfw">#javaprogramming</a> und <a href="https://twitter.com/hashtag/maven?src=hash&amp;ref_src=twsrc%5Etfw">#maven</a> getan - hinter Updates steckt viel Aufwand und Hilfe wird hier gebraucht - schaut euch mal den kompletten Weg für ein Release an ;) <a href="https://t.co/tJn7qpLcpC">https://t.co/tJn7qpLcpC</a></p>&mdash; Never Code Alone (@nevercodealone) <a href="https://twitter.com/nevercodealone/status/1326849519535984640?ref_src=twsrc%5Etfw">November 12, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

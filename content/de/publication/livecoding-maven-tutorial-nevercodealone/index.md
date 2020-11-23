@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Livecoding - Never Code Alone - Maven Tutorial Open Source Contributing"
+title: "Live Coding - Never Code Alone - Maven Tutorial Open Source Contributing"
 authors: ["Sandra Parsick", "Karl Heinz Marbaise", "Christian Stein", "Georg Berky"]
 date: 2020-10-07T08:50:43+02:00
 doi: ""

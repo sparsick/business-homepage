@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Live Coding - Let's Code - Spring Boot Live Coding"
+title: "Live Coding - Let's Code - Spring Boot Live Coding - Follow Up"
 authors: ["Sandra Parsick", "Andreas Ebbert-Karroum"]
-date: 2020-10-07T09:25:53+02:00
+date: 2020-12-04T09:25:53+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-07T09:25:53+02:00
+publishDate: 2020-11-23T09:25:53+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,8 @@ publication_types: ["6"]
 publication: "Livecoding - Let's Code - Spring Boot Live Coding"
 publication_short: ""
 
-abstract: "Andreas hat mich zu einer Spring Boot Coding Session eingeladen. Live, ohne Drehbuch :)"
+abstract: "Ich bin wieder Gast bei Andreas einer Spring Boot Coding Session. Wir schließen 'nur' ein Feature ab, was schon zu 80% fertig ist. Was kann da schon schief gehen? Zum Beispiel, dass wir uns wie beim letzten Mal an einem Mini-Datums-Bug ne ganze Stunde abrackern.
+"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -43,7 +44,7 @@ url_poster:
 url_project:
 url_slides:
 url_source:
-url_video: https://www.youtube.com/watch?v=UJB027BZbSU
+url_video: https://www.youtube.com/watch?v=2H5XrUjFL1M
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
