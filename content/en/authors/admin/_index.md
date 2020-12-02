@@ -84,6 +84,6 @@ email: ""
 #- Visitors
 ---
 
-I'm a software developer and consultant in the Java space. Since 2008 she has been involved in agile software development in various roles such as supporting and providing advice on Java enterprise applications, agile methods, software craftsmanship and the automation of software development processes.
+I'm a software developer and consultant in the Java space. Since 2008 I have been involved in agile software development in various roles such as supporting and providing advice on Java enterprise applications, agile methods, software craftsmanship and the automation of software development processes. I like to share my knowledge at conferences, in blog posts and other publications.
 
-In her free time she is involved in the Softwerkskammer Ruhrgebiet, a regional group of the Software Craftsmanship Community in German-speaking countries. She has been a member of the Oracle Groundbreaker Ambassador program since 2019. Furthermore, I'm part of several program committees like the Javaland, [IT-Tage 2020](https://www.ittage.informatik-aktuell.de/konferenz/kuratorium.html) and [Frankfurter Entwicklertage 2021](https://entwicklertag.de/frankfurt/2021/unser-programmkomitee-2021)
+In my free time I am involved in the Softwerkskammer Ruhrgebiet, a regional group of the Software Craftsmanship Community in German-speaking countries. I have been a member of the Oracle Groundbreaker Ambassador program since 2019. Furthermore, I'm part of several program committees like the Javaland, [IT-Tage 2020](https://www.ittage.informatik-aktuell.de/konferenz/kuratorium.html) and [Frankfurter Entwicklertage 2021](https://entwicklertag.de/frankfurt/2021/unser-programmkomitee-2021)
