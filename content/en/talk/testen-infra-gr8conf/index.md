@@ -49,7 +49,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "https://github.com/sparsick/infra-testing-talk/blob/gr8conf19/slides/2019.05%20-%20Gr8Conf-%20Testing%20and%20Infrastructure.pdf"
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=GPxr_P1PANc"
 url_code = "https://github.com/sparsick/infra-testing-talk/tree/gr8conf19"
 
 # Featured image
