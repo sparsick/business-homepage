@@ -1,2 +1,14 @@
 - id: education
   translation: Industry Sector
+- id: pub_conf
+  translation: Blog Post
+- id: pub_journal
+  translation: Article
+- id: pub_preprint
+  translation: Interview
+- id: pub_report
+  translation: Podcast
+- id: pub_book_section
+  translation: Live Coding
+- id: pub_thesis
+  translation: Live Streaming
