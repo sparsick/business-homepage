@@ -13,13 +13,13 @@ publishDate: 2020-10-30T19:42:33+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["4", "6"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Podcast Ready for Review mit Daniel Mies"
 publication_short: ""
 
-abstract: "Nachdem Sandra langsam Dauergast bei Daniel in 'Herr Mies will's wissen' wurde, haben wir uns gedacht, ein eigener Podcast muss her. Und hier ist er. "
+abstract: "Nachdem Sandra langsam Dauergast bei Daniel in 'Herr Mies will's wissen' wurde, haben wir uns gedacht, ein eigener Podcast muss her. Und hier ist er. Ab und an machen wir auch Live-Coding auf YouTube. "
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -42,6 +42,8 @@ links:
    url: https://ready-for-review.dev
  - name: MP3 Feed
    url: https://ready-for-review.podigee.io/feed/mp3
+ - name: YouTube Kanal
+   url: https://www.youtube.com/channel/UCnVCACzOxoOShe_69qo51hg
 
 url_pdf:
 url_code:
