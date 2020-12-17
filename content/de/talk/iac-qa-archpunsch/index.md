@@ -3,7 +3,7 @@
 
 title: "Infrastructure as Code - Muss man nicht testen, Hauptsache es läuft"
 event: "Embarc Architektur Punsch"
-event_url: "https://blog.embarc.de/architektur-punsch-2020/?tw"
+event_url: "https://blog.embarc.de/architektur-punsch-2020/?tw#talk3"
 location: Remote
 address:
   street:
@@ -58,9 +58,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "https://github.com/sparsick/iac-qa-talk/blob/archpunsch20/slides/2020.12%20-%20Architekturpunsch%20-%20Infrastructure%20As%20Code.pdf"
 
-url_code:
+url_code: "https://github.com/sparsick/iac-qa-talk/tree/archpunsch20"
 url_pdf:
 url_video:
 
