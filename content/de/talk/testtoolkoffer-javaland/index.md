@@ -3,7 +3,7 @@
 
 title: "Ich packe meinen Testtoolkoffer und nehme mit ... - Testwerkzeuge für den Entwickleralltag"
 event: "Javaland"
-#event_url: "https://cyberland.ijug.eu/sessions/session-20.html"
+event_url: "https://programm.javaland.eu/2021/#/scheduledEvent/606428"
 location: "Remote / Phantasialand Brühl bei Köln"
 summary:
 abstract: "Tests sind das Hauptkommunikationsmittel von Entwicklern über den Code. Mit Tests kommuniziert man auch noch mit dem nächsten Entwickler, nachdem man das Projekt verlassen hat. Tests sind eine lebende Spezifikation des Codes, den sie testen. Man sollte sie mindestens so sauber halten, wie den Produktionscode - wenn nicht sauberer.
