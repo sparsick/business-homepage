@@ -1,4 +1,4 @@
-gs---
+---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Infrastructure as Code - Muss man nicht testen, Hauptsache es läuft"
@@ -27,8 +27,8 @@ machen"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-03-03T10:12:31+02:00
-date_end: 2020-03-05T10:12:31+02:00
+date: 2021-03-04T10:12:31+02:00
+#date_end: 2020-03-05T10:12:31+02:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
