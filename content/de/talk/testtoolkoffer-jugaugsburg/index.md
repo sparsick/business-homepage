@@ -19,7 +19,7 @@ date: 2021-01-19
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-01-0814:48:43+02:00
+publishDate: 2021-01-08T14:48:43+02:00
 
 authors: []
 tags: []
