@@ -48,7 +48,7 @@ url_slides: "https://github.com/sparsick/test-tool-talk/blob/jug-augsburg21/slid
 
 url_code: "https://github.com/sparsick/test-tool-talk/tree/jug-augsburg21"
 url_pdf:
-url_video:
+url_video: "https://www.youtube.com/watch?v=2WPFkndHPh0"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
