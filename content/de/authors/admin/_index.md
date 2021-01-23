@@ -10,10 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Diplom-Informatiker
+role: Software Entwickler
 
 # Organizations/Affiliations
 organizations:
+- name: Java Champion
+  url: ""
 - name: Freiberufler
   url: ""
 
@@ -86,4 +88,4 @@ email: ""
 
 Ich bin als freiberufliche Softwareentwicklerin und Beraterin im Java Umfeld tätig. Seit 2008 beschäftigte ich mich mit agiler Softwareentwicklung in verschiedenen Rollen. Gerne unterstütze und berate ich Sie in den Bereichen der Java Enterprise Anwendungen, agilen Methoden, Software Craftsmanship und in der Automatisierung von Softwareentwicklungsprozessen.
 
-In meiner Freizeit engagiere ich mich in der [Softwerkskammer Ruhrgebiet](https://www.softwerkskammer.org/groups/ruhrgebiet), einer Regionalgruppe der Software Craftmanship Community im deutschsprachigen Raum. Außerdem sitze ich in den Programmkomitees der Javaland, [IT-Tage 2020](https://www.ittage.informatik-aktuell.de/konferenz/kuratorium.html) und [Frankfurter Entwicklertage 2021](https://entwicklertag.de/frankfurt/2021/unser-programmkomitee-2021). Seit 2019 bin ich Mitglied im [Oracle Groundbreaker Ambassador Programm](https://apex.oracle.com/pls/apex/f?p=19297:3).
+In meiner Freizeit engagiere ich mich in der [Softwerkskammer Ruhrgebiet](https://www.softwerkskammer.org/groups/ruhrgebiet), einer Regionalgruppe der Software Craftmanship Community im deutschsprachigen Raum. Außerdem sitze ich in den Programmkomitees der Javaland, [IT-Tage 2020](https://www.ittage.informatik-aktuell.de/konferenz/kuratorium.html) und [Frankfurter Entwicklertage 2021](https://entwicklertag.de/frankfurt/2021/unser-programmkomitee-2021). Seit 2019 bin ich Mitglied im [Oracle Groundbreaker Ambassador Programm](https://apex.oracle.com/pls/apex/f?p=19297:3) und seit 2020 [Java Champion](https://apexapps.oracle.com/pls/apex/f?p=119297:3::::::).
