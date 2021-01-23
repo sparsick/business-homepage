@@ -69,6 +69,12 @@ social:
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/sparsick
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCALpH2CcsfVvo6goiPW1Gaw
+- icon: podcast
+  icon_pack: fas
+  link: https://www.ready-for-review.dev
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
