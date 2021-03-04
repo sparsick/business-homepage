@@ -4,7 +4,7 @@
 title: "Ich packe meinen Testtoolkoffer und nehme mit ... - Testwerkzeuge für den Entwickleralltag"
 event: "Javaland"
 event_url: "https://programm.javaland.eu/2021/#/scheduledEvent/606428"
-location: "Remote / Phantasialand Brühl bei Köln"
+location: "Remote"
 summary:
 abstract: "Tests sind das Hauptkommunikationsmittel von Entwicklern über den Code. Mit Tests kommuniziert man auch noch mit dem nächsten Entwickler, nachdem man das Projekt verlassen hat. Tests sind eine lebende Spezifikation des Codes, den sie testen. Man sollte sie mindestens so sauber halten, wie den Produktionscode - wenn nicht sauberer.
 
@@ -15,7 +15,7 @@ Neben JUnit, gibt es viele weitere Testwerkzeuge, die den Entwickleralltag beim 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2021-03-16
-date_end: 2020-03-17
+#date_end: 2020-03-17
 all_day: true
 
 # Schedule page publish date (NOT talk date).
