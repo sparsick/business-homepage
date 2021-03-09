@@ -27,8 +27,8 @@ machen"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-05-03T10:12:31+02:00
-date_end: 2021-05-07T10:12:31+02:00
+date: 2021-05-05T10:12:31+02:00
+#date_end: 2021-05-07T10:12:31+02:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
