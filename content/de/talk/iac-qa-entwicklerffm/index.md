@@ -3,7 +3,7 @@
 
 title: "Infrastructure as Code - Muss man nicht testen, Hauptsache es läuft"
 event: "Frankfurter Entwicklertage 2021"
-#event_url: "https://jax.de/devops-continuous-delivery/infrastructure-as-code-muss-man-nicht-testen-hauptsache-es-laeuft/"
+event_url: "https://entwicklertag.de/frankfurt/2021/infrastructure-code-muss-man-nicht-testen-hauptsache-es-l%C3%A4uft"
 location: Remote
 address:
   street:
