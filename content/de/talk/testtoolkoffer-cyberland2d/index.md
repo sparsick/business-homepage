@@ -44,11 +44,11 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-#url_slides: "https://github.com/sparsick/test-tool-talk/blob/wjax-20/slides/2020.11%20-%20WJAX%20-%20Ich%20packe%20meinen%20Testtoolkoffer%20und%20nehme%20mit.pdf"
+url_slides: "https://github.com/sparsick/test-tool-talk/blob/cyberland2d/slides/2020.12%20-%20Cyberland%202D%20-%20Ich%20packe%20meinen%20Testtoolkoffer%20und%20nehme%20mit.pdf"
 
-#url_code: "https://github.com/sparsick/test-tool-talk/tree/wjax-20"
+url_code: "https://github.com/sparsick/test-tool-talk/tree/cyberland2d"
 url_pdf:
-url_video:
+url_video: "https://www.youtube.com/watch?v=CmIpMoWfY3Y"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
