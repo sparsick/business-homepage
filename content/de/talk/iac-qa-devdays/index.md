@@ -3,7 +3,7 @@
 
 title: "Infrastructure as Code - Muss man nicht testen, Hauptsache es läuft"
 event: "DevDay 2021"
-#event_url: "https://jax.de/devops-continuous-delivery/infrastructure-as-code-muss-man-nicht-testen-hauptsache-es-laeuft/"
+event_url: "https://www.devday.de/"
 location: Remote
 address:
   street:
@@ -33,7 +33,7 @@ all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2021-03-04T10:12:31+02:00
-draft: true
+draft: false
 
 authors: []
 tags: []
