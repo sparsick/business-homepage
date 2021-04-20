@@ -58,11 +58,11 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "https://github.com/sparsick/iac-qa-talk/blob/devdays21/slides/2021.04%20-%20DevDays-%20Infrastructure%20As%20Code.pdf"
 
-url_code:
+url_code: "https://github.com/sparsick/iac-qa-talk/tree/devdays21"
 url_pdf:
-url_video:
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
