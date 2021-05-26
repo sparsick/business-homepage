@@ -3,7 +3,7 @@
 
 title: "Workshop: Continuous Integration für Infrastructure As Code"
 event: "API Summit 2021"
-event_url: "https://api-summit.de/programm/"
+event_url: "https://api-summit.de/api/infrastructure-as-code-muss-man-nicht-testen-hauptsache-es-laeuft/"
 location: Remote
 address:
   street:
@@ -25,8 +25,8 @@ Dieser Workshop geht mit den Teilnehmern die Best Practices und Lessons Learned 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-06-07T10:12:31+02:00
-date_end: 2021-06-19T10:12:31+02:00
+date: 2021-06-09T10:12:31+02:00
+#date_end: 2021-06-19T10:12:31+02:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
