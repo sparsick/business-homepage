@@ -55,10 +55,14 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-# Optional filename of your slides within your talk's folder or a URL.
-#url_slides: https://github.com/sparsick/iac-qa-talk/blob/oopdigital21/slides/2020.02%20-%20OOP%20-%20Infrastructure%20As%20Code.pdf
+links:
+- name: Exercises
+  url: https://github.com/sparsick/ci-iaq-workshop
 
-#url_code: https://github.com/sparsick/iac-qa-talk/tree/oopdigital21
+# Optional filename of your slides within your talk's folder or a URL.
+url_slides: https://github.com/sparsick/iac-qa-talk/blob/apisummit21/slides/2021.06%20-%20API%20Summit-%20CI%20f%C3%BCr%20Infrastructure%20As%20Code.pdf
+
+url_code: https://github.com/sparsick/iac-qa-talk/tree/apisummit21
 url_pdf:
 url_video:
 
