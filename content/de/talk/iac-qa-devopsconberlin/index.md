@@ -58,9 +58,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "https://github.com/sparsick/iac-qa-talk/blob/devopsconberlin21/slides/2021.06%20-%20DevOpsConf%20-%20Infrastructure%20As%20Code.pdf"
 
-url_code:
+url_code: "https://github.com/sparsick/iac-qa-talk/tree/devopsconberlin21"
 url_pdf:
 url_video:
 
