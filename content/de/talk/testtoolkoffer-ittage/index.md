@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Featured Talk: Ich packe meinen Testtoolkoffer und nehme mit ... - Testwerkzeuge für den Entwickleralltag"
-event: "BaselOne"
-event_url: "https://baselone.ch/speech.html?id=E805A007-E54B-4CD0-A241-DE0C42822657"
-location: "Basel"
-draft: true
+title: "Ich packe meinen Testtoolkoffer und nehme mit ... - Testwerkzeuge für den Entwickleralltag"
+event: "IT Tage"
+event_url: ""
+location: "Remote"
+draft: false
 summary:
 abstract: "Tests sind das Hauptkommunikationsmittel von Entwicklern über den Code. Mit Tests kommuniziert man auch noch mit dem nächsten Entwickler, nachdem man das Projekt verlassen hat. Tests sind eine lebende Spezifikation des Codes, den sie testen. Man sollte sie mindestens so sauber halten, wie den Produktionscode - wenn nicht sauberer.
 
@@ -15,12 +15,12 @@ Neben JUnit, gibt es viele weitere Testwerkzeuge, die den Entwickleralltag beim 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-10-15
-#date_end: 2020-10-02
+date: 2021-12-06
+date_end: 2021-12-09
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-02-20T14:48:43+02:00
+publishDate: 2021-06-16T14:48:43+02:00
 
 authors: []
 tags: []
