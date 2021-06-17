@@ -27,7 +27,7 @@ machen"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-07-16T10:12:31+02:00
+date: 2021-06-16T10:12:31+02:00
 #date_end: 2021-07-17T10:12:31+02:00
 all_day: true
 
