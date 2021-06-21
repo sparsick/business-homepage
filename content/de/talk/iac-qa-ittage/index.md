@@ -3,7 +3,7 @@
 
 title: "Infrastructure as Code - Muss man nicht testen, Hauptsache es läuft"
 event: "IT Tage"
-event_url: ""
+event_url: "https://www.ittage.informatik-aktuell.de/programm/2021/infrastructure-as-code-muss-man-nicht-testen-hauptsache-es-laeuft.html"
 location: Remote
 address:
   street:
@@ -27,8 +27,8 @@ machen"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-12-06T10:12:31+02:00
-date_end: 2021-12-09T10:12:31+02:00
+date: 2021-12-09T10:12:31+02:00
+#date_end: 2021-12-09T10:12:31+02:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).

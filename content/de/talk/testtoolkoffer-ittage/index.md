@@ -3,7 +3,7 @@
 
 title: "Ich packe meinen Testtoolkoffer und nehme mit ... - Testwerkzeuge für den Entwickleralltag"
 event: "IT Tage"
-event_url: ""
+event_url: "https://www.ittage.informatik-aktuell.de/programm/2021/testwerkzeuge-fuer-den-entwickleralltag-ich-packe-meinen-koffer.html"
 location: "Remote"
 draft: false
 summary:
@@ -15,8 +15,8 @@ Neben JUnit, gibt es viele weitere Testwerkzeuge, die den Entwickleralltag beim 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-12-06
-date_end: 2021-12-09
+date: 2021-12-08
+#date_end: 2021-12-09
 all_day: true
 
 # Schedule page publish date (NOT talk date).
