@@ -62,7 +62,7 @@ url_slides: "https://github.com/sparsick/iac-qa-talk/blob/jax21/slides/2021.05%2
 
 url_code: "https://github.com/sparsick/iac-qa-talk/tree/jax21"
 url_pdf:
-url_video:
+url_video: "https://kiosk.entwickler.de/kiosk-specials/kiosk-specials-volume-7/infrastructure-as-code-muss-man-nicht-testen-hauptsache-es-laeuft/"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
