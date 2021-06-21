@@ -2,10 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Ich packe meinen Testtoolkoffer und nehme mit ... - Testwerkzeuge für den Entwickleralltag"
-draft: true
-event: "betterCode()"
-event_url: "https://www.bettercode.eu/"
-location: "Darmstadt"
+draft: false
+event: "XP Days Germany"
+event_url: "https://www.xpdays.de/2021/sessions/103-ich-packe-meinen-testtoolkoffer-und-nehme-mit-testwerkzeuge-fuer-den-entwickleralltag.html"
+location: "Remote / Hamburg"
 summary:
 abstract: "Tests sind das Hauptkommunikationsmittel von Entwicklern über den Code. Mit Tests kommuniziert man auch noch mit dem nächsten Entwickler, nachdem man das Projekt verlassen hat. Tests sind eine lebende Spezifikation des Codes, den sie testen. Man sollte sie mindestens so sauber halten, wie den Produktionscode - wenn nicht sauberer.
 
@@ -15,12 +15,12 @@ Neben JUnit, gibt es viele weitere Testwerkzeuge, die den Entwickleralltag beim 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-09-28
-date_end: 2020-10-02
+date: 2021-11-04
+#date_end: 2020-10-02
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-02-20T14:48:43+02:00
+publishDate: 2021-06-20T14:48:43+02:00
 
 authors: []
 tags: []
