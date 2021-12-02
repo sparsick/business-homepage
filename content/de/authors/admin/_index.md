@@ -36,7 +36,7 @@ interests:
 education:
 - Finanzdienstleister
 - Industrie
-- Transport
+- Autovermietung
 - Maschinenbau
 - Öffentlicher Dienst
 - Bank

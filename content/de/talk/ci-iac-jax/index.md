@@ -3,18 +3,11 @@
 
 title: "Continuous Integration für Infrastructure as Code"
 event: "JAX 2022"
-event_url: "https://jax.de/cloud-container-serverless/continuous-integration-fuer-infrastructure-as-code/"
+event_url: https://jax.de/cloud-container-serverless/continuous-integration-fuer-infrastructure-as-code/
 location: Mainz/Remote
-address:
-  street:
-  city:
-  region:
-  postcode:
-  country:
-summary:
 abstract: "Code schreiben ist mittlerweile auch in der Infrastruktur angekommen.
 
-Klassische Betriebsabteilungen mutieren auf einen Schlag zu Entwicklungsabteilungen und müssen programmieren, um an ihre Infrastruktur zu kommen. Dennoch erinnert ihr Vorgehen stark an die Fricklermentalität der 2000er: Juhuu, es läuft irgendwie, kein VCS, keine Qualitätssicherung mit Test oder Review. Wieso ständig das Rad neuentwickeln und warum nicht aus der "klassischen" Softwareentwicklung lernen.  Dieser Vortrag zeigt Best Practices und Lesson Learned aus der Softwareentwicklung, die zur einer höheren Qualtität geführt haben und wie diese Erkenntisse helfen können, die Entwicklung von Infrastruktur-Code qualitativ hochwertiger zu machen"
+Klassische Betriebsabteilungen mutieren auf einen Schlag zu Entwicklungsabteilungen und müssen programmieren, um an ihre Infrastruktur zu kommen. Dennoch erinnert ihr Vorgehen stark an die Fricklermentalität der 2000er: Juhuu, es läuft irgendwie, kein VCS, keine Qualitätssicherung mit Test oder Review. Wieso ständig das Rad neuentwickeln und warum nicht aus der 'klassischen' Softwareentwicklung lernen.  Dieser Vortrag zeigt Best Practices und Lesson Learned aus der Softwareentwicklung, die zur einer höheren Qualtität geführt haben und wie diese Erkenntisse helfen können, die Entwicklung von Infrastruktur-Code qualitativ hochwertiger zu machen"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
