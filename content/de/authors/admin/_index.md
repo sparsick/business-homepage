@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sandra Parsick
+title: Sandra Parsick
 
 # Username (this should match the folder name)
 authors:
@@ -75,6 +75,9 @@ social:
 - icon: podcast
   icon_pack: fas
   link: https://www.ready-for-review.dev
+- icon: money_with_wings
+  icon_pack: emoji
+  link: https://www.ready-for-review.dev
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -94,4 +97,4 @@ email: ""
 
 Ich bin als freiberufliche Softwareentwicklerin und Beraterin im Java Umfeld tätig. Seit 2008 beschäftigte ich mich mit agiler Softwareentwicklung in verschiedenen Rollen. Gerne unterstütze und berate ich Sie in den Bereichen der Java Enterprise Anwendungen, agilen Methoden, Software Craftsmanship und in der Automatisierung von Softwareentwicklungsprozessen.
 
-In meiner Freizeit engagiere ich mich in der [Softwerkskammer Ruhrgebiet](https://www.softwerkskammer.org/groups/ruhrgebiet), einer Regionalgruppe der Software Craftmanship Community im deutschsprachigen Raum. Außerdem sitze ich in den Programmkomitees der Javaland, [IT-Tage 2020](https://www.ittage.informatik-aktuell.de/konferenz/kuratorium.html) und [Frankfurter Entwicklertage 2021](https://entwicklertag.de/frankfurt/2021/unser-programmkomitee-2021). Seit 2019 bin ich Mitglied im [Oracle Groundbreaker Ambassador Programm](https://apex.oracle.com/pls/apex/f?p=19297:3) und seit 2020 [Java Champion](https://apex.oracle.com/pls/apex/aces/d/Sandra.Parsick).
+In meiner Freizeit engagiere ich mich bei der [CyberLand](https://cyberland.ijug.eu/). Außerdem sitze ich in den Programmkomitees der Javaland, [IT-Tage 2020](https://www.ittage.informatik-aktuell.de/konferenz/kuratorium.html) und [Frankfurter Entwicklertage 2021](https://entwicklertag.de/frankfurt/2021/unser-programmkomitee-2021). Seit 2019 bin ich Mitglied im [Oracle Groundbreaker Ambassador Programm](https://apex.oracle.com/pls/apex/f?p=19297:3) und seit 2020 [Java Champion](https://apex.oracle.com/pls/apex/aces/d/Sandra.Parsick).
