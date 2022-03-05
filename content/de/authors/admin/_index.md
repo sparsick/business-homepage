@@ -75,9 +75,15 @@ social:
 - icon: podcast
   icon_pack: fas
   link: https://www.ready-for-review.dev
-- icon: money_with_wings
-  icon_pack: emoji
-  link: https://www.ready-for-review.dev
+- icon: money-bill
+  icon_pack: fas
+  link: https://steadyhq.com/sparsick/about
+#- icon: cc-paypal
+#  icon_pack: fab
+#  link: paypal.me/SandraParsick
+- icon: gift
+  icon_pack: fas
+  link: https://wishli.app/RcyJ5Tem
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -97,4 +103,16 @@ email: ""
 
 Ich bin als freiberufliche Softwareentwicklerin und Beraterin im Java Umfeld tätig. Seit 2008 beschäftigte ich mich mit agiler Softwareentwicklung in verschiedenen Rollen. Gerne unterstütze und berate ich Sie in den Bereichen der Java Enterprise Anwendungen, agilen Methoden, Software Craftsmanship und in der Automatisierung von Softwareentwicklungsprozessen.
 
-In meiner Freizeit engagiere ich mich bei der [CyberLand](https://cyberland.ijug.eu/). Außerdem sitze ich in den Programmkomitees der Javaland, [IT-Tage 2020](https://www.ittage.informatik-aktuell.de/konferenz/kuratorium.html) und [Frankfurter Entwicklertage 2021](https://entwicklertag.de/frankfurt/2021/unser-programmkomitee-2021). Seit 2019 bin ich Mitglied im [Oracle Groundbreaker Ambassador Programm](https://apex.oracle.com/pls/apex/f?p=19297:3) und seit 2020 [Java Champion](https://apex.oracle.com/pls/apex/aces/d/Sandra.Parsick).
+In meiner Freizeit engagiere ich mich in der Open Source Community, etwa für die virtuelle Java-Konferenz [CyberLand](https://cyberland.ijug.eu/), mit [Blogbeiträgen](https://blog.sandra-parsick.de), dem Podcast ["Ready for Review"](https://www.ready-for-review.dev), oder durch [Code Contribution](https://www.github.com/sparsick). Außerdem sitze ich in diversen Programmkomitees ([JavaLand](https://www.javaland.eu/de/team/), [IT-Tage](https://www.ittage.informatik-aktuell.de/konferenz/kuratorium.html), [Continuous Lifecycle](https://www.continuouslifecycle.de/programmbeirat.php?source=0) und [Frankfurter Entwicklertage 2021](https://entwicklertag.de/frankfurt/2021/unser-programmkomitee-2021)). Seit 2019 bin ich Mitglied im [Oracle Groundbreaker Ambassador Programm](https://apex.oracle.com/pls/apex/aces/d/Sandra.Parsick) und seit 2020 [Java Champion](https://apex.oracle.com/pls/apex/aces/d/Sandra.Parsick).
+
+### Wie ich Sie unterstützen kann
+- Sie brauchen in Ihrem Projekt, jemanden für den Bereich Java-Backendentwicklung, Continuous Delivery oder DevOps? Dann [kontaktieren Sie mich](/#contact) und wir finden gemeinsam heraus, wie ich Sie am besten unterstützen kann.
+- Sie brauchen jemanden, der Sie in Java oder Open Source Technologien trainiert oder wollen dazu mehr erfahren? Dann [kontaktieren Sie mich](/#contact) und wir finden gemeinsam heraus, wie ich Ihnen mit einer Schulung oder einem Vortrag helfen kann.
+- Sie sind in der Konzeptionsphase oder brauchen ein Review über ihr bestehendes System? Dann [kontaktieren  Sie mich](/#contact) und wir finden gemeinsam heraus, wie ich Ihnen mit einem Workshop helfen kann.
+- Sie haben ein konkretes IT-Problem und brauchen einen Sparringspartner oder einfach jemanden als Rubber Duck? Dann buchen Sie einfach einen [Video Call](/rubberduck) bei mir.
+
+
+### Wie Sie meine Arbeit für die Community unterstützen können
+
+Aktuell engagiere ich mich ehrenamtlich mit verschiedenen Projekten in der Open Source Community, beispielsweise für die [CyberLand](https://cyberland.ijug.eu/), durch [Blogbeiträge](https://blog.sandra-parsick.de), mit dem Podcast ["Ready for Review"](https://www.ready-for-review.dev), durch [Code Contribution](https://www.github.com/sparsick).
+Sie können diese Arbeit über [Steady](https://steadyhq.com/sparsick/about) oder [Wishli](https://wishli.app/RcyJ5Tem) unterstützen.
