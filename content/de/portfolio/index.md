@@ -13,6 +13,15 @@ share: false
 
 ## Vorträge
 
+### Kubernetes Developer Survival Kit
+Immer mehr Entwicklerinnen schreiben Anwendungen, die später in einem Kubernetes Cluster laufen sollen. Was kann dabei so schwierig sein? Angefangen "Wie strukturiere ich meine Repositories?", "Wo lege ich meinen Code für das Deployment ab (Containerfiles, Helm Charts, Config Values)?",  "Was muss bei der Entwicklung der Anwendung beachtet werden?",  "Wie bekomme ich den Code lokal getestet?", "Wie bekomme ich mit,  was im Test-Cluster passiert?"
+
+Dieser Vortrag geht am Beispiel einer Java-Anwendung die typischen Entwicklungschritte von der Ablage im VCS bis hin zum Deployment auf einem Cluster aus Sicht einer Entwicklerin durch.
+
+
+### Per Shell durch die Techie-Galaxie
+Die Shell ist oft die schnellere Antwort auf viele Probleme im Techie-Alltag. Dieser Vortrag geht typische Techie Alltagsituationen durch und zeigt wie die Shell da helfen kann. Angefangen, bei der Auswahl von Shell und Terminal-Emulator bis hin zur Demonstration einiger Werkzeuge für die Shell. Dieser Talk ist für Techies aller Erfahrungsstufen. Ich zeige euch mein Setup, das sich seit einiger Zeit bewährt hat. Am Ende ist auch noch etwas Zeit für Tool-Austausch mit euch.
+
 ### Infrastructure as Code - Muss man nicht testen, Hauptsache es läuft
 Mittlerweile wird die Infrastruktur immer mehr mithilfe von Code (Provisionierungsskripte, Dockerfiles, (Shell-) Skripte etc. ) beschrieben und
 automatisiert. Klassische Betriebsabteilungen mutieren auf einen Schlag zu Entwicklungsabteilungen und müssen programmieren, um an ihre
@@ -86,21 +95,44 @@ This talk shows, why it is important to include database scripts in your continu
 
 ## Workshops
 
+### Continuous Integration für Infrastructure As Code
+Mittlerweile wird die Infrastruktur immer mehr mithilfe von Code (Provisionierungsskripte, Dockerfiles, (Shell-) Skripte etc. ) beschrieben und
+automatisiert. Klassische Betriebsabteilungen mutieren auf einen Schlag zu Entwicklungsabteilungen und müssen programmieren, um an ihre
+Infrastruktur zu kommen.
+Doch ist auch allen Beteiligten klar, dass sie zu professionellen Programmierern geworden sind? Wenn man sich Entwicklungsprozess und Code
+anschaut, erinnern beide stark an die Fricklermentalität der 2000er: Juhuu, es läuft irgendwie, kein VCS, keine Qualitätssicherung mit Test oder
+Review.
+Wenn es sich stark nach “normaler” Softwareentwicklung anfühlt, warum dann auch nicht die Best Practices und Lessons Learned der letzten 30
+Jahren auf Infrastructure as Code adaptieren und somit die Qualität erhöhen? Müssen die frisch gebackenen OpsDevs die alten Fehler der Devs
+wiederholen? Kann man Infrastruktur-Code vielleicht sogar testgetrieben entwickeln?
+Dieser Workshop geht mit den Teilnehmern die  Good Practices und Lessons Learned aus der klassischen Softwareentwicklung durch und zeigt wie diese sich auf Infrastructure As Code adaptieren lassen.
+
+
 ### Testen mit Infrastruktur - "Integration Testing done right" 😉
 Heutzutage läuft eine Software nicht für sich alleine, sondern agiert mit Anderen. Die Kommunikation erfolgt meist über verschiedene Protokolle, sprich über verschiedene Infrastruktur-Komponenten. Gerade beim Testen stellt sich die Frage, wie kann der Entwickler Tests so schreiben, dass sie von einem bestimmten Infrastruktur-Setup unabhängig sind. Meistens gelingt es nicht und dann wird dieser Teil der Software erst spät bei den End-2-End-Tests geprüft. Doch gerade mit Microservices und dem Paradigma "Wenn etwas schiefläuft, dann schnell wie möglich" möchte der Entwickler schon zu einem früheren Testzeitpunkt, z.B. bei Entwicklertests, erfahren, wenn bei diesem Teil der Software etwas schiefläuft.
 
 Dieser Workshop zeigt anhand einer Java-Anwendung, wie man mithilfe der Bibliotheken Mockserver und Testcontainer die Infrastruktur in den Tests der Anwendung einbinden kann, ohne sich gleich von einer bestimmten Infrastruktur abhängig zu machen.
 
+### Ansible für Java-Entwickler
+
+Das automatisierte Konfigurieren von Servern ist dank Orchestrierungswerkzeuge wie Puppet und Chef heute kein Problem mehr. Doch eignen sich diese Werkzeuge wenig für die regelmäßige Softwareverteilung von typischen Java Webapplikationen. Ansible hat dieses Problem erkannt und liefert Lösungen für das Konfigurationsmanagement und für die Softwareverteilung aus einer Hand. Dieser Workshop erklärt am Beispiel einer Infrastruktur für eine Java Webapplikation die Funktionsweise von Ansible. Die Teilnehmer lernen Schritt für Schritt wie eine Serverkonfiguration wie auch auf das Deployment der Java-Webanwendung mit Ansible automatisiert wird.
+
+
 ## Sprecher Bio
 
 *Deutsch*
 
-Sandra Parsick ist als freiberufliche Softwareentwicklerin und Consultant im Java-Umfeld tätig. Seit 2008 beschäftigt sie sich mit agiler Softwareentwicklung in verschiedenen Rollen. Ihre Schwerpunkte liegen im Bereich der Java Enterprise Anwendungen, agilen Methoden, Software Craftsmanship und in der Automatisierung von Softwareentwicklungsprozessen. Darüber schreibt sie gerne Artikel und  spricht gerne auf Konferenzen.
-In ihrer Freizeit engagiert sich Sandra Parsick in der Softwerkskammer Ruhrgebiet, einer Regionalgruppe der Software Craftmanship Community im deutschsprachigen Raum. Seit 2019 ist sie Mitglied im Oracle Groundbreaker Ambassador Programm.
+Sandra Parsick ist Java Champion und ist als freiberufliche Softwareentwicklerin und Consultant im Java-Umfeld tätig. Seit 2008 beschäftigt sie sich mit agiler Softwareentwicklung in verschiedenen Rollen.
+Ihre Schwerpunkte liegen im Bereich der Java Enterprise Anwendungen, Cloud und in der Automatisierung von Softwareentwicklungsprozessen.
+Darüber schreibt sie gerne Artikel und spricht gerne auf Konferenzen.
+In ihrer Freizeit engagiert sie sich in verschiedenen Programmkomitees und Community-Gruppen.
 
 *English*
 
-Sandra Parsick works as freelance software developer and consultant in the Java environment. Since 2008 she occupies herself with agile software development in various roles. Her main focuses are on Java enterprise applications, Agile Methods, Software Craftmanship and on the automation of the software development processes. She likes to talk on conferences and write articles about it. She is in the organization team of Softwerkskammer Ruhrgebiet, member of the Javaland program commitee and member in Oracle Groundbreaker Ambassador Program.
+Sandra Parsick is a Java Champion and works as a freelance software developer and consultant in the Java environment. She has been involved in agile software development in various roles since 2008.
+Her focus is on Java enterprise applications, cloud and the automation of software development processes.
+She enjoys writing articles about this and speaking at conferences.
+In her spare time, she is involved in various program committees and community groups.
 
 
 <!-- ## Links -->
