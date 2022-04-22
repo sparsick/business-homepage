@@ -11,8 +11,8 @@ Klassische Betriebsabteilungen mutieren auf einen Schlag zu Entwicklungsabteilun
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-05-02T10:12:31+02:00
-date_end: 2022-05-06T10:12:31+02:00
+date: 2022-05-05T10:12:31+02:00
+#date_end: 2022-05-06T10:12:31+02:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
