@@ -42,9 +42,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-#url_slides: "https://github.com/sparsick/iac-qa-talk/blob/jax21/slides/2021.05%20-%20JAX-%20Infrastructure%20As%20Code.pdf"
+url_slides: "https://github.com/sparsick/iac-qa-talk/blob/jax22/slides/2022.05%20-%20JAX%20-%20CI%20f%C3%BCr%20Iac.pdf"
 
-#url_code: "https://github.com/sparsick/iac-qa-talk/tree/jax21"
+url_code: "https://github.com/sparsick/iac-qa-talk/tree/jax22"
 url_pdf:
 #url_video: "https://kiosk.entwickler.de/kiosk-specials/kiosk-specials-volume-7/infrastructure-as-code-muss-man-nicht-testen-hauptsache-es-laeuft/"
 
