@@ -68,3 +68,8 @@ projects: []
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/xdde19?src=hash&amp;ref_src=twsrc%5Etfw">#xdde19</a> .<a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> and her colleague on why you don&#39;t need k8s everytime 😁 &quot;just use the building Blocks you really need&quot;. Happy to have her a <a href="https://twitter.com/softwerkskammer?ref_src=twsrc%5Etfw">@softwerkskammer</a> Nuremberg tonight. <a href="https://twitter.com/hashtag/swknbg?src=hash&amp;ref_src=twsrc%5Etfw">#swknbg</a> <a href="https://t.co/YVHrqio2vz">pic.twitter.com/YVHrqio2vz</a></p>&mdash; Marco Emrich (@marcoemrich) <a href="https://twitter.com/marcoemrich/status/1192396553669021696?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![](https://www.xpdays.de/2019/fotos/Donnerstag,%2007.11.19/slides/XP_DAYS_STUTTGART_2019_0367.JPG)
+![](https://www.xpdays.de/2019/fotos/Donnerstag,%2007.11.19/slides/XP_DAYS_STUTTGART_2019_0499.JPG)
+![](https://www.xpdays.de/2019/fotos/Donnerstag,%2007.11.19/slides/XP_DAYS_STUTTGART_2019_0500.JPG)
+![](https://www.xpdays.de/2019/fotos/Donnerstag,%2007.11.19/slides/XP_DAYS_STUTTGART_2019_0501.JPG)
