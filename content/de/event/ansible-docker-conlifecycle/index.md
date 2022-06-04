@@ -11,7 +11,7 @@ abstract = "Docker ist in aller Munde und wird gerne als Allheilösung für Depl
 url_pdf = ""
 location = "Mannheim"
 publishDate = "2017-11-15"
-url_video = ""
+url_video = "https://vimeo.com/showcase/4892557?video=247783421"
 selected = true
 abstract_short = ""
 title = "Es muss nicht gleich Docker sein - IT Automation, die zu einem passt"
