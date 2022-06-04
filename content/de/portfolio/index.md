@@ -13,6 +13,11 @@ share: false
 
 ## Vorträge
 
+### Raus aus der Wartungshölle ... zumindest ein bißchen
+Irgendwann trifft es mal jeden. Anwendungen veralten automatisch, egal, ob ein oder zehn Jahre alt, ob sie "fertig" entwickelt sind oder nicht. Die Gründe sind vielschichtig: Die Programmiersprache entwickelt sich weiter, Bibliotheken brauchen ein Update, Good Practices entwickeln sich weiter. Diese Wartungsarbeiten werden nicht gerne gemacht, da sie zum Schein unnötige Aufwände erzeugen und zum Teil recht stupide sind. Ignoriert die Entwicklerin sie, dann sammelt sie automatisch technische Schulden und die Aufwände sind in der Zukunft höher und bei Sicherheitslücken schmerzhafter.
+
+Dieser Vortrag zeigt, was alles unter Wartungsarbeiten zu verstehen ist und in welche Probleme Unternehmen laufen können, wenn sie es unterlassen. Außerdem stellt es Vorgehensweise und Werkzeuge vor, die bei Wartungsarbeiten helfen können und somit zumindest den stupiden Teil reduzieren.
+
 ### Kubernetes Developer Survival Kit
 Immer mehr Entwicklerinnen schreiben Anwendungen, die später in einem Kubernetes Cluster laufen sollen. Was kann dabei so schwierig sein? Angefangen "Wie strukturiere ich meine Repositories?", "Wo lege ich meinen Code für das Deployment ab (Containerfiles, Helm Charts, Config Values)?",  "Was muss bei der Entwicklung der Anwendung beachtet werden?",  "Wie bekomme ich den Code lokal getestet?", "Wie bekomme ich mit,  was im Test-Cluster passiert?"
 
