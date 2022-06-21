@@ -56,13 +56,13 @@ image:
 #   icon: twitter
 
 links:
-#- name: Exercises
-#  url: https://github.com/sparsick/ci-iaq-workshop
+- name: Exercises
+  url: https://github.com/sparsick/ci-iaq-workshop
 
 # Optional filename of your slides within your talk's folder or a URL.
-#url_slides: https://github.com/sparsick/iac-qa-talk/blob/apisummit21/slides/2021.06%20-%20API%20Summit-%20CI%20f%C3%BCr%20Infrastructure%20As%20Code.pdf
+url_slides: https://github.com/sparsick/iac-qa-talk/blob/apisummit22/slides/2022.06%20-%20API%20Summit-%20CI%20f%C3%BCr%20Infrastructure%20As%20Code.pdf
 
-#url_code: https://github.com/sparsick/iac-qa-talk/tree/apisummit21
+url_code: https://github.com/sparsick/iac-qa-talk/tree/apisummit22
 url_pdf:
 url_video:
 
