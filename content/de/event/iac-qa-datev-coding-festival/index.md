@@ -78,3 +78,7 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Wir freuen uns, dass <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> mit ihrer Session &quot;Infrastructure As Code – Muss man nicht testen, Hauptsache es läuft&quot; auf dem <a href="https://twitter.com/hashtag/DATEVCodingFestival?src=hash&amp;ref_src=twsrc%5Etfw">#DATEVCodingFestival</a> zu Gast ist <a href="https://twitter.com/hashtag/DATEVlernt?src=hash&amp;ref_src=twsrc%5Etfw">#DATEVlernt</a> <a href="https://twitter.com/hashtag/WeAreDevOps?src=hash&amp;ref_src=twsrc%5Etfw">#WeAreDevOps</a>. <a href="https://t.co/cxgObnhfx3">pic.twitter.com/cxgObnhfx3</a></p>&mdash; Software Craft Community @ DATEV🌈 (@SCC_at_DATEV) <a href="https://twitter.com/SCC_at_DATEV/status/1549357849528209408?ref_src=twsrc%5Etfw">July 19, 2022</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
