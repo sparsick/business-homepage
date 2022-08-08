@@ -49,7 +49,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "https://github.com/sparsick/k8s-dev-survival-kit-talk/blob/jfs22/slides/2022.07%20-%20JFS%20-%20Kubernetes%20Developer%20Survival%20Kit.pdf"
-url_video = ""
+url_video = "https://www.java-forum-stuttgart.de/vortraege/kubernetes-developer-survival-kit/"
 url_code = "https://github.com/sparsick/k8s-dev-survival-kit-talk/blob/jfs22"
 
 # Featured image
