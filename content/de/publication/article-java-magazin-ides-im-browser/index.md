@@ -3,11 +3,11 @@
 
 title: "Schnelltests für den grantigen Crafter - IDEs komplett im Browser?"
 authors: ["Georg Berky", "Sandra Parsick"]
-date: 2022-09-23T11:11:29+01:00
+date: 2022-08-23T11:11:29+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-09-08T11:11:29+01:00
+publishDate: 2022-08-08T11:11:29+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
