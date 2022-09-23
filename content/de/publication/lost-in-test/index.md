@@ -17,8 +17,8 @@ url_pdf = ""
 url_code = ""
 
 [[links]]
-name = "Zum Magazin"
-url = "https://jaxenter.de/ausgaben/java-magazin-9-15"
+name = "Zum Artikel"
+url = "https://entwickler.de/testing/lost-in-tests-002"
 
 
 
