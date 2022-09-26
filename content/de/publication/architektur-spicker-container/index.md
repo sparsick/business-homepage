@@ -1,25 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Interview bei Entwickler Magazin zum GitHub Geburtstag 2022"
-authors: []
-date: 2022-03-28T14:23:55+02:00
+title: "Architektur Spicker Nr. 11 - Container-Anwendungen entwickeln"
+authors: ["Stefan Zörner", "Sandra Parsick"]
+date: 2022-09-26T10:21:40+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-09-23T14:23:55+02:00
+publishDate: 2022-09-26T10:21:40+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Interview bei Entwickler Magazin zum GitHub Geburtstag 2022"
+publication: "Architektur Spicker Nr. 11 - Container-Anwendungen entwickeln"
 publication_short: ""
 
-abstract: "Anlässlich unseres GitHub Days am 31.03.2022 haben wir einige unserer Experten bezüglich ihrer GitHub-Erfahrungen befragt. In diesem Interview verrät uns Sandra Parsick, wie sie mit GitHub arbeitet und wo sie noch Verbesserungspotenzial sieht."
+abstract: "Der Einsatz von Containern verspricht die immer größer werdende Komplexität der Anwendungslandschaft besser zu beherrschen. Dieser Spicker erklärt, wie Sie und Ihr Team Applikationen in Containern bauen und was Sie beachten müssen, um diese zu betreiben.
+"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -30,12 +31,13 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Zum Interview
-  url: https://entwickler.de/programmierung/github-tipps-interview-003
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
-
-url_pdf:
+url_pdf: "https://www.architektur-spicker.de/"
 url_code:
 url_dataset:
 url_poster:

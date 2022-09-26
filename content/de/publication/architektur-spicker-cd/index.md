@@ -4,7 +4,7 @@ date = 2018-06-27T20:55:39+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["Stefan Zörner", "Sandra Parsick"]
 
 # Publication type.
 # Legend:
@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.embarc.de/architektur-spicker-7-continuous-delivery/"
+url_pdf = "https://www.embarc.de/architektur-spicker/07-continuous-delivery/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
