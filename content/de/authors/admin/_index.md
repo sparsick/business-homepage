@@ -68,13 +68,13 @@ social:
   link: https://xing.to/sparsick
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/sandra-parsick-589a6b20
+  link: https://www.linkedin.com/in/sandra-parsick
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/sparsick
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/channel/UCALpH2CcsfVvo6goiPW1Gaw
+  link: https://youtube.com/@sandraparsick
 - icon: podcast
   icon_pack: fas
   link: https://www.ready-for-review.dev
