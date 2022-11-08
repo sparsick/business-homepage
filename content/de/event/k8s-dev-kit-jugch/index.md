@@ -48,9 +48,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-# url_slides = "https://github.com/sparsick/k8s-dev-survival-kit-talk/blob/jfs22/slides/2022.07%20-%20JFS%20-%20Kubernetes%20Developer%20Survival%20Kit.pdf"
+url_slides = "https://github.com/sparsick/k8s-dev-survival-kit-talk/blob/jugch22/slides/2022.11%20-%20JUG%20CH%20-%20Kubernetes%20Developer%20Survival%20Kit.pdf"
 # url_video = "https://www.java-forum-stuttgart.de/vortraege/kubernetes-developer-survival-kit/"
-# url_code = "https://github.com/sparsick/k8s-dev-survival-kit-talk/blob/jfs22"
+url_code = "https://github.com/sparsick/k8s-dev-survival-kit-talk/tree/jugch22"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
