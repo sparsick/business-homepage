@@ -49,7 +49,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "https://github.com/sparsick/k8s-dev-survival-kit-talk/blob/jugch22/slides/2022.11%20-%20JUG%20CH%20-%20Kubernetes%20Developer%20Survival%20Kit.pdf"
-url_video = "https://www.youtube.com/watch?v=mtUXuRMgIAE"
+url_video = "https://www.youtube.com/watch?v=mtUXuRMgIAEsudo "
 url_code = "https://github.com/sparsick/k8s-dev-survival-kit-talk/tree/jugch22"
 
 # Featured image
