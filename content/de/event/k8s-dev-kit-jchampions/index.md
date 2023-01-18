@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2023-01-19
+date = 2023-01-20
 all_day = true
 time_end = 2023-01-24
 
@@ -48,9 +48,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-#url_slides = "https://github.com/sparsick/k8s-dev-survival-kit-talk/blob/jugch22/slides/2022.11%20-%20JUG%20CH%20-%20Kubernetes%20Developer%20Survival%20Kit.pdf"
-#url_video = "https://www.youtube.com/watch?v=mtUXuRMgIAEsudo "
-#url_code = "https://github.com/sparsick/k8s-dev-survival-kit-talk/tree/jugch22"
+url_slides = "https://github.com/sparsick/k8s-dev-survival-kit-talk/blob/jchampion23/slides/2023.01%20-%20JChampionConf%20-%20Kubernetes%20Developer%20Survival%20Kit.pdf"
+url_video = "https://www.youtube.com/watch?v=x4zDpicO9kg"
+url_code = "https://github.com/sparsick/k8s-dev-survival-kit-talk/tree/jchampion23"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
