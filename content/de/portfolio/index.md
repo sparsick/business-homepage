@@ -13,6 +13,14 @@ share: false
 
 ## Vorträge
 
+### Kubernetes, das unbekannte Wesen - Der Schnelleinstieg für Entwickler
+
+Kubernetes ist omnipräsent. Entweder laufen die Anwendungen in Kubernetes oder sollen in Kubernetes laufen. Entwickler mögen sich jetzt denken "Aber was hat die Kubernetes-Infrastruktur mit mir als Entwickler zu tun?"
+
+Mit der Einführung von Kubernetes bekommen die Entwickler aber oft die Aufgabe, neben dem Anwendungscode jetzt auch noch Deployment-Skripte in Form von Kubernetes Deskriptoren zu schreiben. Dafür brauchen sie ein Grundverständnis der Kubernetes-Komponenten.
+
+Dieser Vortrag gibt eine Kurzeinführung, was Kubernetes ist und aus welchen Komponenten es besteht. Beim Durchgehen der Kompontenten und Konzepte steht die Sichtweise eines Entwicklers im Vordergrund. Am Ende nehmen die Zuhörer Good Practices anhand von Beispielen mit nach Hause.
+
 ### Raus aus der Wartungshölle ... zumindest ein bißchen
 Irgendwann trifft es mal jeden. Anwendungen veralten automatisch, egal, ob ein oder zehn Jahre alt, ob sie "fertig" entwickelt sind oder nicht. Die Gründe sind vielschichtig: Die Programmiersprache entwickelt sich weiter, Bibliotheken brauchen ein Update, Good Practices entwickeln sich weiter. Diese Wartungsarbeiten werden nicht gerne gemacht, da sie zum Schein unnötige Aufwände erzeugen und zum Teil recht stupide sind. Ignoriert die Entwicklerin sie, dann sammelt sie automatisch technische Schulden und die Aufwände sind in der Zukunft höher und bei Sicherheitslücken schmerzhafter.
 
@@ -22,7 +30,6 @@ Dieser Vortrag zeigt, was alles unter Wartungsarbeiten zu verstehen ist und in w
 Immer mehr Entwicklerinnen schreiben Anwendungen, die später in einem Kubernetes Cluster laufen sollen. Was kann dabei so schwierig sein? Angefangen "Wie strukturiere ich meine Repositories?", "Wo lege ich meinen Code für das Deployment ab (Containerfiles, Helm Charts, Config Values)?",  "Was muss bei der Entwicklung der Anwendung beachtet werden?",  "Wie bekomme ich den Code lokal getestet?", "Wie bekomme ich mit,  was im Test-Cluster passiert?"
 
 Dieser Vortrag geht am Beispiel einer Java-Anwendung die typischen Entwicklungschritte von der Ablage im VCS bis hin zum Deployment auf einem Cluster aus Sicht einer Entwicklerin durch.
-
 
 ### Per Shell durch die Techie-Galaxie
 Die Shell ist oft die schnellere Antwort auf viele Probleme im Techie-Alltag. Dieser Vortrag geht typische Techie Alltagsituationen durch und zeigt wie die Shell da helfen kann. Angefangen, bei der Auswahl von Shell und Terminal-Emulator bis hin zur Demonstration einiger Werkzeuge für die Shell. Dieser Talk ist für Techies aller Erfahrungsstufen. Ich zeige euch mein Setup, das sich seit einiger Zeit bewährt hat. Am Ende ist auch noch etwas Zeit für Tool-Austausch mit euch.

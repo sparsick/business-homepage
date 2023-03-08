@@ -1,10 +1,6 @@
-github.com/wowchemy/wowchemy-hugo-modules v4.8.0+incompatible h1:bWdYezLML3TZq5H0Rot4Urwl6HBl1uok5xIDOTqcWC8=
-github.com/wowchemy/wowchemy-hugo-modules v4.8.0+incompatible/go.mod h1:1aYXtPC4gARbkMdyOQS7RabiU3YWfVC575uJ64f1BiY=
-github.com/wowchemy/wowchemy-hugo-modules/v5 v5.4.0 h1:jWlAOA8e40owFc+tyHrQdRZGXQpxbWeml0vkhBftoHg=
-github.com/wowchemy/wowchemy-hugo-modules/v5 v5.4.0/go.mod h1:akNBhhT0UAOXSREplKkLe2wyHeo51qm6f+vqNkQkcmE=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20210629192904-559885af86b7/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220602234052-acd74954b5dd h1:3YCQtPUPObQBsQn1Y3rK9SPSG5rbZzppGaPj6okHXPI=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220602234052-acd74954b5dd/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20210629192904-559885af86b7/go.mod h1:2iL9rdrUYyJXX2BeHKfK+QbqZlubCsaR60nQ87NRQTY=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220322212951-5a882fab11ac h1:X8k7cQ5/8dja9eockVo+tIqbcZkh3YtE5uEDzlzXvtA=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220322212951-5a882fab11ac/go.mod h1:2iL9rdrUYyJXX2BeHKfK+QbqZlubCsaR60nQ87NRQTY=
+github.com/wowchemy/wowchemy-hugo-themes v5.5.1-0.20220924121832-460f6195421f+incompatible h1:bgpdeudDpdFSxAOPEVOHmHKXbHmlM7e4WuWfGMufGt0=
+github.com/wowchemy/wowchemy-hugo-themes v5.5.1-0.20220924121832-460f6195421f+incompatible/go.mod h1:Z89FBMvZlzPJf5xnqSfNY/jxo/KZxiE8MH9TiPg0syA=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core v0.1.0/go.mod h1:kJwI9H8dicHQCnP8G9EvUDI+oNg/yXcGsjGjwjXuM8I=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo v0.1.0/go.mod h1:R01vz++1i/KR2n00aWGcs6m/L7ky1klbrpqA2KXjMCk=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.0 h1:j0H7ApKal0qdWWdFbT7S/F3XQ7959nO3+kA6lLN4jec=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.0/go.mod h1:pxtkh2Fw4Vdwh2NvIYpCqhR0g7MgwVAxFN1lW9Rep44=
