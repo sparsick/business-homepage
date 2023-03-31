@@ -48,7 +48,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-#url_slides = "https://d32km2qctfbkx6.cloudfront.net/folien/sp_sz/2021/swa_summit_2021_sparsick_szoerner_compressed.pdf"
+url_slides = "https://embarc-downloads.s3.amazonaws.com/folien/sz/2023/sas2023_sparsick-szoerner_container_deploy.pdf"
 url_video = ""
 url_code = ""
 
