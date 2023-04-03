@@ -146,6 +146,10 @@ Her focus is on Java enterprise applications, cloud and the automation of softwa
 She enjoys writing articles about this and speaking at conferences.
 In her spare time, she is involved in various program committees and community groups.
 
+## Sprecher Foto
+
+[Download](/media/speaker-photo-parsick-1000x1385.jpg)
+
 
 <!-- ## Links -->
 
