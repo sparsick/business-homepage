@@ -29,24 +29,29 @@
   weight = 4
 
 [[main]]
+  name = "Podcast"
+  url = "https://ready-for-review.dev/"
+  weight = 5
+
+[[main]]
   name = "Projects"
   url = "#projects"
-  weight = 5
+  weight = 6
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 [[main]]
   name = "Imprint"
   url = "impressum"
-  weight = 7
+  weight = 8
 
 [[main]]
   name = "Privacy policy"
   url = "datenschutzerklaerung"
-  weight = 8
+  weight = 9
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
