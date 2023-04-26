@@ -48,9 +48,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-#url_slides = "https://github.com/sparsick/k8s-dev-survival-kit-talk/blob/ittage365-22/slides/2022.06%20-IT%20Tage%20365%20-%20Kubernetes%20Developer%20Survival%20Kit.pdf"
+url_slides = "https://github.com/sparsick/k8s-dev-survival-kit-talk/blob/ittage365-23/slides/2023.04%20-IT%20Tage%20365%20-%20Kubernetes%20Developer%20Survival%20Kit.pdf"
 url_video = ""
-#url_code = "https://github.com/sparsick/k8s-dev-survival-kit-talk/tree/ittage365-22"
+url_code = "https://github.com/sparsick/k8s-dev-survival-kit-talk/tree/ittage365-23"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
