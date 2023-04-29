@@ -43,9 +43,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-# url_slides: "https://github.com/sparsick/test-tool-talk/blob/wjax-20/slides/2020.11%20-%20WJAX%20-%20Ich%20packe%20meinen%20Testtoolkoffer%20und%20nehme%20mit.pdf"
+url_slides: "https://github.com/sparsick/test-tool-talk/blob/hacktalk23/slides/2023.05%20-%20Hacktalk%20-%20Ich%20packe%20meinen%20Testtoolkoffer%20und%20nehme%20mit.pdf"
 
-# url_code: "https://github.com/sparsick/test-tool-talk/tree/wjax-20"
+url_code: "https://github.com/sparsick/test-tool-talk/tree/hacktalk23"
 url_pdf:
 url_video:
 
