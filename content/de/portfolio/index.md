@@ -21,6 +21,14 @@ Mit der Einführung von Kubernetes bekommen die Entwickler aber oft die Aufgabe,
 
 Dieser Vortrag gibt eine Kurzeinführung, was Kubernetes ist und aus welchen Komponenten es besteht. Beim Durchgehen der Kompontenten und Konzepte steht die Sichtweise eines Entwicklers im Vordergrund. Am Ende nehmen die Zuhörer Good Practices anhand von Beispielen mit nach Hause.
 
+### Community - Heimat für alle Nerds oder elitärer Zirkel?
+
+Community hier, Commnity da. Viele reden von "der" Community und finden sie super toll. Für andere ist sie ein Mythos, mit dem sie nichts anfangen können, der wie ein Eliteclub von Event-Organisatoren wirkt, wo nur Auserwählte reindürfen. Kriterien für die Aufnahme: Unklar! 
+
+Was ist denn nun diese "Community" eigentlich?
+
+Sandra Parsick engagiert sich seit mehreren Jahren in verschiedenster Art und Weise in der Community. Sie erzählt welche Formen ihr Engagement hatte und welche Erfahrungen sie dabei gemacht hat - gute wie schlechte. Auch muss Community-Arbeit nicht immer etwas mit IT zu tun haben. 
+
 ### Raus aus der Wartungshölle ... zumindest ein bißchen
 Irgendwann trifft es mal jeden. Anwendungen veralten automatisch, egal, ob ein oder zehn Jahre alt, ob sie "fertig" entwickelt sind oder nicht. Die Gründe sind vielschichtig: Die Programmiersprache entwickelt sich weiter, Bibliotheken brauchen ein Update, Good Practices entwickeln sich weiter. Diese Wartungsarbeiten werden nicht gerne gemacht, da sie zum Schein unnötige Aufwände erzeugen und zum Teil recht stupide sind. Ignoriert die Entwicklerin sie, dann sammelt sie automatisch technische Schulden und die Aufwände sind in der Zukunft höher und bei Sicherheitslücken schmerzhafter.
 
