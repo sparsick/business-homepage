@@ -48,9 +48,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-#url_slides = "https://github.com/sparsick/infra-testing-talk/blob/jfstuttgart19/slides/2019.07%20-%20Java%20Forum%20Stuttgart%20-%20Testen%20von%20und%20mit%20Infrastruktur.pdf"
+url_slides = "https://github.com/sparsick/maintenance-talk/blob/jax23/slides/2023.05%20-%20JAX%20-%20Raus%20aus%20der%20Wartungshoelle.pdf"
 url_video = ""
-#url_code = "https://github.com/sparsick/infra-testing-talk/tree/jfstuttgart19"
+url_code = "https://github.com/sparsick/maintenance-talk/tree/jax23"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
