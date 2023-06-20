@@ -18,7 +18,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Basel One"
-event_url = "https://baselone.ch/speech.html?id=EFF0D8A5-3D0F-4440-A104-D960BE722B9F"
+event_url = "https://2022.baselone.ch/speech.html?id=EFF0D8A5-3D0F-4440-A104-D960BE722B9F"
 
 # Location of event.
 location = "Basel"

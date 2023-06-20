@@ -18,7 +18,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "JUG Saxony Day"
-event_url = "https://jugsaxony.day/programm/#!/P21"
+event_url = "https://jugsaxony.org/timeline/2022/10/5/JSD2022"
 
 # Location of event.
 location = "Dresden"
