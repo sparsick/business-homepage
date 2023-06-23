@@ -62,3 +62,8 @@ url_code = "https://github.com/sparsick/k8s-dev-survival-kit-talk/tree/enterjs23
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+<iframe src="https://chaos.social/@danielzenzes/110588063628169841/embed" class="mastodon-embed" style="max-height: 100%; max-width: 100%; border: 0" width="400" height="450" allowfullscreen="allowfullscreen"></iframe>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Im voll besetzten Raum 3 ist <a href="https://twitter.com/SandraParsick?ref_src=twsrc%5Etfw">@SandraParsick</a> auf der enterJS 2023 <a href="https://twitter.com/hashtag/ejs23?src=hash&amp;ref_src=twsrc%5Etfw">#ejs23</a> zu finden – und nimmt für ihren Vortrag “Kubernetes Developer Survival Kit” eine Node.js-App als Ausgangspunkt <a href="https://t.co/dVcEOQFNi2">pic.twitter.com/dVcEOQFNi2</a></p>&mdash; Maika Möbus (@maikamoebus) <a href="https://twitter.com/maikamoebus/status/1671874228365262848?ref_src=twsrc%5Etfw">June 22, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
