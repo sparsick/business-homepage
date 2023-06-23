@@ -62,3 +62,29 @@ url_code = "https://github.com/sparsick/k8s-dev-survival-kit-talk/tree/jugch23  
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+<div style="display: grid; row-gap: 50px; max-height: 100%; ">
+  <div style="display: inline-grid;">
+    <iframe src="https://mastodon.social/@sparsick/110558807295407961/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
+  </div>
+
+  <div style="display: inline-grid;">
+    <iframe src="https://mastodon.social/@sparsick/110555997105577175/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
+  </div>
+
+  <div style="display: inline-grid;">
+    <iframe src="https://mastodon.social/@sparsick/110555967383260793/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
+  </div>
+</div>
+
+
+<div style="position:relative;overflow:hidden;padding-top:56.25%;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7075800242385776640" 
+    frameborder="0" title="LinkedIn">
+  </iframe>
+</div>
+
+
+
