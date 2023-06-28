@@ -13,7 +13,7 @@ all_day = true
 authors = [""]
 
 # Abstract and optional shortened version.
-abstract = "Community hier, Community da. Viele reden von "der" Community und finden sie super toll. Für andere ist sie ein Mythos, mit dem sie nichts anfangen können, der wie ein Eliteclub von Event-Organisatoren wirkt, wo nur Auserwählte rein dürfen. Kriterien für die Aufnahme: Unklar! \n\n Was ist denn nun diese "Community" eigentlich? \n\n Sandra Parsick engagiert sich seit mehreren Jahren in verschiedenster Art und Weise in der Community. Sie erzählt, welche Formen ihr Engagement hatte und welche Erfahrungen sie dabei gemacht hat - gute wie schlechte. Auch muss Community-Arbeit nicht immer etwas mit IT zu tun haben. "
+abstract = "Community hier, Community da. Viele reden von \"der\" Community und finden sie super toll. Für andere ist sie ein Mythos, mit dem sie nichts anfangen können, der wie ein Eliteclub von Event-Organisatoren wirkt, wo nur Auserwählte rein dürfen. Kriterien für die Aufnahme: Unklar! \n\n Was ist denn nun diese \"Community\" eigentlich? \n\n Sandra Parsick engagiert sich seit mehreren Jahren in verschiedenster Art und Weise in der Community. Sie erzählt, welche Formen ihr Engagement hatte und welche Erfahrungen sie dabei gemacht hat - gute wie schlechte. Auch muss Community-Arbeit nicht immer etwas mit IT zu tun haben. "
 abstract_short = ""
 
 # Name of event and optional event URL.
