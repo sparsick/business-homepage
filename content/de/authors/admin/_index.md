@@ -84,9 +84,6 @@ social:
 #- icon: cc-paypal
 #  icon_pack: fab
 #  link: paypal.me/SandraParsick
-- icon: gift
-  icon_pack: fas
-  link: https://wishli.app/RcyJ5Tem
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
