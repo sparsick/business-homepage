@@ -48,9 +48,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-#url_slides = "https://github.com/sparsick/k8s-intro-talk/blob/fdc23/slides/23.09%20-%20FDC%20-%20K8s%20das%20unbekannte%20Wesen.pdf"
+url_slides = "https://github.com/sparsick/k8s-intro-talk/blob/cln23/slides/23.11%20-%20Cyberland%20-%20K8s%20das%20unbekannte%20Wesen.pdf"
 #url_video = ""
-#url_code = "https://github.com/sparsick/k8s-intro-talk/tree/fdc23"
+url_code = "https://github.com/sparsick/k8s-intro-talk/tree/cln23"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
