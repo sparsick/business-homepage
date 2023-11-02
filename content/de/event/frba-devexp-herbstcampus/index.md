@@ -1,5 +1,5 @@
 +++
-title = "How I met your backend – Die Geschichte eines glücklichen Fullstack-Teams"
+title = "Abgesagt: How I met your backend – Die Geschichte eines glücklichen Fullstack-Teams"
 publishDate = 2023-06-28
 draft = false
 
