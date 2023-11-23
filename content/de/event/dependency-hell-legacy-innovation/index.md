@@ -48,9 +48,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-#url_slides = "https://github.com/sparsick/maintenance-talk/blob/codingfestival23/slides/2023.06%20-%20Datev%20-%20Raus%20aus%20der%20Wartungshoelle.pdf"
+url_slides = "https://github.com/sparsick/dependency-hell-talk/blob/legacyInnovation23/slides/2023.11%20-Legacy%20Meetup%20-%20Raus%20aus%20der%20Dependencyhoelle.pdf"
 url_video = ""
-#url_code = "https://github.com/sparsick/maintenance-talk/tree/codingfestival23"
+url_code = "https://github.com/sparsick/dependency-hell-talk/tree/legacyInnovation23"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
