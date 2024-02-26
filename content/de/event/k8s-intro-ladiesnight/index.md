@@ -49,7 +49,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "https://github.com/sparsick/k8s-intro-talk/blob/cln23/slides/23.11%20-%20Cyberland%20-%20K8s%20das%20unbekannte%20Wesen.pdf"
-#url_video = ""
+url_video = "https://www.youtube.com/watch?v=7JJIImlOcX0"
 url_code = "https://github.com/sparsick/k8s-intro-talk/tree/cln23"
 
 # Featured image
