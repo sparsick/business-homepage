@@ -49,7 +49,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "https://github.com/sparsick/maintenance-talk/blob/navigate24/slides/2024.03%20-%20Navigate%20-%20Raus%20aus%20der%20Wartungshoelle.pdf"
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=VLHRI54tgCU&ab_channel=NAVIGATEKongress"
 url_code = "https://github.com/sparsick/maintenance-talk/tree/navigate24"
 
 # Featured image
