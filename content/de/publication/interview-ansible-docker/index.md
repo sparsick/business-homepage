@@ -6,7 +6,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [""]
 
-publication_types = ["3"]
+publication_types = ["interview"]
 
 # Publication name and optional abbreviated version.
 publication = "Interview im *Entwickler Magazin 3.18*"

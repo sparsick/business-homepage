@@ -15,7 +15,7 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["article-magazine"]
 
 # Publication name and optional abbreviated version.
 publication = "IT-Automatisierung mit oder ohne Docker, in: *Informatik aktuell*"

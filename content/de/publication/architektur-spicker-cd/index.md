@@ -15,7 +15,7 @@ authors = ["Stefan Zörner", "Sandra Parsick"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["document"]
 
 # Publication name and optional abbreviated version.
 publication = "Architektur Spicker Nr. 7 -  Continuous Delivery"

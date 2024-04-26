@@ -15,7 +15,7 @@ authors = ["Sandra Parsick", "Benjamin Nothdurft", "Daniel Mies"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["4"]
+publication_types = ["podcast-episode"]
 
 # Publication name and optional abbreviated version.
 publication = "Herr Mies will's wissen – Im Software-Crafting-Land mit Sandra Parsick und Benjamin Nothdurft"

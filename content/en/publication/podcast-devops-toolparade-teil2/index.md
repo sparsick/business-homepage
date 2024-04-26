@@ -15,7 +15,7 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["4"]
+publication_types = ["podcast-episode"]
 
 # Publication name and optional abbreviated version.
 publication = "DevOps auf die Ohren und ins Hirn - Devops Toolparade Teil 2"

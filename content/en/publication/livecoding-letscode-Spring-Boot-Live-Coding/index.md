@@ -13,7 +13,7 @@ publishDate: 2020-10-07T09:25:53+02:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["motion_picture"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Livecoding - Let's Code - Spring Boot Live Coding"

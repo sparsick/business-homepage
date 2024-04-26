@@ -15,7 +15,7 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["interview"]
 
 # Publication name and optional abbreviated version.
 publication = "Interview auf Jobpushy"

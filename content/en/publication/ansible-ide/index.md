@@ -13,7 +13,7 @@ publication_short = "Im *JAXenter*"
 selected = false
 url_slides = ""
 url_dataset = ""
-publication_types = ["1"]
+publication_types = ["post-weblog"]
 publication = "Beitrag im *JAXenter*"
 url_pdf = ""
 

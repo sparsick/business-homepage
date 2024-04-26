@@ -6,7 +6,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [""]
 
-publication_types = ["1"]
+publication_types = ["post-weblog"]
 
 # Publication name and optional abbreviated version.
 publication = "Gastbeitrag im Blog *Never Code Alone*"

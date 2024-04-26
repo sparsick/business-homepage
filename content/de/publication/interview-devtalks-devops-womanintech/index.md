@@ -13,7 +13,7 @@ publishDate: 2020-05-27T11:17:48+02:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3", "4"]
+publication_types: ["interview"]
 
 # Publication name and optional abbreviated publication name.
 publication: "DevTalks - Ep 3 - DevOps und Woman in Tech mit Sandra"
