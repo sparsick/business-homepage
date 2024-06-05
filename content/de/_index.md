@@ -19,16 +19,9 @@ sections:
         {{% callout note %}}
         Schnelles Auffinden relevanter Inhalte durch [Filtern von Publikationen]({{< ref "/publication/_index.md" >}}).
         {{% /callout %}}
-    filters:
-      folders:
-        - publication
-      tag: ''
-      category: ''
-      publication_type: ''
-      author: ''
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
+      filters:
+        folders:
+          - publication
     # Choose how many pages you would like to display (0 = all pages)
     count: 5
     # Choose how many pages you would like to offset by
