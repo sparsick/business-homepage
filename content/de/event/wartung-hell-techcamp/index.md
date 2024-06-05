@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2024´-06-19
+date = 2024-06-19
 all_day = true
 #time_end = 2019-02-20T08:23:32+01:00
 
