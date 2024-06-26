@@ -58,9 +58,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-#url_slides: https://github.com/sparsick/iac-qa-talk/blob/techtalk24/slides/2024.03%20-%20TechTalk%20-%20Infrastructure%20As%20Code.pdf
+url_slides: https://github.com/sparsick/iac-qa-talk/blob/techtalkdo24/slides/2024.06%20-%20TechTalk%20-%20Infrastructure%20As%20Code.pdf
 
-#url_code: https://github.com/sparsick/iac-qa-talk/tree/techtalk24
+url_code: https://github.com/sparsick/iac-qa-talk/tree/techtalkdo24
 url_pdf:
 url_video:
 
