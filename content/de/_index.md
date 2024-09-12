@@ -214,16 +214,6 @@ sections:
       #  office_hours:
       #    - 'Monday 10:00 to 13:00'
       #    - 'Wednesday 09:00 to 10:00'
-      appointment_url: '/rubberduck'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/SandraParsick'
-        - icon: keybase
-          icon_pack: fab
-          name: sparsick
-          link: 'https://keybase.io/sparsick'
     design:
       columns: '2'
 ---
