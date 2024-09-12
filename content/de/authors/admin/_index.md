@@ -69,9 +69,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sandra-parsick
-- icon: keybase
-  icon_pack: fab
-  link: https://keybase.io/sparsick
 - icon: youtube
   icon_pack: fab
   link: https://youtube.com/@sandraparsick
@@ -109,7 +106,7 @@ In meiner Freizeit engagiere ich mich in der Open Source Community, etwa für di
 - Sie brauchen in Ihrem Projekt, jemanden für den Bereich Java-Backendentwicklung, Continuous Delivery oder DevOps? Dann [kontaktieren Sie mich](/#contact) und wir finden gemeinsam heraus, wie ich Sie am besten unterstützen kann.
 - Sie brauchen jemanden, der Sie in Java oder Open Source Technologien trainiert oder wollen dazu mehr erfahren? Dann [kontaktieren Sie mich](/#contact) und wir finden gemeinsam heraus, wie ich Ihnen mit einer Schulung oder einem Vortrag helfen kann.
 - Sie sind in der Konzeptionsphase oder brauchen ein Review über ihr bestehendes System? Dann [kontaktieren  Sie mich](/#contact) und wir finden gemeinsam heraus, wie ich Ihnen mit einem Workshop helfen kann.
-- Sie haben ein konkretes IT-Problem und brauchen einen Sparringspartner oder einfach jemanden als Rubber Duck? Dann buchen Sie einfach einen [Video Call](/rubberduck) bei mir.
+- Sie haben ein konkretes IT-Problem und brauchen einen Sparringspartner oder einfach jemanden als Rubber Duck? Dann [kontaktieren Sie mich](/#contact) und wir finden gemeinsam heraus, wie ich Ihnen punktuell helfen kann.
 
 
 ### Wie Sie meine Arbeit für die Community unterstützen können
