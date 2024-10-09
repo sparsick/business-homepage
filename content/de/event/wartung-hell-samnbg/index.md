@@ -17,7 +17,7 @@ abstract = "Irgendwann trifft es mal jeden. Anwendungen veralten automatisch, eg
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Software Architektur Meetup"
+event = "Software Architecture Meetup"
 event_url = "https://www.meetup.com/software-architecture-meetup-nurnberg/events/300609991/"
 
 # Location of event.
@@ -48,9 +48,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-#url_slides = "https://github.com/sparsick/maintenance-talk/blob/oop2023/slides/2023.02%20-%20OOP%20-%20Raus%20aus%20der%20Wartungshoelle.pdf"
+url_slides = "https://github.com/sparsick/maintenance-talk/blob/samnb24/slides/2024.10%20-%20Software%20Architektur%20Meetup%20-%20Raus%20aus%20der%20Wartungshoelle.pdf"
 url_video = ""
-#url_code = "https://github.com/sparsick/maintenance-talk/tree/oop2023"
+url_code = "https://github.com/sparsick/maintenance-talk/tree/samnb24"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
