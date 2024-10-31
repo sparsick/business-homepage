@@ -13,6 +13,16 @@ share: false
 
 ## Vorträge
 
+### Dev Env Reloaded - Die lokale Entwicklungsumgebung neu gedacht
+
+Yeah, eine neue Kollegin kommt ins Team. Mäh, das Onboarding wird wieder ewig dauern. 
+Yeah, du bekommst einen neuen Arbeitslaptop. Mäh, das Aufsetzen wird wieder ewig dauern.
+Yeah, cool, ich darf einen neuen Technologiestack benutzen. Mäh, wie bekomme ich das lokal mit meinem bisherigen Stack verheiratet.
+
+Situationen, die jede Entwicklerin innerlich zusammen zucken lassen. Oft behilft sich das Team mit Dokumentation, die nicht immer aktuell ist oder für neue Kontexte gar nicht vorhanden ist.
+
+Dieser Vortrag stellt anhand eines gemischten Technologiestacks (Java und JavaScript) vor, wie das Team, mit bestehendem Tooling aus dem jeweiligen Stack, die Schmerzen verkleinern kann. Ausgehend davon zeigt es, wie neue Werkzeuge wie Devcontainer (basierend auf Container) und Devenv (basierend auf Nix) lokale Entwicklungsumgebungen schmerzfrei pflegbar machen können. 
+
 ### Kubernetes, das unbekannte Wesen - Der Schnelleinstieg für Entwickler
 
 Kubernetes ist omnipräsent. Entweder laufen die Anwendungen in Kubernetes oder sollen in Kubernetes laufen. Entwickler mögen sich jetzt denken "Aber was hat die Kubernetes-Infrastruktur mit mir als Entwickler zu tun?"
