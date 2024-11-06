@@ -62,3 +62,7 @@ url_code = "https://github.com/sparsick/maintenance-talk/tree/techcamp24"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+
+
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7217512002531815424)
