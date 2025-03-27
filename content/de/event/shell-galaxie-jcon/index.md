@@ -1,5 +1,5 @@
 +++
-title = "Per Shell durch die Techie-Galaxie"
+title = "A Guide to the Shell Galaxy"
 publishDate = 2025-03-01
 draft = false
 
@@ -13,7 +13,7 @@ all_day = true
 authors = []
 
 # Abstract and optional shortened version.
-abstract = "Die Shell ist oft die schnellere Antwort auf viele Probleme im Techie-Alltag. Dieser Vortrag geht typische Techie Alltagssituationen durch und zeigt wie die Shell da helfen kann. Angefangen, bei der Auswahl von Shell und Terminal-Emulator bis hin zur Demonstration einiger Werkzeuge für die Shell. Dieser Talk ist für Techies aller Erfahrungsstufen. Ich zeige euch mein Setup, das sich seit einiger Zeit bewährt hat. Am Ende ist auch noch etwas Zeit für Tool-Austausch mit euch. ."
+abstract = "The shell is often the quicker answer to many problems in everyday techie life. This lecture goes through typical everyday techie situations and shows how the shell can help. Starting with the selection of shell and terminal emulator up to the demonstration of some tools for the shell.\n This talk is for techies of all experience levels. I will show you my setup, which has proven itself for some time. "
 abstract_short = ""
 
 # Name of event and optional event URL.
@@ -21,7 +21,7 @@ event = "JCON Europe"
 event_url = "https://schedule.jcon.one/session/768230"
 
 # Location of event.
-location = "Köln"
+location = "Köln/Cologne"
 
 # Is this a selected talk? (true/false)
 selected = false
