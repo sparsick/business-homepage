@@ -15,13 +15,13 @@ share: false
 
 ### Dev Env Reloaded - Die lokale Entwicklungsumgebung neu gedacht
 
-Yeah, eine neue Kollegin kommt ins Team. Mäh, das Onboarding wird wieder ewig dauern. 
+Yeah, eine neue Kollegin kommt ins Team. Mäh, das Onboarding wird wieder ewig dauern.
 Yeah, du bekommst einen neuen Arbeitslaptop. Mäh, das Aufsetzen wird wieder ewig dauern.
 Yeah, cool, ich darf einen neuen Technologiestack benutzen. Mäh, wie bekomme ich das lokal mit meinem bisherigen Stack verheiratet.
 
 Situationen, die jede Entwicklerin innerlich zusammen zucken lassen. Oft behilft sich das Team mit Dokumentation, die nicht immer aktuell ist oder für neue Kontexte gar nicht vorhanden ist.
 
-Dieser Vortrag stellt anhand eines gemischten Technologiestacks (Java und JavaScript) vor, wie das Team, mit bestehendem Tooling aus dem jeweiligen Stack, die Schmerzen verkleinern kann. Ausgehend davon zeigt es, wie neue Werkzeuge wie Devcontainer (basierend auf Container) und Devenv (basierend auf Nix) lokale Entwicklungsumgebungen schmerzfrei pflegbar machen können. 
+Dieser Vortrag stellt anhand eines gemischten Technologiestacks (Java und JavaScript) vor, wie das Team, mit bestehendem Tooling aus dem jeweiligen Stack, die Schmerzen verkleinern kann. Ausgehend davon zeigt es, wie neue Werkzeuge wie Devcontainer (basierend auf Container) und Devshell (basierend auf Nix) lokale Entwicklungsumgebungen schmerzfrei pflegbar machen können.
 
 ### Kubernetes, das unbekannte Wesen - Der Schnelleinstieg für Entwickler
 
@@ -33,11 +33,11 @@ Dieser Vortrag gibt eine Kurzeinführung, was Kubernetes ist und aus welchen Kom
 
 ### Community - Heimat für alle Nerds oder elitärer Zirkel?
 
-Community hier, Commnity da. Viele reden von "der" Community und finden sie super toll. Für andere ist sie ein Mythos, mit dem sie nichts anfangen können, der wie ein Eliteclub von Event-Organisatoren wirkt, wo nur Auserwählte reindürfen. Kriterien für die Aufnahme: Unklar! 
+Community hier, Commnity da. Viele reden von "der" Community und finden sie super toll. Für andere ist sie ein Mythos, mit dem sie nichts anfangen können, der wie ein Eliteclub von Event-Organisatoren wirkt, wo nur Auserwählte reindürfen. Kriterien für die Aufnahme: Unklar!
 
 Was ist denn nun diese "Community" eigentlich?
 
-Sandra Parsick engagiert sich seit mehreren Jahren in verschiedenster Art und Weise in der Community. Sie erzählt welche Formen ihr Engagement hatte und welche Erfahrungen sie dabei gemacht hat - gute wie schlechte. Auch muss Community-Arbeit nicht immer etwas mit IT zu tun haben. 
+Sandra Parsick engagiert sich seit mehreren Jahren in verschiedenster Art und Weise in der Community. Sie erzählt welche Formen ihr Engagement hatte und welche Erfahrungen sie dabei gemacht hat - gute wie schlechte. Auch muss Community-Arbeit nicht immer etwas mit IT zu tun haben.
 
 ### Raus aus der Wartungshölle ... zumindest ein bißchen
 Irgendwann trifft es mal jeden. Anwendungen veralten automatisch, egal, ob ein oder zehn Jahre alt, ob sie "fertig" entwickelt sind oder nicht. Die Gründe sind vielschichtig: Die Programmiersprache entwickelt sich weiter, Bibliotheken brauchen ein Update, Good Practices entwickeln sich weiter. Diese Wartungsarbeiten werden nicht gerne gemacht, da sie zum Schein unnötige Aufwände erzeugen und zum Teil recht stupide sind. Ignoriert die Entwicklerin sie, dann sammelt sie automatisch technische Schulden und die Aufwände sind in der Zukunft höher und bei Sicherheitslücken schmerzhafter.
@@ -49,8 +49,16 @@ Immer mehr Entwicklerinnen schreiben Anwendungen, die später in einem Kubernete
 
 Dieser Vortrag geht am Beispiel einer Java-Anwendung die typischen Entwicklungschritte von der Ablage im VCS bis hin zum Deployment auf einem Cluster aus Sicht einer Entwicklerin durch.
 
-### Per Shell durch die Techie-Galaxie
+### Per Shell durch die Techie-Galaxie / A Guide to the Shell Galaxy
+*Deutsch*
+
 Die Shell ist oft die schnellere Antwort auf viele Probleme im Techie-Alltag. Dieser Vortrag geht typische Techie Alltagsituationen durch und zeigt wie die Shell da helfen kann. Angefangen, bei der Auswahl von Shell und Terminal-Emulator bis hin zur Demonstration einiger Werkzeuge für die Shell. Dieser Talk ist für Techies aller Erfahrungsstufen. Ich zeige euch mein Setup, das sich seit einiger Zeit bewährt hat. Am Ende ist auch noch etwas Zeit für Tool-Austausch mit euch.
+
+*English*
+
+The shell is often the quicker answer to many problems in everyday techie life. This lecture goes through typical everyday techie situations and shows how the shell can help. Starting with the selection of shell and terminal emulator up to the demonstration of some tools for the shell.
+
+This talk is for techies of all experience levels. I will show you my setup, which has proven itself for some time.
 
 ### Infrastructure as Code - Muss man nicht testen, Hauptsache es läuft
 Mittlerweile wird die Infrastruktur immer mehr mithilfe von Code (Provisionierungsskripte, Dockerfiles, (Shell-) Skripte etc. ) beschrieben und
