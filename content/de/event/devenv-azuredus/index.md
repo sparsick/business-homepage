@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2025-03-11
+date = 2025-04-15
 all_day = true
 #time_end = 2019-02-20T08:23:32+01:00
 
@@ -13,12 +13,12 @@ all_day = true
 authors = []
 
 # Abstract and optional shortened version.
-abstract = "Yeah, eine neue Kollegin kommt ins Team. Mäh, das Onboarding wird wieder ewig dauern.\n Yeah, du bekommst einen neuen Arbeitslaptop. Mäh, das Aufsetzen wird wieder ewig dauern.\nYeah, cool, ich darf einen neuen Technologiestack benutzen. Mäh, wie bekomme ich das Lokal mit meinem bisherigen Stack verheiratet.\n Situationen, die jede Entwicklerin innerlich zusammen zucken lassen. Oft behilft sich das Team mit Dokumentation, die nicht immer aktuell ist oder für neue Kontexte gar nicht vorhanden ist. \nDieser Vortrag stellt anhand eines gemischten Technologiestacks (Java und JavaScript) vor, wie das Team, mit bestehendem Tooling aus dem jeweiligen Stack, die Schmerzen verkleinern kann. Ausgehend davon zeigt es, wie neue Werkzeuge wie Devcontainer (basierend auf Container) und Devenv (basierend auf Nix) lokale Entwicklungsumgebungen schmerzfrei pflegbar machen können. "
+abstract = "Yeah, eine neue Kollegin kommt ins Team. Mäh, das Onboarding wird wieder ewig dauern.\n Yeah, du bekommst einen neuen Arbeitslaptop. Mäh, das Aufsetzen wird wieder ewig dauern.\nYeah, cool, ich darf einen neuen Technologiestack benutzen. Mäh, wie bekomme ich das Lokal mit meinem bisherigen Stack verheiratet.\n Situationen, die jede Entwicklerin innerlich zusammen zucken lassen. Oft behilft sich das Team mit Dokumentation, die nicht immer aktuell ist oder für neue Kontexte gar nicht vorhanden ist. \nDieser Vortrag stellt anhand eines gemischten Technologiestacks (Java und JavaScript) vor, wie das Team, mit bestehendem Tooling aus dem jeweiligen Stack, die Schmerzen verkleinern kann. Ausgehend davon zeigt es, wie neue Werkzeuge wie Devcontainer (basierend auf Container) und Devshell (basierend auf Nix) lokale Entwicklungsumgebungen schmerzfrei pflegbar machen können. "
 abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Azure Meetup Düsseldorf"
-event_url = "https://www.meetup.com/azure-meetup-dusseldorf/events/304160411/"
+#event_url = "https://www.meetup.com/azure-meetup-dusseldorf/events/304160411/"
 
 # Location of event.
 location = "Düsseldorf"
