@@ -1,11 +1,11 @@
 +++
 title = "Toter der Woche - Real Existierende Agilität? "
-publishDate = 2025-05-13
+publishDate = 2025-04-13
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2025-02-14
+date = 2025-05-13
 all_day = true
 #time_end = 2019-02-20T08:23:32+01:00
 

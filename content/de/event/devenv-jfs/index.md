@@ -1,11 +1,11 @@
 +++
 title = "Dev Env Reloaded - Die lokale Entwicklungsumgebung neu gedacht"
-publishDate = 2025-09-10
+publishDate = 2025-04-28
 draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2025-03-12
+date = 2025-07-10
 all_day = true
 #time_end = 2019-02-20T08:23:32+01:00
 
@@ -18,7 +18,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "JUG Bonn"
-event_url = ""
+event_url = "https://www.java-forum-stuttgart.de/vortraege/dev-env-reloaded-die-lokale-entwicklungsumgebung-neu-gedacht/"
 
 # Location of event.
 location = "Bonn"
