@@ -5,7 +5,7 @@ draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2025-07-10
+date = 2025-07-24
 all_day = true
 #time_end = 2019-02-20T08:23:32+01:00
 
@@ -17,11 +17,11 @@ abstract = "Yeah, eine neue Kollegin kommt ins Team. Mäh, das Onboarding wird w
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Java Forum Stuttgart"
-event_url = "https://www.java-forum-stuttgart.de/vortraege/dev-env-reloaded-die-lokale-entwicklungsumgebung-neu-gedacht/"
+event = "JUG Darmstadt"
+event_url = "https://www.jug-da.de/2025/07/dev-env-reloaded/"
 
 # Location of event.
-location = "Stuttgart"
+location = "Darmstadt"
 
 # Is this a selected talk? (true/false)
 selected = false
