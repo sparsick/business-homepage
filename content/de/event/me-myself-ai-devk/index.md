@@ -1,7 +1,7 @@
 +++
 title = "Me, myself and (Gen)Al - Wie sich der Dev-Alltag verändert - Ein Erfahrungsbericht"
 publishDate = 2025-06-05
-draft = true
+draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

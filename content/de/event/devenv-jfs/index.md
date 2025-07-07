@@ -1,7 +1,7 @@
 +++
 title = "Dev Env Reloaded - Die lokale Entwicklungsumgebung neu gedacht"
 publishDate = 2025-04-28
-draft = true
+draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
