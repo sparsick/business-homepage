@@ -48,9 +48,9 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-#url_slides = "https://github.com/sparsick/maintenance-talk/blob/techcamp24/slides/2024.06%20-%20TechCamp-%20Raus%20aus%20der%20Wartungshoelle.pdf"
+url_slides = "https://codeberg.org/sparsick/dev-env-talk/src/branch/jsf25/slides/2025-07%20-%20JFS%20-%20Dev%20Env%20Reloaded.pdf"
 url_video = ""
-#url_code = "https://github.com/sparsick/maintenance-talk/tree/techcamp24"
+url_code = "https://codeberg.org/sparsick/dev-env-talk/src/branch/jsf25/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
